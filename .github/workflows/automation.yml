@@ -1,0 +1,38 @@
+name: 15-Min Auto Update Playlist & Images
+
+on:
+  schedule:
+    # প্রতি ১৫ মিনিট পরপর অটোমেটিক রান হবে
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pillow
+
+      - name: Run Automation Script
+        env:
+          SOURCE_URLS: ${{ secrets.SOURCE_URLS }}
+        run: python automate.py
+
+      - name: Push Updated Files to Repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add output/
+          git diff-index --quiet HEAD || git commit -m "Auto update: 15-min refresh playlist and images"
+          git push

@@ -1,21 +1,21 @@
 [
     {
-        "title": "Sunrisers Leeds vs Southern Brave | The Hundred Men's Competition 2026",
-        "category": "Cricket",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848756971020x576men.jpg",
-        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
         "title": "West indies vs Pakistan | Pakistan Tour of West Indies 2026",
         "category": "Cricket",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8"
     },
     {
-        "title": "Netherlands Vs Namibia | ICC CWC League 2 Netherlands 2026 (ENGLISH)",
+        "title": "Welsh Fire vs MI London | The Hundred Men's Competition 2026",
         "category": "Cricket",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_namibia_4246705_english.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+    },
+    {
+        "title": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League 2026 (ENGLISH)",
+        "category": "Cricket",
+        "logo": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
     },
     {
         "title": "West Indies Vs Pakistan | Pakistan Tour Of West Indies 2026 (ENGLISH)",
@@ -24,39 +24,27 @@
         "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
     },
     {
-        "title": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League 2026 (ENGLISH)",
-        "category": "Cricket",
-        "logo": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
-    },
-    {
-        "title": "Sunrisers Leeds Vs Southern Brave | The Hundred Men'S Competition 2026",
-        "category": "Cricket",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848756971020x576men.jpg",
-        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
         "title": "West Indies Vs Pakistan | Pakistan Tour Of West Indies 2026",
         "category": "Cricket",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8"
     },
     {
-        "title": "Netherlands Vs Namibia | ICC CWC League 2 Netherlands 2026 (ENGLISH)",
+        "title": "Welsh Fire Vs MI London | The Hundred Men'S Competition 2026",
         "category": "Cricket",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_namibia_4246705_english.m3u8"
-    },
-    {
-        "title": "West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)",
-        "category": "Cricket",
-        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     },
     {
         "title": "Colombo Kaps Vs Dambulla Sixers | Lanka Premier League 2026 (ENGLISH)",
         "category": "Cricket",
         "logo": "https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png",
         "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_dambulla_sixers_4246721_english.m3u8"
+    },
+    {
+        "title": "West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)",
+        "category": "Cricket",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8"
     }
 ]

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/29.png" group-title="Indian Bangla, Bangla",ZEE BANGLA CINEMA
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=33eb90cb5993505e7adebcdc9fe5a680f5ff40b4-89433e784e249e183a59446474d0fff1-1780020920-1780010120
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/34.png" group-title="Indian Bangla, Bangla",ZEE BANGLA
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Indian Bangla, Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla, Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla, Bangla",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Indian Bangla, Bangla",Bangla Movies
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Indian Bangla, Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8

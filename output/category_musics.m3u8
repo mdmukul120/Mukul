@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Musics",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxHDgzn7/images.jpg" group-title="Musics",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Musics",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="Musics",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/b4umusic.png" group-title="Musics",B4U Musics
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u_music/index.m3u8?token=c8e1b3ce4fc9be68c84c9bba76eef808a3d55290-236586535b0196bd8ca943fe94d83b05-1780020920-1780010120

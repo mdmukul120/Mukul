@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Sangeet Bangla",
+        "category": "Musics",
+        "logo": "https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    },
+    {
+        "title": "Music India",
+        "category": "Musics",
+        "logo": "https://i.postimg.cc/yxHDgzn7/images.jpg",
+        "url": "http://103.175.73.12:8080/live/158/158_0.m3u8"
+    },
+    {
+        "title": "Power Turk",
+        "category": "Musics",
+        "logo": "https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a",
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
+    },
+    {
+        "title": "Party Universe",
+        "category": "Musics",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8"
+    },
+    {
+        "title": "B4U Musics",
+        "category": "Musics",
+        "logo": "https://tvassets.roarzone.net/images/b4umusic.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/b4u_music/index.m3u8?token=c8e1b3ce4fc9be68c84c9bba76eef808a3d55290-236586535b0196bd8ca943fe94d83b05-1780020920-1780010120"
+    }
+]

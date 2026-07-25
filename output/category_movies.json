@@ -1,0 +1,248 @@
+[
+    {
+        "title": "Sony Max",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1784988040974|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDB9fX1dfQ&edge-signature=7VxZEp4e7c4e7U5dn5gQ99D7-ET5g6LvLuJy-G2o9Is"
+    },
+    {
+        "title": "Sony Pix",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1784988042509|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDJ9fX1dfQ&edge-signature=MpMDgEs00O11-WXdlVU8TT92FFaRdWD~F11WF6GzxDU"
+    },
+    {
+        "title": "Originals",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDN9fX1dfQ&edge-signature=8rsnn8vRwt6fYjD81JAdh~1Veb8eRVMHEXujYe~bWF0"
+    },
+    {
+        "title": "Cineedge HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NDk5ODg0M319fV19&edge-signature=eXXg969pJiq4s67asww9aN17Te084ODqWqJt7rZweGs"
+    },
+    {
+        "title": "Superrix HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NDk5ODg0M319fV19&edge-signature=OeLOsoHtjYj02oAFSAP0P6i6mw6GPyzjJTE6h-6Fw2E"
+    },
+    {
+        "title": "Uniques HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg0OTk4ODQzfX19XX0&edge-signature=AcJCS5m3NK3WoQdWjPwv4WvmkoOcQghPL~h7ObBJTKc"
+    },
+    {
+        "title": "Screem",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDN9fX1dfQ&edge-signature=LZC8K~QaKxMrWKDWr-M9XracqM1FTQZ6MZH7QnfDkJk"
+    },
+    {
+        "title": "Crimes",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDR9fX1dfQ&edge-signature=BGOOTMkB5ZmPhEu9GOcqoLe5yRz-SRFBYMNh~g5-J1U"
+    },
+    {
+        "title": "True Stories",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NDk5ODg0NH19fV19&edge-signature=UvUuv~quhWNwZx6fxei00N0Kzck~51NL8gUx~GpB4Ik"
+    },
+    {
+        "title": "Intelligence",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDR9fX1dfQ&edge-signature=Ze0F-Ly3GIpesPxiX8bodhceIH6-u4hEKxBjiBiKTOk"
+    },
+    {
+        "title": "TELECOSTA GUATEMALA 🇬🇹",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/g2635VB1/download.jpg",
+        "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
+    },
+    {
+        "title": "TELEMUNDO 🇲🇽",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/qBwfhnwn/download.png",
+        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+    },
+    {
+        "title": "Star Movies HD",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/xCTcPf2L/Screenshot-2026-05-30-130458.png",
+        "url": "http://198.195.239.50:8095/StarMovies/index.m3u8"
+    },
+    {
+        "title": "Persiana Korea",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/LXRDth9s/download.png",
+        "url": "https://korhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+        "title": "Cineedge HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8"
+    },
+    {
+        "title": "Uniques HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8"
+    },
+    {
+        "title": "Superrix HD",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8"
+    },
+    {
+        "title": "Screem",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/90cNm5ck/images.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8"
+    },
+    {
+        "title": "Crimes",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/yNPZMwr7/images.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8"
+    },
+    {
+        "title": "True Stories",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/X7dc2D3v/image.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8"
+    },
+    {
+        "title": "Intelligence",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/CK3x6Jww/download.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8"
+    },
+    {
+        "title": "Originals",
+        "category": "Movies",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8"
+    },
+    {
+        "title": "Goldmines Movies",
+        "category": "Movies",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+    {
+        "title": "Goldmines Movies 2",
+        "category": "Movies",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
+    },
+    {
+        "title": "Alankar TV (720p)",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png",
+        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8"
+    },
+    {
+        "title": "ETV Cinema HD (1080p)",
+        "category": "Movies",
+        "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
+        "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8"
+    },
+    {
+        "title": "Kairali We (576p)",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png",
+        "url": "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+    },
+    {
+        "title": "Maha Movie (576p)",
+        "category": "Movies",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
+        "url": "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+    },
+    {
+        "title": "Manoranjan Grand (720p)",
+        "category": "Movies",
+        "logo": "https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
+    },
+    {
+        "title": "Oscar Movies Bhojpuri (720p)",
+        "category": "Movies",
+        "logo": "https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png?lock=720x540",
+        "url": "https://cdn-4.pishow.tv/live/233/master.m3u8"
+    },
+    {
+        "title": "Pitaara (720p)",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",
+        "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
+    },
+    {
+        "title": "Raj Digital Plus (1080p)",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
+    },
+    {
+        "title": "Roja Movies (1080p)",
+        "category": "Movies",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
+    },
+    {
+        "title": "Shubh Cinema TV (720p)",
+        "category": "Movies",
+        "logo": "https://i.imgur.com/RQhorAG.png",
+        "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8"
+    },
+    {
+        "title": "South Station (1080p)",
+        "category": "Movies",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png",
+        "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8"
+    },
+    {
+        "title": "Studio One + (720p)",
+        "category": "Movies",
+        "logo": "https://i.imgur.com/yOPB7JB.png",
+        "url": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+    },
+    {
+        "title": "Suriyan TV (576p)",
+        "category": "Movies",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",
+        "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
+    },
+    {
+        "title": "Thalaa TV (1080p)",
+        "category": "Movies",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8"
+    },
+    {
+        "title": "The Movie Club (1080p)",
+        "category": "Movies",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png",
+        "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8"
+    },
+    {
+        "title": "The Movie Club +2 (1080p)",
+        "category": "Movies",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",
+        "url": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf"
+    },
+    {
+        "title": "Tolly TV (1080p)",
+        "category": "Movies",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8"
+    }
+]

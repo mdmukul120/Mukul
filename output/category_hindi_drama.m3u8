@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrQRFMHr/images.jpg" group-title="Hindi, Drama",SONY TV HD
+http://198.195.239.50:8095/SonyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43khqd0Y/images.jpg" group-title="Hindi, Drama",STAR PLUS HD
+http://198.195.239.50:8095/StarPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6t43wZ/images.jpg" group-title="Hindi, Drama",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8

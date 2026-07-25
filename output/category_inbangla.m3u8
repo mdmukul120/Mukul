@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="Inbangla",ENTER10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Inbangla",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6DhuRXGs_kZuJmKdAm2AjZh9mXtj0ieTG77_vwYuug&s" group-title="Inbangla",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweRp_d3WoEmdfZ5jyzM4pVULm_SUR-JRW9u9Fnrj1rg&s=10" group-title="Inbangla",SANANDA TV
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?_=20220522140347" group-title="Inbangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8

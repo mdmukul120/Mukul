@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Tropoja TV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8"
+    },
+    {
+        "title": "CGTN Documentary",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8"
+    },
+    {
+        "title": "Discover Pakistan",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8"
+    },
+    {
+        "title": "Nexus TV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8"
+    },
+    {
+        "title": "RT TV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8"
+    },
+    {
+        "title": "Everyday Heros",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8"
+    },
+    {
+        "title": "Wid Earth",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+    },
+    {
+        "title": "Wid Earth [ Source 2 ]",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist.m3u8"
+    },
+    {
+        "title": "Open TV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boulive.stream/playlist.m3u8"
+    },
+    {
+        "title": "Real Wlid",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8"
+    },
+    {
+        "title": "Real Wlid [ Source 2 ]",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8"
+    },
+    {
+        "title": "Military Times",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8"
+    },
+    {
+        "title": "VOA 52 Documentary",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8"
+    },
+    {
+        "title": "ESA TV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/esatv.stream/playlist.m3u8"
+    },
+    {
+        "title": "UNTV",
+        "category": "Documentary & Education",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/untv.stream/playlist.m3u8"
+    }
+]

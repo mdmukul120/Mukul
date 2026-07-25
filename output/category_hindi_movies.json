@@ -1,0 +1,14 @@
+[
+    {
+        "title": "SONY MAX HD",
+        "category": "Hindi, Movies",
+        "logo": "https://i.postimg.cc/MTzqj2cJ/images.jpg",
+        "url": "http://198.195.239.50:8095/SonyMAX/index.m3u8"
+    },
+    {
+        "title": "STAR GOLD HD",
+        "category": "Hindi, Movies",
+        "logo": "https://i.postimg.cc/8kMkX4S9/sa-ta-ra-ga-la-da-la-ga.jpg",
+        "url": "http://198.195.239.50:8095/StarGold/index.m3u8"
+    }
+]

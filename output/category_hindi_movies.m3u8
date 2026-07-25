@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTzqj2cJ/images.jpg" group-title="Hindi, Movies",SONY MAX HD
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kMkX4S9/sa-ta-ra-ga-la-da-la-ga.jpg" group-title="Hindi, Movies",STAR GOLD HD
+http://198.195.239.50:8095/StarGold/index.m3u8

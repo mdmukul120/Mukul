@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",CGTN News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",News Nation
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",France 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",VOA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",AL Jazeera
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",DW News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",CNN INT
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",RT
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",Duniya News
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",9 News
+https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",Freedom
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",VOA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",Euro News
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",Press TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/presstv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",Africa News
+https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="International News",CSB News USA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/csbnewsbd.stream/playlist.m3u8

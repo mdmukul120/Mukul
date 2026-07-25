@@ -1,0 +1,32 @@
+[
+    {
+        "title": "National Geographic HD",
+        "category": "Entertainment, English",
+        "logo": "https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b",
+        "url": "https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1779283873&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b98710c5aef12640970c358e3a0472e5"
+    },
+    {
+        "title": "DISCOVERY HD",
+        "category": "Entertainment, English",
+        "logo": "https://i.postimg.cc/sDbcf38y/images.png",
+        "url": "http://198.195.239.50:8095/Discovery/index.m3u8"
+    },
+    {
+        "title": "NATIONAL GEOGRAPHIC HD",
+        "category": "Entertainment, English",
+        "logo": "https://i.postimg.cc/brhDrNbS/download.png",
+        "url": "http://198.195.239.50:8095/NationalGeographic/index.m3u8"
+    },
+    {
+        "title": "Discovery HD Arabic",
+        "category": "Entertainment, English",
+        "logo": "https://i.postimg.cc/0jFVSCjT/download.jpg",
+        "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+    },
+    {
+        "title": "Amazon SAT",
+        "category": "Entertainment, English",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    }
+]

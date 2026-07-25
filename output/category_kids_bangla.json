@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Rongeen TV",
+        "category": "Kids, Bangla",
+        "logo": "https://i.postimg.cc/KYXsFJwR/IMG-20260529-210059.png",
+        "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "title": "Sonic Bangla",
+        "category": "Kids, Bangla",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png",
+        "url": "http://103.204.43.87:8080/live/1/1/274.m3u8"
+    }
+]

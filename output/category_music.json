@@ -1,0 +1,176 @@
+[
+    {
+        "title": "9XM",
+        "category": "Music",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8"
+    },
+    {
+        "title": "Birit Asia TV",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/ad785215-9b76-421c-b7c9-ec8c7670ceff/0.m3u8"
+    },
+    {
+        "title": "Trace Urban",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/traceurban.stream/playlist.m3u8"
+    },
+    {
+        "title": "V2 Beat TV",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/v2beattv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Joo Music",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+    },
+    {
+        "title": "9XM",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/9xmin.stream/playlist.m3u8"
+    },
+    {
+        "title": "ATN Music",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8"
+    },
+    {
+        "title": "Balle Balle",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "title": "Saga Music",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "title": "Masti",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mastiiiin.stream/playlist.m3u8"
+    },
+    {
+        "title": "91NRG",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://5c389faa13be3.streamlock.net/onweb/live/chunklist_w282239334.m3u8"
+    },
+    {
+        "title": "E24",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/e24in.stream/playlist.m3u8"
+    },
+    {
+        "title": "9x Jalwa",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8"
+    },
+    {
+        "title": "Zoom",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8"
+    },
+    {
+        "title": "Music India",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://tvsen6.aynaott.com/MusicIndia/index.m3u8"
+    },
+    {
+        "title": "Burno TV",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://stream1.xdevel.com/video0s975758-1047/stream/chunks.m3u8"
+    },
+    {
+        "title": "Colosal TV",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8"
+    },
+    {
+        "title": "ShowBox",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/showboxin.stream/playlist.m3u8"
+    },
+    {
+        "title": "8XM",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/8xmpk.stream/playlist.m3u8"
+    },
+    {
+        "title": "Music Bangla",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8"
+    },
+    {
+        "title": "Music Bangla TV",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8"
+    },
+    {
+        "title": "Channel 5",
+        "category": "Music",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8"
+    },
+    {
+        "title": "9X Tashan",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8"
+    },
+    {
+        "title": "9X Jalwa",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
+    },
+    {
+        "title": "9X Jhakaas",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8"
+    },
+    {
+        "title": "Sangeet Bangla",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/LmVOSdl3ku.png",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    },
+    {
+        "title": "Bengali Beat",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://tplay.live/originals/bengali-beats/index.m3u8"
+    },
+    {
+        "title": "Albania Music",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://albportal.net/albkanalemusic.m3u8"
+    },
+    {
+        "title": "Party Universe",
+        "category": "Music",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9wYXJ0eXVuaXZlcnNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg0OTk4ODQyfX19XX0&edge-signature=F0uWjqe4Zt~728oLrT0XKaCFE-crh2hf-4HHuRjflpg"
+    }
+]

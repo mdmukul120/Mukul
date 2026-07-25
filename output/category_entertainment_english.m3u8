@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="Entertainment, English",National Geographic HD
+https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1779283873&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b98710c5aef12640970c358e3a0472e5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDbcf38y/images.png" group-title="Entertainment, English",DISCOVERY HD
+http://198.195.239.50:8095/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brhDrNbS/download.png" group-title="Entertainment, English",NATIONAL GEOGRAPHIC HD
+http://198.195.239.50:8095/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jFVSCjT/download.jpg" group-title="Entertainment, English",Discovery HD Arabic
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Entertainment, English",Amazon SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8

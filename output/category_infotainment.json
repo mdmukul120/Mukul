@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Delicious",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9kZWxpY2lvdXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDJ9fX1dfQ&edge-signature=laSxONTtCkxGvcPQxIvienb8~Gc0pf5yqXzTMyZOBog"
+    },
+    {
+        "title": "Luxell HD",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdXhlbGwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDR9fX1dfQ&edge-signature=xoSJyZP6QEpZwWpqq0RerjTZJRX3TTf-M6IGdiRjfMY"
+    },
+    {
+        "title": "Program Promo",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1783925099346.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5OTg4NDV9fX1dfQ&edge-signature=2voRhuUDcRGoOL9~-Q8TijzYmmr1lDT8XmCbtt8W7x4"
+    },
+    {
+        "title": "Luxel HD",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8"
+    },
+    {
+        "title": "Al Quran",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+    },
+    {
+        "title": "Delicious",
+        "category": "Infotainment",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8"
+    }
+]

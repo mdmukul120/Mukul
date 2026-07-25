@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - FHD server
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - HD server
+https://flussonic.deltainfonet.com/02_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Live Tv",TEN Cricket
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=ten_cricket&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Live Tv",SONY SPORTS TEN 1 HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Live Tv",SONY SPORTS TEN 2 HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Live Tv",SONY SPORTS TEN 5 HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Live Tv",Euro Sport HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=euro_sports_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Live Tv",Zee Bangla
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Live Tv",Sony Aath
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Live Tv",Discovery HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Live Tv",Discovery
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="Live Tv",CNN
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=cnn&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Live Tv",Cartoon Network HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=cartoon_network_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Live Tv",Cartoon Network
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=cartoon_network_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="Live Tv",Pogo
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=pogo_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Live Tv",Discovery Kids
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_kids&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Live Tv",SONY YAY
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyyay&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="Live Tv",Hum TV
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="Live Tv",Hum Masala
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="Live Tv",Hum Sitarey
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Live Tv",SONY ENTERTAINMENT TELEVISION HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyentertainmnt_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Live Tv",SONY ENTERTAINMENT TELEVISION
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Live Tv",SONY SAB HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonysab_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Live Tv",SONY MAX HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Live Tv",SONY MAX
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Live Tv",SONY PIX HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonypix_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Live Tv",SONY MAX 2
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Live Tv",B4U Movies
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=b4u_movies&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Live Tv",B4U Music
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=b4u_music&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="Live Tv",Zee Bangla Cinema
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla_cinema&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Live Tv",Zee Cinema HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Live Tv",Zee TV HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="Live Tv",Zee Anmol
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_anmol&e=.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg" group-title="Live Tv",Zee Bollywood
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bollywood&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTdwQnM3/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Live Tv",Zee Cafe
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_cafe_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Live Tv",Zee Action
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_action&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Live Tv",TLC
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=tlc_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Live Tv",TLC HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=tlc_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="Live Tv",Animal Planet
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=animal_planet_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="Live Tv",Animal Planet HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=animal_planet_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png" group-title="Live Tv",SONY BBC EARTH HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="Live Tv",Discovery Science
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_science&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="Live Tv",Discovery Turbo
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_turbo&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="Live Tv",Investigation Discovery HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovary_investigation_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="Live Tv",&TV HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=and_tv_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Live Tv",& Pictures HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=andpicture_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" group-title="Live Tv",Zing
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zing_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png" group-title="Live Tv",National Geographic
+https://tvsen6.aynaott.com/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hs9q_ggMJ-cUFiqqpSi-pC12G8-pdbjKo2c4Y5t1VQfB8t9_vEKOpVFGM3imFvxUbLg" group-title="Live Tv",Nick
+https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/nick-hd-logo-png_seeklogo-314639.png" group-title="Live Tv",Nick HD+
+https://live.dinesh29.com.np/stream/jiotvplus/nickhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSox9ZosTx_sp63YkOss8eFduCNV3jcyzbLVQ&s" group-title="Live Tv",Sonic Bangla
+https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" group-title="Live Tv",Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" group-title="Live Tv",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s" group-title="Live Tv",Hungama
+https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5771871bfbf60508ca13726f5a2146f6.png" group-title="Live Tv",Super Hungama
+https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Live Tv",Duronto TV
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/250px-Logo_of_Nagorik_TV.svg.png" group-title="Live Tv",Nagorik TV
+https://tvsen6.aynaott.com/nagoriktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRpiOONsUB3QNK0yf88ApGTDmMwI6p2IvNQ&s" group-title="Live Tv",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" group-title="Live Tv",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha HD
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Live Tv",Jalsha Movies
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="Live Tv",Jalsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png" group-title="Live Tv",Star Bharat
+https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a8c5acbf13de9aaff9a579b4380611a5.png" group-title="Live Tv",Star Bharat HD
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Live Tv",Colors
+https://live.dinesh29.com.np/stream/jiotv/colorssd/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Live Tv",Colors HD
+https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Live Tv",Colors Bangla
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Colors_Bangla_HD_logo_%282016-alt%29.png" group-title="Live Tv",Colors Bangla HD
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/06/Colors_Bangla_Cinema_logo_%282023-2024%29.png" group-title="Live Tv",Colors Bangla Cinema
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Live Tv",Zee Bangla HD
+https://mflixott.com/tv/plusbox/live/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XrGnKHG2/images.jpg" group-title="Live Tv",Sun Bangla
+https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLs2ZYhz/20250529-111853.png" group-title="Live Tv",Ruposhi Bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/2/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="Live Tv",Nat Geo Wild
+https://live.dinesh29.com.np/stream/jiotvplus/natgeowild/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GsKaFVeWsAAJbgi?format=jpg&name=large" group-title="Live Tv",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8

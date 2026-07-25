@@ -1,0 +1,110 @@
+[
+    {
+        "title": "CGTN News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8"
+    },
+    {
+        "title": "News Nation",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8"
+    },
+    {
+        "title": "France 24",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8"
+    },
+    {
+        "title": "VOA TV",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8"
+    },
+    {
+        "title": "AL Jazeera",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8"
+    },
+    {
+        "title": "DW News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8"
+    },
+    {
+        "title": "TRT World",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://tv-trtworld.medya.trt.com.tr/master_480.m3u8"
+    },
+    {
+        "title": "CNN INT",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8"
+    },
+    {
+        "title": "RT",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtnews.stream/playlist.m3u8"
+    },
+    {
+        "title": "Duniya News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+    },
+    {
+        "title": "9 News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8"
+    },
+    {
+        "title": "Freedom",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8"
+    },
+    {
+        "title": "VOA",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8"
+    },
+    {
+        "title": "NHK World",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"
+    },
+    {
+        "title": "Euro News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    },
+    {
+        "title": "Press TV",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/presstv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Africa News",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8"
+    },
+    {
+        "title": "CSB News USA",
+        "category": "International News",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/csbnewsbd.stream/playlist.m3u8"
+    }
+]

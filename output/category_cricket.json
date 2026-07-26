@@ -1,14 +1,38 @@
 [
     {
-        "title": "Guyana Amazon Warriors Vs Desert Vipers | Global Super League 2026 (ENGLISH)",
+        "title": "Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)",
         "category": "Cricket",
-        "logo": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_desert_vipers_4247437_english.m3u8"
+        "logo": "https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246728_english.m3u8"
     },
     {
-        "title": "Guyana Amazon Warriors Vs Desert Vipers | Global Super League 2026 (ENGLISH)",
+        "title": "India Vs Zimbabwe | India Tour Of Zimbabwe 2026 (ENGLISH) [DRM]",
         "category": "Cricket",
-        "logo": "https://images.fancode.com/aig/match/v1784653587318/4247437_CASACARDS_SPORTY_APP.png",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_desert_vipers_4247437_english.m3u8"
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd"
+    },
+    {
+        "title": "India Vs Zimbabwe | India Tour Of Zimbabwe 2026 (HINDI) [DRM]",
+        "category": "Cricket",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd"
+    },
+    {
+        "title": "Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)",
+        "category": "Cricket",
+        "logo": "https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246728_english.m3u8"
+    },
+    {
+        "title": "India Vs Zimbabwe | India tour of Zimbabwe 2026 (ENGLISH) [DRM]",
+        "category": "Cricket",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd"
+    },
+    {
+        "title": "India Vs Zimbabwe | India tour of Zimbabwe 2026 (HINDI) [DRM]",
+        "category": "Cricket",
+        "logo": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd"
     }
 ]

@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_english_dash_52319_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_english_dash_52319_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd

@@ -38,6 +38,25 @@
         ]
     },
     {
+        "category": "E Sports",
+        "slug": "e_sports",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)",
+                "category": "E Sports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            },
+            {
+                "title": "EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)",
+                "category": "E Sports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,
@@ -759,7 +778,7 @@
                 "title": "Party Universe",
                 "category": "Music",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9wYXJ0eXVuaXZlcnNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM3fX19XX0&edge-signature=37XuMN9JOdoJIB2DOItoTnSQ28mWA4SDD-ghBP-f8TM"
+                "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9wYXJ0eXVuaXZlcnNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDQxfX19XX0&edge-signature=GkPd7xflkkw1PDYCr3ZFv3nMD4aNep29~2SIa76oYho"
             }
         ]
     },
@@ -1135,67 +1154,67 @@
                 "title": "Sony Sports TEN 2",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1785060032490|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzJ9fX1dfQ&edge-signature=cPnEKkkxGyPD-euWeNw0PCnZlKI7kRhOfe49cAkyMkk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1785063636406|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0MzZ9fX1dfQ&edge-signature=AqZSeD0Bj1ssGLML0rnonV0oGYsAJUrJfKUGsaTVJVE"
             },
             {
                 "title": "Sony Sports TEN 1",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1785060032611|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzJ9fX1dfQ&edge-signature=tDzPYgRkWm4PiNN2qoa4YTHjpr19o-1QK6X91rRQMM8"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1785063636612|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0MzZ9fX1dfQ&edge-signature=M2lmZuPINtj2MN2ScsSz5USS5MRMrA9xAEmre6uQtEs"
             },
             {
                 "title": "Sony Sports TEN 5",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1785060032483|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzJ9fX1dfQ&edge-signature=BLnZFOcYwTW8cdByuTiyZVHHyqIhZA6skiOQkDM9Fjc"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1785063636739|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0MzZ9fX1dfQ&edge-signature=0vLcYrKZD4B8bsobYPk9wHGMlXdwP2fAq5PLggnUci8"
             },
             {
                 "title": "Ten Cricket",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1785060033505|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=HZ4sk06UYg1jzYkhSWxu99HgaYIRcq~Pp-bfFGGLWJQ"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1785063638120|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzh9fX1dfQ&edge-signature=d-yG8aoPPE9JrJxf4z2dzR2pRJqNQLcQnf0fF-R9spo"
             },
             {
                 "title": "Euro Sports HD",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1785060034090|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=e1Cw4zReZNkhWmjnByWljfuwb-QMLAdv-2Ofl839OIM"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1785063638891|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzh9fX1dfQ&edge-signature=oZBdn2lrLx0Zf0sxeQfkuOJcU~GzPHgKzJ20qiBA-cI"
             },
             {
                 "title": "Sports Range",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHJhbmdlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM0fX19XX0&edge-signature=963ycuQHPB5ndvbBRlME0uv-NRCOPxjzcWV~GYHR-BQ"
+                "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHJhbmdlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDM3fX19XX0&edge-signature=eM9~m7S4nZ6I8m39kVXm1K~RUgJdzNiCMEhwauzJoTk"
             },
             {
                 "title": "Crazy Ex",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmF6eV9leC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzNH19fV19&edge-signature=Yer6J4ln-POvz7Jh2O5uys3vNGoy5Jf087roIwqFb~E"
+                "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmF6eV9leC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQzOH19fV19&edge-signature=BCdBIhm~EAK1hYB7xqoGEudOv7BvyO47SaTA1yVkW6A"
             },
             {
                 "title": "Sports Legends",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHNsZWdlbmRzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM0fX19XX0&edge-signature=B6aLKb~tC~zD5fUNAgY694v6zD1VNB7FaFYpH-5UCJw"
+                "url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zcG9ydHNsZWdlbmRzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDM5fX19XX0&edge-signature=yLn0QWWNcp16pDBLdrPDg5f-~9CBq-j6VWp3hz~UYS0"
             },
             {
                 "title": "Flash Guys HD",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mbGFzaGd1eXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=KWV0xPBNep4QnbQnDsuZyQ~kX-CnfhVzmclF-MMKbJg"
+                "url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mbGFzaGd1eXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzl9fX1dfQ&edge-signature=QhaapcvVYFBYUdgnDvWPU2lkHe~fIGS2no9OVDUfPKs"
             },
             {
                 "title": "Thunder Er",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90aHVuZGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM1fX19XX0&edge-signature=ky27T9-~jAmMxym85WW5C3GsuttU3vsd26yuI4lBZJk"
+                "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90aHVuZGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDM5fX19XX0&edge-signature=BfTESWmUseFZl9XFm~A5yUMCpNY4rOaYIeX~62zWrzs"
             },
             {
                 "title": "Fighters",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9maWdodGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM2fX19XX0&edge-signature=MHfbFk2u6ETMFLn3PHHCgTCOao270ayzYDlT0NmvQ7M"
+                "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9maWdodGVyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDQxfX19XX0&edge-signature=t2ti928yrzoN9luhH~evwTj6fmvRQQVxtXkuem6dooY"
             },
             {
                 "title": "FIFA+ Channel",
@@ -1766,55 +1785,55 @@
                 "title": "ZEE BANGLA",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1785060033313|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=TkGiU0YsQg4N9jdeImPN0l1FktOyZg4axWabI6-hygI"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1785063637124|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzd9fX1dfQ&edge-signature=8t8geafvbQP9U5Mh6sxduiNIVH9IYEVnNN0Iew0FNso"
             },
             {
                 "title": "Sony AATH",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1785060036487|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=TBOIByc8kR1KUUBvcJf81msouwYP8hhC81Pfo2h0Y0M"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1785063640815|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=ptAb72uUOStuHEsQRhYzY56cbeIcWsAkD56wt40FQiM"
             },
             {
                 "title": "Sony Entertainment",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1785060037276|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzd9fX1dfQ&edge-signature=fL0u6RHF-0CBiuX1vp2h65TA2jg3BkpJpVVeKDO-YKg"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1785063641660|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=KD4eg427D-Li5Agr1t-eCVC8vfMgvAzrFo3m2nYUe6o"
             },
             {
                 "title": "BTV",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzJ9fX1dfQ&edge-signature=5xDSOnTJdT6RVJ9uE6hhuZ3olleatRhLgVubjTUZ-lk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0MzZ9fX1dfQ&edge-signature=Ca7ev0S7fjdVDYDwPibktcDfnpv-4ER3OkEj0Mw5edU"
             },
             {
                 "title": "Maasranga TV",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzR9fX1dfQ&edge-signature=epO99xmo4-2u84MLVg-OwXZfnSvl~PbG7-oeMZPzhm0"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzh9fX1dfQ&edge-signature=D2K1x3K73U8rNabFsRBKYLBroQBGnYYG8b4Foog60yc"
             },
             {
                 "title": "Channel 9 HD",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=hwUSpZbp8rWfW4MfNX0jUDSEvQ0RxwXrCCZRozRHTXY"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzl9fX1dfQ&edge-signature=ggH8ji7xK6Wtb9-lcooy1Vpk3XdTYT2OMV4wDqgAOYA"
             },
             {
                 "title": "NTV",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=z6UP5jwvCsrfNyaqfFzgnIzkZR2tSKKpr-dCMQM3ewI"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzl9fX1dfQ&edge-signature=gxet1rRtWK2jKjNhUsrtFmpveY6o01Zm1Mil8DQ57hQ"
             },
             {
                 "title": "Channel I HD",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=55VPXWjLjjIsZbN6r8BTvU73OxjspbIQNPiAxL4KWQ4"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=YEraCLUBSS4LVAkvYE6Xkscy5Cv7FulTVoANDQ2nQ-8"
             },
             {
                 "title": "Deepto TV HD",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=bf5NElf-ARGH7tTlgOYWA6SxvECR8oh58corXgoBbuo"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=OC7nVI1R22Cu9JaNiw9ON6XRy7IaCahCrfPzTkE19FA"
             },
             {
                 "title": "SRK TV",
@@ -1826,7 +1845,7 @@
                 "title": "Bangla Vision",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=HZ-sX104vrU9enTJKOFzqiTlr2ps3VAS3bgIruf86lQ"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=ax9Bmcw-wMp6hTkPx7gimuG838DiZsD6Ept86c9-s3c"
             },
             {
                 "title": "Discover Pakistan TV",
@@ -2050,43 +2069,43 @@
                 "title": "Nikki",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzN319fV19&edge-signature=HlRVDC6oCOZvai3yf0ZuWp0pvUeD5Cy2gPerYuSO6Po"
+                "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0Mn19fV19&edge-signature=T5t5a9Jqh8BXLNoSaLdS-~5XZyUvSH0H3QgafAVg-tw"
             },
             {
                 "title": "BuddyStar HD",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9idWRkeXN0YXIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=Mw4h9zLSmRAsmgAn3xtKnkOQwr~BAKP8G3FL6E7gze0"
+                "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9idWRkeXN0YXIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=C7C7X0qH5BGl2KjnOIV-HSfKeRdW5Q1tcXiZrVCPTOc"
             },
             {
                 "title": "Joy",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9qb3kvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=IOifZ7xu~88CiuSqHxYXYuu8w7SQHhNM68JDogeEYWc"
+                "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9qb3kvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=3PaBpDsQKNwIYBbq0hoT~6VRBYIBybRPkp5qpXvA6JI"
             },
             {
                 "title": "Funny Junior HD",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mdW5ueWp1bmlvci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzOH19fV19&edge-signature=mjLv7tY2w4vztLh5ABCcVEnwjR~~ZjMVTmfbrwTPLa8"
+                "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9mdW5ueWp1bmlvci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0M319fV19&edge-signature=m4Z8UjA0mXNoYOaan9~A8F2FCxz6PoX73viDFlzYxOs"
             },
             {
                 "title": "Kids Stars",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzl9fX1dfQ&edge-signature=RKK8QTH2vJts5YulfVN-qysAqBpe66FFHx1EaAXXw6A"
+                "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=bFrxWfBG6MOs113hSyWfYyvCAxcexh1jbF99ZcQ7Qcw"
             },
             {
                 "title": "Smarty",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zbWFydHkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzl9fX1dfQ&edge-signature=qUQPxonRxJK6S5qTpWbEczCoooSlE1sGEx~mFZkmRFU"
+                "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zbWFydHkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=3hnOPqPFIna9Tt4ZwjkRZ2P45H4xewzudBbJXNi-7QE"
             },
             {
                 "title": "Lucky Family",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdWNreWZhbWlseS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzOX19fV19&edge-signature=0-vNA0AX-kAr0S~0m4VhYbJwgsakZl~RcAhXhkG0Mps"
+                "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdWNreWZhbWlseS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0NH19fV19&edge-signature=I6RpaRtdBDTV7TV8Qv6n5RDfoyHFg-zKiHfs-2meavc"
             },
             {
                 "title": "Motu Patlu",
@@ -2866,21 +2885,83 @@
         ]
     },
     {
+        "category": "Golf",
+        "slug": "golf",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Day 4   World Feed | ISPS Handa Women'S Scottish Open 2026 (ENGLISH)",
+                "category": "Golf",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8"
+            },
+            {
+                "title": "Day 4   World Feed | ISPS Handa Women's Scottish Open 2026 (ENGLISH)",
+                "category": "Golf",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Motorsports",
         "slug": "motorsports",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Race | F2 HUNGARY 2026 (ENGLISH)",
+                "title": "Race 2 | DTM 2026 (ENGLISH)",
                 "category": "Motorsports",
-                "logo": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
-                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139645_english.m3u8"
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8"
             },
             {
-                "title": "Race | F2 HUNGARY 2026 (ENGLISH)",
+                "title": "Race 2 | DTM 2026 (ENGLISH)",
                 "category": "Motorsports",
-                "logo": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
-                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139645_english.m3u8"
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Formula 1",
+        "slug": "formula_1",
+        "total_channels": 6,
+        "channels": [
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8"
+            },
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8"
+            },
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8"
+            },
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_english.m3u8"
+            },
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_hindi.m3u8"
+            },
+            {
+                "title": "Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL)",
+                "category": "Formula 1",
+                "logo": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+                "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139476_tamil.m3u8"
             }
         ]
     },
@@ -2923,85 +3004,85 @@
                 "title": "CNN",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1785060037615|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzd9fX1dfQ&edge-signature=RPTV32D0m2oDxtGgdnM6zA75JPCHQmIeQgEqlmnNy3g"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1785063642052|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=rHZ36hvlMJPLJfm7kojrUKyEr6iCBRMlmKXcezJPvCQ"
             },
             {
                 "title": "Somoy Tv",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzJ9fX1dfQ&edge-signature=DhBgdmKSofbNg2v7PVxBTg06VbbX55QJBIkFp54OjUk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0MzZ9fX1dfQ&edge-signature=kJee5imNYz8Fq-oqVLoz0-~z6tQ6HrSZz5h7jh2ciAk"
             },
             {
                 "title": "Channel 1",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=M2sCfKhQXvg46VMq2JfvEO4v99ayVV6yldnOJ9~Y9WU"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzd9fX1dfQ&edge-signature=SKi5-wWdQsfv3FTYnEEIkprVoPv3rV2Pee8I3dLP1GU"
             },
             {
                 "title": "Independent TV",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=N-vaGA1A-gxZwWyIM-FXVDSsAEXkAguZXkvv3mnBk-M"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzd9fX1dfQ&edge-signature=hZy6zfuw0evk0bgh9CDmkjif~YbLq~prQ4YAnl7YX2Q"
             },
             {
                 "title": "Jamuna TV",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzN9fX1dfQ&edge-signature=4kUDK1Y~CApO~UMMtgyLri5AOf4~-3WceshloleKi2U"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzd9fX1dfQ&edge-signature=n~fTXzCUqrJa9CndJfuBN~8iFaGNyOoBjyzo0ecqOF0"
             },
             {
                 "title": "Ekattor HD",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzR9fX1dfQ&edge-signature=M3XCJYUPKRS8tcVp-zIvgoeRj17ODHx-ZDfa4XUxbHM"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzh9fX1dfQ&edge-signature=Oy3kW1TOI~NXIlm5KfFDuG7xQL9HTmG1ajKyno0SlKs"
             },
             {
                 "title": "Channel 24 HD",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzR9fX1dfQ&edge-signature=ffuaIiyoM7P0o4dF~sb-pHR61qb8ys~maWXW7FpUu6s"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzh9fX1dfQ&edge-signature=OSq3cogLtB1mxhWjKW6nNx0c3jCTUC6MtDIonV62Gsw"
             },
             {
                 "title": "DBC News HD",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzR9fX1dfQ&edge-signature=lJcLcNhqUkvUakuwrZGKZPjpbuJxHbAKQ7OXhUYgTzk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzl9fX1dfQ&edge-signature=8mbJ49lTqb66e80qGTL4iXPXSUl3yyESgWicRqANsr0"
             },
             {
                 "title": "ATN News",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzV9fX1dfQ&edge-signature=5YBa0KqwVMZhzo~StopwVm8UC5fgVCzogPCZvi9kQM0"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0Mzl9fX1dfQ&edge-signature=Mah3lLJtjixVqFY7lCUH0z2MbUoMY8iNbRQrCrXCIIA"
             },
             {
                 "title": "News 24 HD",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=01NtyhYFBbmKFKJgXcGh~znXB-Bq3Ab4Lumbrxir5hU"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=b~1ZNSuZ3reZavFm-ztlpIuGcPbpdx0xEuWroJekUU4"
             },
             {
                 "title": "Star News",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=i5kFPMnsqNm4ynC-sAIX4IdQcrucf7AlRqng~bELH3A"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=gx9OjV99kojxYwMPIRa3ZA9Q7rLT4m0DwwSKkfUt9JM"
             },
             {
                 "title": "Al Jazeera",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=OjbsLt6hNB32BV8kD~2OOPPTXfF9KymgCayUVAGjh5k"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=wg8CB0p4O2ULZByVjnhM00tvXLuSetilw7RdCniGu2E"
             },
             {
                 "title": "Desh TV",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzd9fX1dfQ&edge-signature=lXv6XyxNW02D90ngc9PXL5wAgcQj2cfy95qfID~Ninc"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDJ9fX1dfQ&edge-signature=tHp2vr3ASGgpH08Is63SgvZ~IwsgPAR4Pz9mk1OaX5k"
             },
             {
                 "title": "BTV Shangshad",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzl9fX1dfQ&edge-signature=9AdSTN1Y0Uhee-5nM2w62peED84t2lSEG9IAh7OlHuc"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDR9fX1dfQ&edge-signature=23NsAGq-6fgzYoXD997v~EuIi6A~D8u7d9Xx35-eFZA"
             },
             {
                 "title": "ABC 7 Bay",
@@ -3721,61 +3802,61 @@
                 "title": "Sony Max",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785060036257|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=AozOgdoatSrWFMR3hxfUW7Pz2vo59qH1-wykBC65Zxk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785063640159|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDB9fX1dfQ&edge-signature=by3l2cX-6yIfcGeQ71VAiAgLC1ft6y0qWiYDktrkkm0"
             },
             {
                 "title": "Sony Pix",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1785060037048|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4MzZ9fX1dfQ&edge-signature=27h5vl6CJko76mACbXoYXQZA-jA1wW7Mx4mug-oXlCk"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1785063641410|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=UXvMLQnL8IFnxiKYPkkexJxKvQKgIGsrs6DLrvopTSQ"
             },
             {
                 "title": "Originals",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=PxKHpUyK4QFhYRborTOu9rjA3rdS-YMCZw4fIIFm2J4"
+                "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDJ9fX1dfQ&edge-signature=s9jApjz8lHx8eHxLecu4Njif3g2jbCEoLTzjPD-jDzw"
             },
             {
                 "title": "Cineedge HD",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzOH19fV19&edge-signature=OQNjkwml9XavmWA1pw7jSI0XbcPD8Lwf62nCs0gHYms"
+                "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0Mn19fV19&edge-signature=dNzBL78YA8QXBYLaK5c-ZagRmYrENkvG6uI8fwONAO8"
             },
             {
                 "title": "Superrix HD",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzOH19fV19&edge-signature=gdZkzo~Jsc-xq2h65Dp5W9MfWX1fmtW2qXEuqNS~srk"
+                "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0Mn19fV19&edge-signature=hvo5FO3bZAmC8mDMy02MlIbK68-6VLGq8qFviLt2JE4"
             },
             {
                 "title": "Uniques HD",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDcwODM4fX19XX0&edge-signature=JDWCCxTYZRCjJjxDhGpGbXyndaM4FcJTWTirYimsHJs"
+                "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MDc0NDQyfX19XX0&edge-signature=2hEPjlEm4JaxuXB8rrS0VGlUrPY7RCzvB0Yt25~GUs8"
             },
             {
                 "title": "Screem",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=2h5wYJ5fa4FryalnAr5tVR2XkYzk7sNYkRm2S1XNe~U"
+                "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDJ9fX1dfQ&edge-signature=BvpEbbUmSRamQUP6MYb6ezRN7yjNQx6nB-OsGNc1ILw"
             },
             {
                 "title": "Crimes",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=XiPjZnWEmkanemYJ1dsnpBuZvUsWWvLaB0BszqgrQW4"
+                "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=pqUlx7qRV1TKsPA0J33m~OPkfWrEteFZsQaxFa41GMU"
             },
             {
                 "title": "True Stories",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3MDgzOX19fV19&edge-signature=LOTCo3nSHRdCrd6vW9~140wVleyArPRNy71oF3-kHvM"
+                "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTA3NDQ0M319fV19&edge-signature=GObtLEU8zyobcQJSXH9-P3lfjUj4qoS85Loe2BLcjck"
             },
             {
                 "title": "Intelligence",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzl9fX1dfQ&edge-signature=RcsduEal~7CTo4O8DyVun38mnnz19qllfCbBBBPXlbY"
+                "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=ibCw5Fxpj5-6mmleQpAv3hZ~ndNt3WcSkTAAmaSfIU4"
             },
             {
                 "title": "TELECOSTA GUATEMALA 🇬🇹",
@@ -3974,19 +4055,19 @@
                 "title": "Delicious",
                 "category": "Infotainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9kZWxpY2lvdXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzd9fX1dfQ&edge-signature=GhYvl3WgyA-ZjhN1H5idPJhsu1f8~K2wMr08M2yB~OA"
+                "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9kZWxpY2lvdXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDF9fX1dfQ&edge-signature=nD4FDL1zhGI8r0n6f02OBjmqnAf-Q5YJqYwNFFnJMmk"
             },
             {
                 "title": "Luxell HD",
                 "category": "Infotainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdXhlbGwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzh9fX1dfQ&edge-signature=NMLg0A-so058BCS9FcuaHDOyZyeApnlIPyK8he7YjRg"
+                "url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9sdXhlbGwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDN9fX1dfQ&edge-signature=pjakxUpUZscZRPAYQVZEvLB1dV-eiHUk3jquV5uRPjs"
             },
             {
                 "title": "Program Promo",
                 "category": "Infotainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1783925099346.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzA4Mzl9fX1dfQ&edge-signature=oenRX45t4oNV182IFta8ijg0OGMzNN47Kq~47ntG14M"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUwNzQ0NDR9fX1dfQ&edge-signature=iWjpF77SMnWVRJwWw5UEWJoXwLU-9FrPD3DZqSNV2dM"
             },
             {
                 "title": "Luxel HD",

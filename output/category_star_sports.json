@@ -1,5 +1,17 @@
 [
     {
+        "title": "Star Sports 1",
+        "category": "Star Sports",
+        "logo": "https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp",
+        "url": "https://mflixott.com/tv/dd/live.php/267.m3u8"
+    },
+    {
+        "title": "Star Sports 2",
+        "category": "Star Sports",
+        "logo": "https://medianet.mv/media/channel/179x0-icon.png",
+        "url": "https://mflixott.com/tv/dd/live3.php/268.m3u8"
+    },
+    {
         "title": "Star Sports select  1",
         "category": "Star Sports",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png",
@@ -10,17 +22,5 @@
         "category": "Star Sports",
         "logo": "https://multireach.in/wp-content/uploads/2020/11/Star-Sports-Select-HD-2-1.png",
         "url": "https://cdn1.ctgiptv.com/star-select-2/tracks-a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Star Sports 1",
-        "category": "Star Sports",
-        "logo": "https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp",
-        "url": "https://mxonlive.xyz/universal_restream/play/810/stream.m3u8"
-    },
-    {
-        "title": "Star Sports 2",
-        "category": "Star Sports",
-        "logo": "https://medianet.mv/media/channel/179x0-icon.png",
-        "url": "https://mxonlive.xyz/universal_restream/play/805/stream.m3u8"
     }
 ]

@@ -3,61 +3,61 @@
         "title": "Sony Max",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785268846312|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NDZ9fX1dfQ&edge-signature=r4sUQMT8N6XCSCNFNQ3829anXE4VMjY-xkrSitqgkKg"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785272443483|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDN9fX1dfQ&edge-signature=zggNyT3AjkS64BdF5Zmv4K1HQKo9Letp~KTsNqHAPHg"
     },
     {
         "title": "Sony Pix",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1785268847540|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NDd9fX1dfQ&edge-signature=HuhmVZKi7IfescjzDGivvXSQ1H2CqwNhwiawguRTZiM"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1785272444829|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDR9fX1dfQ&edge-signature=fbREKdc6BuGDhXx4VjMPrqw358MO2pLV2HZWPvvLoks"
     },
     {
         "title": "Originals",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NDh9fX1dfQ&edge-signature=6VrpZguVA7M~tRMi6xXMIAOodLvPAxkghHZvqDc0FtY"
+        "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9vcmlnaW5hbHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDV9fX1dfQ&edge-signature=AZFYJN6hKv8sgOrU9oEKy9bT3IGsAT4q7BS3x0G2m7I"
     },
     {
         "title": "Cineedge HD",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI3OTY0OH19fV19&edge-signature=LPRlrtW2Xxfl8OSlCn-DSbrZaNFnt15Z02TkNBuB1IY"
+        "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jaW5lZWRnZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI4MzI0NX19fV19&edge-signature=wWjKRTFgmmXNKso4a9Gg-BeW1zSyzWS~boX-LF~NGd8"
     },
     {
         "title": "Superrix HD",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI3OTY0OH19fV19&edge-signature=OQsooqBm9IoXQPlFe6yDp7nlVR2kczRQQ86dQ2qucY0"
+        "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zdXBlcnJpeC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI4MzI0NX19fV19&edge-signature=8AY-TSPxqCAGQgceyxVQFul-imIY0FVklK4fsiZscsU"
     },
     {
         "title": "Uniques HD",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1Mjc5NjQ4fX19XX0&edge-signature=Of90XWyfdUrjc9jd4Ir35cHqtKV7fce3tYGQWPo6ubk"
+        "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC91bmlxdWVzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVkZ2VUaW1lIjoxNzg1MjgzMjQ1fX19XX0&edge-signature=QbX8LQZ5YNxlT8Q~qN7RorXrRaUCdVHQxhG4VNgwNjE"
     },
     {
         "title": "Screem",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NDl9fX1dfQ&edge-signature=nWf3-2uP7bceOcXEVy~4uhwDGQruUahd-uTQ8uyLIjA"
+        "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9zY3JlZW0vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDZ9fX1dfQ&edge-signature=2PX9GXxFqoHTO7ju3kkmYpSAidvkDJQnEFjRbFgkars"
     },
     {
         "title": "Crimes",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NDl9fX1dfQ&edge-signature=NKj4LZPAuPAzN4fHEmSRjhcqRf0j65kYbYg8uv2QubQ"
+        "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9jcmltZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDZ9fX1dfQ&edge-signature=6ZVXaC17C94l45qcq9Y1rItyK-k9AqFyI1if6wYkRlQ"
     },
     {
         "title": "True Stories",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI3OTY1MH19fV19&edge-signature=rbjp~EMfsghGyPVBDOw5GCUBJ1DBGQ2zmpNnnHaP1QQ"
+        "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC90cnVlc3Rvcmllcy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NTI4MzI0Nn19fV19&edge-signature=n0cr4yIiwrL8hswd-ql2gHcS5qlV1y9kX~OJxm8tegI"
     },
     {
         "title": "Intelligence",
         "category": "Movies",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyNzk2NTB9fX1dfQ&edge-signature=jAbNWdaNvrmjOAY43MsWnK0F2t6~hiuR6LCBSGHMJfg"
+        "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9pbnRlbGxpZ2VuY2UvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODUyODMyNDd9fX1dfQ&edge-signature=FNaQxhqi0EkVIzwCxHo896--9Xv960Qxu-SXDLMptPk"
     },
     {
         "title": "TELECOSTA GUATEMALA 🇬🇹",

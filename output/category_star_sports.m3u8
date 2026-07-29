@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
+#EXTINF:-1 tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1 Hindi
 https://mflixott.com/tv/dd/live.php/267.m3u8
+#EXTINF:-1 tvg-logo="https://s3.itcnbd.live/admin/images/star1.png" group-title="Star Sports",Star Sports 1
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="Star Sports",Star Sports 2
-https://mflixott.com/tv/dd/live3.php/268.m3u8
+https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Star Sports",Star Sports select  1
-https://cdn1.ctgiptv.com/star-select-1/tracks-v1a1/mono.ts.m3u8
+https://s3.itcnbd.live/channel/0ed80b748d366d18.m3u8
 #EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Star-Sports-Select-HD-2-1.png" group-title="Star Sports",Star Sports select  2
-https://cdn1.ctgiptv.com/star-select-2/tracks-a1/mono.ts.m3u8
+https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8

@@ -9,7 +9,7 @@
         "title": "RTV",
         "category": "Bangla",
         "logo": "https://i.postimg.cc/85PKQn0Q/Hridoy-TV-Bangla-channel-(5).webp",
-        "url": "https://jbd.hridoytv-node.workers.dev/link-copy-kore-lav-nai=expire43738831219634/rtv.m3u8"
+        "url": "https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/RTV/tracks-v1a1/mono.m3u8"
     },
     {
         "title": "ME TV",
@@ -21,13 +21,13 @@
         "title": "Nagorik TV",
         "category": "Bangla",
         "logo": "https://ottking.top/app/uploads/tv_image/nagorik-tv.png",
-        "url": "https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8"
+        "url": "https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8"
     },
     {
         "title": "Gazi TV",
         "category": "Bangla",
         "logo": "https://ottking.top/app/uploads/tv_image/gazi-tv.png",
-        "url": "https://jbd.hridoytv-node.workers.dev/link-copy-kore-lav-nai=expire43738831219634/gtv.m3u8"
+        "url": "https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8"
     },
     {
         "title": "Channel 16",

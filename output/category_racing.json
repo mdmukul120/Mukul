@@ -1,14 +1,26 @@
 [
     {
-        "title": "French Qualifying Racing Live | GT World Challenge EU & Asia 2026",
+        "title": "France - Champion and Tourism Live | GT World Challenge EU & Asia 2026",
         "category": "Racing",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854981261020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854986631020x576.jpg",
         "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     },
     {
-        "title": "French Qualifying Racing Live | GT World Challenge EU & Asia 2026",
+        "title": "Sprint Race 1 - Kyrgyzstan Live | UIM F1H2O World Championship 2026",
         "category": "Racing",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854981261020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854819341020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+    },
+    {
+        "title": "France - Champion And Tourism Live | GT World Challenge EU & Asia 2026",
+        "category": "Racing",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854986631020x576.jpg",
         "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+    },
+    {
+        "title": "Sprint Race 1 - Kyrgyzstan Live | UIM F1H2O World Championship 2026",
+        "category": "Racing",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854819341020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     }
 ]

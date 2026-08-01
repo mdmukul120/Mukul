@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1 Hindi
-https://mflixott.com/tv/dd/live.php/267.m3u8
-#EXTINF:-1 tvg-logo="https://s3.itcnbd.live/admin/images/star1.png" group-title="Star Sports",Star Sports 1
+#EXTINF:-1 tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Star Sports",Star Sports 1
 https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="Star Sports",Star Sports 2
 https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8

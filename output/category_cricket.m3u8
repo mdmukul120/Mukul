@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854830381020x576women.jpg" group-title="Cricket",Birmingham Pheonix vs Welsh Fire - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854900531020x576.jpg" group-title="Cricket",Sri Lankan lions vs Bangladesh Tigers | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854830381020x576women.jpg" group-title="Cricket",Birmingham Pheonix Vs Welsh Fire - Women | The Hundred Women'S Competition 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854833191020x576men.jpg" group-title="Cricket",Birmingham Pheonix vs Welsh Fire | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854835001020x576women.jpg" group-title="Cricket",London Spirits vs Southern Brave - Women | The Hundred Women's Competition 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854900531020x576.jpg" group-title="Cricket",Sri Lankan Lions Vs Bangladesh Tigers | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854833191020x576men.jpg" group-title="Cricket",Birmingham Pheonix Vs Welsh Fire | The Hundred Men'S Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854835001020x576women.jpg" group-title="Cricket",London Spirits Vs Southern Brave - Women | The Hundred Women'S Competition 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8

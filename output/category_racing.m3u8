@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856032421020x576.jpg" group-title="Racing",MitJet and Tourism Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856057191020x576.jpg" group-title="Racing",GT World Challenge - Qualifying 2 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856032421020x576.jpg" group-title="Racing",MitJet And Tourism Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855945291020x576.jpg" group-title="Racing",Grand Prix of Kyrgyzstan - Issyk - Kul Live | UIM F1H2O World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856057191020x576.jpg" group-title="Racing",GT World Challenge - Qualifying 2 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855945291020x576.jpg" group-title="Racing",Grand Prix Of Kyrgyzstan - Issyk - Kul Live | UIM F1H2O World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8

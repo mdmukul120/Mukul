@@ -6,6 +6,12 @@
         "url": "https://btv.hridoytv-channel.workers.dev/chittagong.m3u8"
     },
     {
+        "title": "Duronto TV",
+        "category": "Bangla",
+        "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg",
+        "url": "http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=duronto_tv&format=.m3u8"
+    },
+    {
         "title": "RTV",
         "category": "Bangla",
         "logo": "https://i.postimg.cc/85PKQn0Q/Hridoy-TV-Bangla-channel-(5).webp",
@@ -57,7 +63,7 @@
         "title": "Asian TV HD",
         "category": "Bangla",
         "logo": "https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg",
-        "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8"
+        "url": "http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=asian_tv&format=.m3u8"
     },
     {
         "title": "Bangla Plus TV",

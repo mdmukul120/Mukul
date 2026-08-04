@@ -7,18 +7,14 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=duronto_tv&format=.m3u8
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwRbqhvz/Me-TV.png" group-title="Bangla",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png" group-title="Bangla",Nagorik TV
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg" group-title="Bangla",My TV
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=my_tv&format=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ677dpw2Fj24YEgr8eBco_fxlPwd3Okr5s8zy6_B5tjw&s" group-title="Bangla",Nagorik TV
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/NAGORIK-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png" group-title="Bangla",Gazi TV
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.102.27.173:84/GTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfNm3D3f/Hridoy-TV-new-(4).webp" group-title="Bangla",Channel 16
-https://jbd.hridoytv-node.workers.dev/link-copy-kore-lav-nai=expire43738831219634/channel16.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr6mWR9G/Hridoy-TV-new-channel-(1).webp" group-title="Bangla",Bangla Kontho 24
-https://jbd.hridoytv-node.workers.dev/link-copy-kore-lav-nai=expire43738831219634/banglarkontho24.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbs4kWkT/Hridoy-TV-new-(3).webp" group-title="Bangla",Toroni 24 TV
-https://jbd.hridoytv-node.workers.dev/link-copy-kore-lav-nai=expire43738831219634/toroni24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pvCXvJ/Hridoy-TV-new-channel-(26).webp" group-title="Bangla",Enter TV
-https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire43738831219634/entertv.m3u8
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFZRjVkC/cb928a1f3b49.jpg" group-title="Bangla",Asian TV HD
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=asian_tv&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qvcrm2Nr/download-1.png" group-title="Bangla",Bangla Plus TV

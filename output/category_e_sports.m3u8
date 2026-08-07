@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg" group-title="E Sports",PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857606101020x576.jpg" group-title="E Sports",Tekken 8 - Day 2 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg" group-title="E Sports",PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857606101020x576.jpg" group-title="E Sports",Tekken 8 - Day 2 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860840241020x576.jpg" group-title="E Sports",PUBG Mobile - Day 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860840241020x576.jpg" group-title="E Sports",PUBG Mobile - Day 2 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8

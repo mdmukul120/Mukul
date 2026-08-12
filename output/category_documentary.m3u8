@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/35.png" group-title="Documentary",Natgeo
+https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=cf29f7b4c6a0e567fd351e5e47eb8c465659431f-9b9bf84e9177c9749ade835c0fb5c085-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/wild-tv.png" group-title="Documentary",Wild TV
+https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=b3725a923409163872467fb0f71400c416bb0206-75572d98cc067cce1fade71592bfa22e-1786535732-1786524932
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/4k-travel.png" group-title="Documentary",4k Travel
+https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=e56ed073017c0b1952501990c4e8b17442487208-11c79c935cca2c84a8b36227a4892294-1786535732-1786524932
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/travel-xp.png" group-title="Documentary",Travel XP
+https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=44d2800870550a1773361103539921ad71cbd5a6-f34b7e0832690f7b92af737c5eba57a9-1786535733-1786524933

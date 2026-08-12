@@ -1,5 +1,47 @@
 [
     {
+        "title": "Star Plus",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/starplus.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=7d5a5d231d96a60a59407809e3ea6ea3f6f74cec-d2082e9c78429095242c341ee3a1f7ae-1786535729-1786524929"
+    },
+    {
+        "title": "Star Gold",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/75.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=05900a17096bd19e90c21d127dc7ab62944cd51c-81334d563428fb8afa9837e4b832843c-1786535729-1786524929"
+    },
+    {
+        "title": "Colors",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/68.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=12eab82c67889a6104b31683242b545249647187-42d6e4973a1856de2aff37e23baf3f1e-1786535729-1786524929"
+    },
+    {
+        "title": "Zee Cinema",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/76.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=8f72e15c8c4ed1be3afc1835723dbb78b49c0869-da35998a6314af7441d2c44602f6f60b-1786535729-1786524929"
+    },
+    {
+        "title": "And Pictures",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/100.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=564d5c41e833c1870154535ef2f088d539851e1e-0217d9e354db5ba5a58d19c0ee56143a-1786535729-1786524929"
+    },
+    {
+        "title": "Star Gold",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/75.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=744c671f6a8a884535cebceeeba790e6439b7397-d8c1d4caa8285fbb060af84fe9664f06-1786535731-1786524931"
+    },
+    {
+        "title": "Star Gold 3",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/75.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=936d764f5db245b20672affb3086afdca6dba3a3-822b7e59af8d973935362e1ec4d2395f-1786535731-1786524931"
+    },
+    {
         "title": "DANGAL2",
         "category": "Hindi",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",

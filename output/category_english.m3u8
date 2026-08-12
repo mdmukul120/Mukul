@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/45.png" group-title="English",Movies Now
+https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=a616d5d7878bb32b6022adf2d74a78a984e66b6f-683b9f78c142b43f4e4018c67b67cfab-1786535729-1786524929
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/41.png" group-title="English",Sony Pix
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=f975cfd224cbaa4536ae40e560a2b42e20ff920c-74569a956fb65894c91365607987c7de-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="English",Star Movies
+https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=5c25aafa96ef8a65f9241be0844d94c10402e115-f56bb1914334c90cc9a45407547f3e9c-1786535731-1786524931
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dw-news.png" group-title="English",DW NEWS
+https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=b47f18f5bb2b48dd26bd076d4ad2d68f087f6f31-4fef8014d1b1aadbd0397dfbfb6f0988-1786535733-1786524933
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/trt-world.png" group-title="English",TRT World
+https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=0b16b66867fab2a87b9ac4e426cd75b4ea4894e5-7a4c05d51cab3e353c58adac7cab7098-1786535733-1786524933
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/fox-weather.png" group-title="English",Fox Weather
+https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=ef155425656d4b295f06ba9d3fd281ec4109f0bd-cf3d1950058114b9b94e977cbf55daf1-1786535733-1786524933
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="English",4k Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e" group-title="English",RDS Social TV

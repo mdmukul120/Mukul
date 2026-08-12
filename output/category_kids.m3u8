@@ -23,6 +23,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/pop.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Baby Shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/55.png" group-title="Kids",Nick
+https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=c66f374438027b9f55cbb10b14c922577804e748-53b866b96c519d44323717ead3c7d4ef-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/disney-jr.png" group-title="Kids",Disney JR
+https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=a5e6ccd5480bb684b8fd2ecdbb05af8c083163f5-e150ddfe1c305b86f7ae9d5737e22ec3-1786535730-1786524930
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfaebe9084c7a7c494b0e61a48aad39.png" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="Kids",Kids Pang TV

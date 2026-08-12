@@ -43,6 +43,16 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Music",Channel 5
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sangeet-bangla.png" group-title="Music",Sangeet Bangla BK
+https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=ae6bd0113592ca76eb516b42cba78a9c1fa48372-869ed0c9748275a4139e2bb2a18cfbed-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/9x-jalwa.jpg" group-title="Music",9x-Jalwa
+https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=bc9b4ff90e299bbd5aaeb89f23488fadbe49c93d-ca84656b26f646dbf6e5cd66f5808451-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/48.png" group-title="Music",9xM
+https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=85d57a3abe7cbf04c2dc2acda751e81c1b287a2c-1dd51e4e22fbe0e062e826634a057759-1786535730-1786524930
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sangeet-bangla.png" group-title="Music",Sangeet Bangla
+https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=48d313eded4f3313013494af3933c70929917ed3-3d4bbfa32b514bcf3ce04a598db16591-1786535732-1786524932
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/music-india.png" group-title="Music",Music India
+https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=6e844f7b8f9113341d499e4453348bdd93e81818-639b19841d79f9f8dd604b066e144f5f-1786535732-1786524932
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="Music",9X Jalwa

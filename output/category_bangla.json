@@ -1,5 +1,59 @@
 [
     {
+        "title": "Gazi TV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/gazi-tv.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=ebf5db8b6a176430fc7e944b7b3d64e54b06b391-4ffd63b8e07676db268001fcce1eb731-1786535731-1786524931"
+    },
+    {
+        "title": "ATN NEWS",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/atn_news.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=69b774f588a0412d636b451da838326a4f48f809-50e48ef7d1c947f0f896676cb435582d-1786535731-1786524931"
+    },
+    {
+        "title": "DBC News",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/dbc-news.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=3dbb95f151559368df2d1889ef75ac3039da8226-8641a79c20f09d59b1975810206997e2-1786535731-1786524931"
+    },
+    {
+        "title": "Maasranga",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/51.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=6a6802ecfc4478a41179b3b0060dbe3e1a52327e-720b4ca50f0fecde3be0d09c86f835bd-1786535731-1786524931"
+    },
+    {
+        "title": "RTV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/rtv.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=290b12c45a9a9e5bfc040306c6f38691e09e1139-05daa2ec8e97c7f04d75208a09e74b35-1786535731-1786524931"
+    },
+    {
+        "title": "Boishakhi TV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/boishakhi-tv.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=5ae382d4c0d480305245853b42f384b9ec69b487-c528a123d7cbf8add9b20ca855c6b3d9-1786535732-1786524932"
+    },
+    {
+        "title": "Banglavision TV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/3.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=659abe1bfc0b45a69a6852fc6df33f4064ca3d43-010927675541c20217e0f4d58afc1370-1786535732-1786524932"
+    },
+    {
+        "title": "Deepto TV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/deepto-tv.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=db8ff6dfdeaebd481afed698e2a197b06cabb1c7-a5ec83850e769e3bb5c047df3d2a057d-1786535732-1786524932"
+    },
+    {
+        "title": "DD Bangla",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/dd-bangla.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=74e2b2dcd77b89d384aaf641208aae5bf8df8d4d-be61839f01a8bf639cd4a8a7d14fc315-1786535732-1786524932"
+    },
+    {
         "title": "BTV CTG",
         "category": "Bangla",
         "logo": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75",

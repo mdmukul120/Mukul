@@ -553,7 +553,7 @@
     {
         "category": "Music",
         "slug": "music",
-        "total_channels": 29,
+        "total_channels": 34,
         "channels": [
             {
                 "title": "9XM",
@@ -686,6 +686,36 @@
                 "category": "Music",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8"
+            },
+            {
+                "title": "Sangeet Bangla BK",
+                "category": "Music",
+                "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=ae6bd0113592ca76eb516b42cba78a9c1fa48372-869ed0c9748275a4139e2bb2a18cfbed-1786535730-1786524930"
+            },
+            {
+                "title": "9x-Jalwa",
+                "category": "Music",
+                "logo": "https://tvassets.roarzone.net/images/9x-jalwa.jpg",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=bc9b4ff90e299bbd5aaeb89f23488fadbe49c93d-ca84656b26f646dbf6e5cd66f5808451-1786535730-1786524930"
+            },
+            {
+                "title": "9xM",
+                "category": "Music",
+                "logo": "https://tvassets.roarzone.net/images/48.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=85d57a3abe7cbf04c2dc2acda751e81c1b287a2c-1dd51e4e22fbe0e062e826634a057759-1786535730-1786524930"
+            },
+            {
+                "title": "Sangeet Bangla",
+                "category": "Music",
+                "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=48d313eded4f3313013494af3933c70929917ed3-3d4bbfa32b514bcf3ce04a598db16591-1786535732-1786524932"
+            },
+            {
+                "title": "Music India",
+                "category": "Music",
+                "logo": "https://tvassets.roarzone.net/images/music-india.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=6e844f7b8f9113341d499e4453348bdd93e81818-639b19841d79f9f8dd604b066e144f5f-1786535732-1786524932"
             },
             {
                 "title": "9X Tashan",
@@ -1049,7 +1079,7 @@
     {
         "category": "Sports",
         "slug": "sports",
-        "total_channels": 85,
+        "total_channels": 99,
         "channels": [
             {
                 "title": "Sports Tennis",
@@ -1100,34 +1130,118 @@
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/kiksp.stream/playlist.m3u8"
             },
             {
-                "title": "Sony Sports TEN 2",
+                "title": "TSports",
                 "category": "Sports",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1786521638718"
+                "logo": "https://tvassets.roarzone.net/images/102.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=ac545d500fab2951570da124c04fddd062ba0351-8011c2391cb0edb6ec98d9014c05d09b-1786535726-1786524926"
             },
             {
-                "title": "Sony Sports TEN 1",
+                "title": "T-Sports BK",
                 "category": "Sports",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1786521638762"
+                "logo": "https://tvassets.roarzone.net/images/102.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=2b826bd791980ea710d13a184c2e007bc105c4fd-d102cbf78260160460c0e51883f946db-1786535726-1786524926"
             },
             {
-                "title": "Sony Sports TEN 5",
+                "title": "Star Sports 1",
                 "category": "Sports",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1786521638756"
+                "logo": "https://tvassets.roarzone.net/images/25.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=de454318f6dedb795a1b8e53c772bf7334aa5cb8-d7a41a773d374ce72802d0cc1277a274-1786535727-1786524927"
+            },
+            {
+                "title": "Star Sports 1 BK",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/25.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=3eea22f138e82bff152ea04d16ccaff516001c71-4f2385754f0adc33d64bb625de3814db-1786535727-1786524927"
+            },
+            {
+                "title": "Star Sports 2",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/26.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=b53cdaf2a70ff84ccd0f76e7dde00fadf61ed8c6-e91750a55599c899797898aff7ffef87-1786535727-1786524927"
             },
             {
                 "title": "Ten Cricket",
                 "category": "Sports",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1786521639520"
+                "logo": "https://tvassets.roarzone.net/images/ten_cricket.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=c69b553a64541d116c0a7dc422d4cfb068c42573-dab32a0b262217eb3df2f4ef9caddbe3-1786535727-1786524927"
             },
             {
-                "title": "Euro Sports HD",
+                "title": "Unite8 2 HD FIFA",
                 "category": "Sports",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1786521642358"
+                "logo": "https://tvassets.roarzone.net/images/Unite8-2.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=be3e261bb04e0e33d140466cce8f6710233d7d89-6a4037bb9696341db63185594ecf4947-1786535727-1786524927"
+            },
+            {
+                "title": "Unite8 1 HD FIFA",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/Unite8-1.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=7958a89ab240f80c179a301bbc6167ab7e2bdb34-bd86cf6a537880ab143c364bfbb40bd1-1786535727-1786524927"
+            },
+            {
+                "title": "Sony Ten 1",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/20.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=506ba30e84598e138dbd62df6790f17e23b0a317-3739e8c316ccd61923789ee95ab5e0cb-1786535727-1786524927"
+            },
+            {
+                "title": "Sony Ten 2",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/21.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=a21d0a4652d9149095a62e61743588bfbf34377d-e77ff43d5792a8e22c0b92604edbfa36-1786535728-1786524928"
+            },
+            {
+                "title": "Sony Ten 3",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/22.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=896d75d0ab5187f30a8cb1486515f4ecec2ea2c1-7508609b5f878ff131987fd41282e95a-1786535728-1786524928"
+            },
+            {
+                "title": "Star Sports Select 1",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/27.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=8c3250d7fb3bc95c2ccd9c2af3b0a1ba8e2a23c8-414413e1e3e34729dd7e14425aacfae5-1786535728-1786524928"
+            },
+            {
+                "title": "Star Sports Select 2",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/28.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=7f0f401012b149bf9822c8199897ca420a3e6a49-68cfd1c17fa7b910b093085995ed2e28-1786535728-1786524928"
+            },
+            {
+                "title": "PTV Spotrs",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/73.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=da2e2f8cb1489d077ac104d0ea0c0614a5cf390a-6589ec1ad53898e04e0e5a03a596b469-1786535728-1786524928"
+            },
+            {
+                "title": "ASPORTS",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/add-sports-1.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=7b34005be1aa2d758b0191d2f0f180edf7211e7e-a9aaf36e1e1d52af264c02bccb07648d-1786535728-1786524928"
+            },
+            {
+                "title": "Somoy TV",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/fifa-2026.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/2/index.m3u8?token=63f2a8b9326a059171c7bb8d7503a35d4425e64b-9081f825eec90ba6f9b7def3a8e1c9de-1786535731-1786524931"
+            },
+            {
+                "title": "BTV",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/fifa-2026.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=360f62737d840660f9f4e57d2894a1f37cdee390-71f8e505d55147910cdb8329a74489b3-1786535731-1786524931"
+            },
+            {
+                "title": "DD Sports",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/dd-sports.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=8943bbc65f65dcedf65cef8cceb15c394fcc8f9d-4c59b4245d9a8b1e4b2d888c3721bf7f-1786535732-1786524932"
+            },
+            {
+                "title": "NBC Sports",
+                "category": "Sports",
+                "logo": "https://tvassets.roarzone.net/images/nbc-sports.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=39d9f1b487505231741da0463ac8bcfe315e9d16-1e8e35bf25bc68e956ea49e7f872276d-1786535732-1786524932"
             },
             {
                 "title": "Crazy Ex",
@@ -1566,7 +1680,7 @@
     {
         "category": "Entertainment",
         "slug": "entertainment",
-        "total_channels": 42,
+        "total_channels": 39,
         "channels": [
             {
                 "title": "Geo TV",
@@ -1729,24 +1843,6 @@
                 "category": "Entertainment",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/movieplus.stream/playlist.m3u8"
-            },
-            {
-                "title": "ZEE BANGLA",
-                "category": "Entertainment",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1786521641125"
-            },
-            {
-                "title": "Sony AATH",
-                "category": "Entertainment",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1786521641604"
-            },
-            {
-                "title": "Sony Entertainment",
-                "category": "Entertainment",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1786521643190"
             },
             {
                 "title": "BTV",
@@ -1922,7 +2018,7 @@
     {
         "category": "Kids",
         "slug": "kids",
-        "total_channels": 54,
+        "total_channels": 56,
         "channels": [
             {
                 "title": "POP Up",
@@ -1995,6 +2091,18 @@
                 "category": "Kids",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8"
+            },
+            {
+                "title": "Nick",
+                "category": "Kids",
+                "logo": "https://tvassets.roarzone.net/images/55.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=c66f374438027b9f55cbb10b14c922577804e748-53b866b96c519d44323717ead3c7d4ef-1786535730-1786524930"
+            },
+            {
+                "title": "Disney JR",
+                "category": "Kids",
+                "logo": "https://tvassets.roarzone.net/images/disney-jr.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=a5e6ccd5480bb684b8fd2ecdbb05af8c083163f5-e150ddfe1c305b86f7ae9d5737e22ec3-1786535730-1786524930"
             },
             {
                 "title": "ZB Cartoon",
@@ -2791,245 +2899,602 @@
         ]
     },
     {
-        "category": "News",
-        "slug": "news",
-        "total_channels": 38,
+        "category": "Inbangla",
+        "slug": "inbangla",
+        "total_channels": 9,
         "channels": [
             {
-                "title": "BTV News",
-                "category": "News",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png",
-                "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8"
+                "title": "Star Jalsha",
+                "category": "Inbangla",
+                "logo": "https://tvassets.roarzone.net/images/30.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=0f6fc678a635a211734ed185e0aae8ea7011cf74-19e3e72c92aa3447fda089b0b454af1f-1786535728-1786524928"
             },
             {
-                "title": "NEWS18 BANGLA",
-                "category": "News",
-                "logo": "https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png",
-                "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8"
+                "title": "Star Jalsha BK",
+                "category": "Inbangla",
+                "logo": "https://tvassets.roarzone.net/images/30.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=bc99505d2e3ba5cf1717aec60b067a0f59e7b656-0583bb5ef91c23c3a7500e21dba771c3-1786535728-1786524928"
             },
             {
-                "title": "Times Of India",
-                "category": "News",
-                "logo": "https://images.seeklogo.com/logo-png/39/1/the-times-of-india-logo-png_seeklogo-398941.png",
-                "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+                "title": "Star Jalsha Movies",
+                "category": "Inbangla",
+                "logo": "https://tvassets.roarzone.net/images/31.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=593abdb9bfb66884d7a621d1b51fe7e69f154203-b29466ad95f183e28cfd70161691b345-1786535729-1786524929"
             },
             {
-                "title": "ZEE News",
-                "category": "News",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",
-                "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+                "title": "Colors Bangla",
+                "category": "Inbangla",
+                "logo": "https://tvassets.roarzone.net/images/66.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=641547e8118c619c5f3f30047f6161cf2992c1a8-66987c8c37d1b08d5e313e5ede56c1be-1786535729-1786524929"
             },
             {
-                "title": "CNN",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1786521643903"
+                "title": "ENTER10 BANGLA",
+                "category": "Inbangla",
+                "logo": "https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",
+                "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
             },
             {
-                "title": "Somoy Tv",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+                "title": "Star Jalsha HD",
+                "category": "Inbangla",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
+                "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
             },
             {
-                "title": "Jamuna TV",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+                "title": "Colors Bangla",
+                "category": "Inbangla",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6DhuRXGs_kZuJmKdAm2AjZh9mXtj0ieTG77_vwYuug&s",
+                "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8"
             },
             {
-                "title": "Independent TV",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+                "title": "SANANDA TV",
+                "category": "Inbangla",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweRp_d3WoEmdfZ5jyzM4pVULm_SUR-JRW9u9Fnrj1rg&s=10",
+                "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
             },
             {
-                "title": "DBC News HD",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
+                "title": "TV9 Bangla",
+                "category": "Inbangla",
+                "logo": "https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?_=20220522140347",
+                "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Hindi",
+        "slug": "hindi",
+        "total_channels": 34,
+        "channels": [
+            {
+                "title": "Star Plus",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/starplus.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=7d5a5d231d96a60a59407809e3ea6ea3f6f74cec-d2082e9c78429095242c341ee3a1f7ae-1786535729-1786524929"
             },
             {
-                "title": "BTV Shangshad",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+                "title": "Star Gold",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/75.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=05900a17096bd19e90c21d127dc7ab62944cd51c-81334d563428fb8afa9837e4b832843c-1786535729-1786524929"
             },
             {
-                "title": "Ekattor HD",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+                "title": "Colors",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/68.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=12eab82c67889a6104b31683242b545249647187-42d6e4973a1856de2aff37e23baf3f1e-1786535729-1786524929"
             },
             {
-                "title": "Channel 24 HD",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+                "title": "Zee Cinema",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/76.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=8f72e15c8c4ed1be3afc1835723dbb78b49c0869-da35998a6314af7441d2c44602f6f60b-1786535729-1786524929"
             },
             {
-                "title": "ATN News",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+                "title": "And Pictures",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/100.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=564d5c41e833c1870154535ef2f088d539851e1e-0217d9e354db5ba5a58d19c0ee56143a-1786535729-1786524929"
             },
             {
-                "title": "News 24 HD",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
+                "title": "Star Gold",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/75.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=744c671f6a8a884535cebceeeba790e6439b7397-d8c1d4caa8285fbb060af84fe9664f06-1786535731-1786524931"
             },
             {
-                "title": "Al Jazeera",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+                "title": "Star Gold 3",
+                "category": "Hindi",
+                "logo": "https://tvassets.roarzone.net/images/75.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=936d764f5db245b20672affb3086afdca6dba3a3-822b7e59af8d973935362e1ec4d2395f-1786535731-1786524931"
             },
             {
-                "title": "Star News",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
+                "title": "DANGAL2",
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",
+                "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
             },
             {
-                "title": "Channel 1",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+                "title": "DD Bharati",
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png",
+                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
             },
             {
-                "title": "Desh TV",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+                "title": "DD National HD",
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
+                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
             },
             {
-                "title": "ABC 7 Bay",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",
-                "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8"
+                "title": "DD URDU",
+                "category": "Hindi",
+                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp",
+                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
             },
             {
-                "title": "ABC News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
-                "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1779283763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6768af084e787f0340bb860898c7323b"
+                "title": "IND SANSAD TV 1",
+                "category": "Hindi",
+                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp",
+                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
             },
             {
-                "title": "BEK TV News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
-                "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
-            },
-            {
-                "title": "CNN",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
-                "url": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c376091ef0bd820afc51b7df095890ad"
-            },
-            {
-                "title": "AlJazeera",
-                "category": "News",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
-            },
-            {
-                "title": "DW News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",
-                "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
-            },
-            {
-                "title": "NHK World",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
-                "url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1779283773&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ef0f1eac47ab752c414b7df7414f6f0f"
-            },
-            {
-                "title": "Wion",
-                "category": "News",
-                "logo": "https://i.postimg.cc/TY8q5ggF/download.png",
-                "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
-            },
-            {
-                "title": "ANB News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31",
-                "url": "https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1779283775&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d5440e04712dc0b1241afdae93870af"
-            },
-            {
-                "title": "News 1 India",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",
-                "url": "https://tvsen6.aynaott.com/News1India/index.m3u8?e=1779283776&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6d6db6b052c40b28cf578dbd6f3a8074"
-            },
-            {
-                "title": "Sadhna Prime News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",
-                "url": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1779283776&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7c8bc4950351fd2e670989427bc7ecd"
-            },
-            {
-                "title": "TRT World",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111",
-                "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
-            },
-            {
-                "title": "Sky News",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
-                "url": "https://tvsen5.aynaott.com/skynews/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0c0ad5384d413ff6aafd6e3acbe17cb3"
-            },
-            {
-                "title": "Hindi Khabar",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",
-                "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7b43f60b9dbb9fbf01ff5e9abeac579d"
-            },
-            {
-                "title": "News Nation",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",
-                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+                "title": "IND SANSAD TV 2",
+                "category": "Hindi",
+                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp",
+                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8"
             },
             {
                 "title": "India Today",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397",
-                "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",
+                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
             },
             {
-                "title": "OAN",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",
-                "url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
+                "title": "India TV",
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
+                "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
             },
             {
-                "title": "Iran Press",
-                "category": "News",
-                "logo": "https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",
-                "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+                "title": "India TV Speed News",
+                "category": "Hindi",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/India_TV_Speed_News.png",
+                "url": "https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8"
             },
             {
-                "title": "TNP News (1080p)",
-                "category": "News",
-                "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png",
-                "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
+                "title": "NEWS | NDTV English",
+                "category": "Hindi",
+                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",
+                "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
             },
             {
-                "title": "TV5 Kannada (576p)",
-                "category": "News",
-                "logo": "https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540",
-                "url": "https://cdn-3.pishow.tv/live/1526/master.m3u8"
+                "title": "NDTV Hindi",
+                "category": "Hindi",
+                "logo": "https://logodix.com/logo/2131933.jpg",
+                "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
+            },
+            {
+                "title": "Goldmines Bollywood",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",
+                "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8"
+            },
+            {
+                "title": "Assam Talks",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
+                "url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00d6be9c7179c8b12fb13515e7ab2386"
+            },
+            {
+                "title": "Taaza TV",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
+                "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc44db12b53dcec714c1fc339270755d"
+            },
+            {
+                "title": "Dangal",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
+                "url": "https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779283890&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0538e40970744c2993c693c596911e2a"
+            },
+            {
+                "title": "Shemaroo TV",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",
+                "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+            },
+            {
+                "title": "Sheemaroo Bollywood",
+                "category": "Hindi",
+                "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+            },
+            {
+                "title": "Musics India",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",
+                "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+            },
+            {
+                "title": "9x Jalwa",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
+                "url": "https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1779283896&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c537db14645c6338e56ccd72bb375808"
+            },
+            {
+                "title": "9X Tashan",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
+                "url": "https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb3597d8295ee74869ab8887d2b85cfc"
+            },
+            {
+                "title": "Dhinchaak",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
+                "url": "https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5754f86405785dc7f982d3a318f39f65"
+            },
+            {
+                "title": "Khushboo",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
+                "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+            },
+            {
+                "title": "Manoranjan TV",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
+                "url": "https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779283898&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=315418928d40457555e899e78d4a0a9c"
+            },
+            {
+                "title": "Network 10",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
+                "url": "https://tvsen6.aynaott.com/Network10/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c18347bf18a650b71c67461777874c66"
+            },
+            {
+                "title": "Republic TV Bharat",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
+                "url": "https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c0f183f73a081615f7bbf6e17adbdf7"
+            },
+            {
+                "title": "Hindi Movie Classic 24",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",
+                "url": "https://vods2.aynaott.com/hindimovies/index.m3u8"
+            },
+            {
+                "title": "Awaaz India",
+                "category": "Hindi",
+                "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
+                "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "English",
+        "slug": "english",
+        "total_channels": 38,
+        "channels": [
+            {
+                "title": "Movies Now",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/45.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=a616d5d7878bb32b6022adf2d74a78a984e66b6f-683b9f78c142b43f4e4018c67b67cfab-1786535729-1786524929"
+            },
+            {
+                "title": "Sony Pix",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/41.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=f975cfd224cbaa4536ae40e560a2b42e20ff920c-74569a956fb65894c91365607987c7de-1786535730-1786524930"
+            },
+            {
+                "title": "Star Movies",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/starmovies.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=5c25aafa96ef8a65f9241be0844d94c10402e115-f56bb1914334c90cc9a45407547f3e9c-1786535731-1786524931"
+            },
+            {
+                "title": "DW NEWS",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/dw-news.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=b47f18f5bb2b48dd26bd076d4ad2d68f087f6f31-4fef8014d1b1aadbd0397dfbfb6f0988-1786535733-1786524933"
+            },
+            {
+                "title": "TRT World",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/trt-world.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=0b16b66867fab2a87b9ac4e426cd75b4ea4894e5-7a4c05d51cab3e353c58adac7cab7098-1786535733-1786524933"
+            },
+            {
+                "title": "Fox Weather",
+                "category": "English",
+                "logo": "https://tvassets.roarzone.net/images/fox-weather.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=ef155425656d4b295f06ba9d3fd281ec4109f0bd-cf3d1950058114b9b94e977cbf55daf1-1786535733-1786524933"
+            },
+            {
+                "title": "4k Travel",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596",
+                "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+            },
+            {
+                "title": "RDS Social TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",
+                "url": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1779283862&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fbef4d16f6abea87ad32acccd9c2a28c"
+            },
+            {
+                "title": "HBO",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04",
+                "url": "https://tvsen5.aynaott.com/hbo/index.m3u8?e=1779283863&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e4e97ebbe24cbdf38c9cd086323b3039"
+            },
+            {
+                "title": "CGTN Docu",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/319020b844885cbabcd34e3f2f84d283",
+                "url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1779283864&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c389fe4be96377c6619bf96af82d5542"
+            },
+            {
+                "title": "Fox business",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",
+                "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1779283865&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c24958e7d2f98a772a97c77e942dc078"
+            },
+            {
+                "title": "Fox 5",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",
+                "url": "https://tvsen6.aynaott.com/fox5/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3aab593a32cb4b2754467570e1c42136"
+            },
+            {
+                "title": "Discovery Family",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",
+                "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8ded49bb7e99514409772c85d44b971"
+            },
+            {
+                "title": "BRAVO",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/7604a2c87620363fce86b73731b8035d",
+                "url": "https://tvsen7.aynaott.com/bravo/index.m3u8?e=1779283867&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a60fb7d13dd4ea9bfa8669b1fc29a53c"
+            },
+            {
+                "title": "COMEDY CENTRAL",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/211d55de947bdf03f5c18b7e30e0d98b",
+                "url": "https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1779283868&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dee438a9c2f015c824a618447e11d623"
+            },
+            {
+                "title": "COOKING TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/bf9792dc04cace6a25407b6304a35046",
+                "url": "https://tvsen7.aynaott.com/cooking/index.m3u8?e=1779283869&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aaa8e6d5eb83ab5d37ccd6f73988828d"
+            },
+            {
+                "title": "EPIX TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6",
+                "url": "https://tvsen7.aynaott.com/epix/index.m3u8?e=1779283869&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=63c6b35b74665280499da54c568ff282"
+            },
+            {
+                "title": "FX TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329",
+                "url": "https://tvsen7.aynaott.com/fx/index.m3u8?e=1779283870&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6a5cabf0ab9a0d4bc794ec00af1f0371"
+            },
+            {
+                "title": "Food Network",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",
+                "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1779283870&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dda0004b8e85ccc033f3473846741003"
+            },
+            {
+                "title": "HBO 2",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba",
+                "url": "https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1779283871&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c965d65d5d57410abd166c88e5c70c8b"
+            },
+            {
+                "title": "HGTV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6",
+                "url": "https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1779283871&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b765b233682cebe7bcfb9cc380cd3353"
+            },
+            {
+                "title": "LAFF TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369",
+                "url": "https://tvsen7.aynaott.com/laff/index.m3u8?e=1779283872&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d3bc12ec0ed6e181f5e328053530e9c7"
+            },
+            {
+                "title": "LIFE TIME",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",
+                "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779283872&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=68ae0dcb6c7f8191fdf0362cf9a7ec37"
+            },
+            {
+                "title": "SYFY TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5",
+                "url": "https://tvsen7.aynaott.com/syfy/index.m3u8?e=1779283874&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e8228a5c9face446d6cc4fd3aa7e6287"
+            },
+            {
+                "title": "TLC HD",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9",
+                "url": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1779283875&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1b76eb7edd1d45d50cf85f4bf7a26ef"
+            },
+            {
+                "title": "Travel Channel",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a",
+                "url": "https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1779283876&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=61edf9ea37355b98aa9524cacb226e3b"
+            },
+            {
+                "title": "IBTV USA",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/1678abdbf203bb77af4bbf2905a3de59",
+                "url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1779283876&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b37bd23b29929a3ddf623a234640435a"
+            },
+            {
+                "title": "WEATHER CHANNEL",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",
+                "url": "https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bff83cb7a2fcd3dbef83a9a3c7b969c4"
+            },
+            {
+                "title": "CNBC TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",
+                "url": "https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779283878&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c2df62f70129f9cc7e25ecbdc050b59b"
+            },
+            {
+                "title": "CBS TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/41536a676b99c1996efbccd8f65df42b",
+                "url": "https://tvsen7.aynaott.com/cbs/index.m3u8?e=1779283878&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=38581bcdfcfefaccc60cd13023d0c783"
+            },
+            {
+                "title": "CP 24",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",
+                "url": "https://tvsen6.aynaott.com/cp24/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d067c44283da7ab173a48b7a7023089b"
+            },
+            {
+                "title": "MTV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",
+                "url": "https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eabe7b33941d288d3e5759384db43d1c"
+            },
+            {
+                "title": "USA TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",
+                "url": "https://tvsen6.aynaott.com/usa/index.m3u8?e=1779283880&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=618f7c1e32e8a9d455697be12191f933"
+            },
+            {
+                "title": "MSNBC News",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2",
+                "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1779283880&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52aa596396f3495ef93e44de7133e626"
+            },
+            {
+                "title": "Court TV",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+            },
+            {
+                "title": "Animal Planet HD",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac",
+                "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
+            },
+            {
+                "title": "ACCU WEATHER",
+                "category": "English",
+                "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+                "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
+            },
+            {
+                "title": "Adventure Earth",
+                "category": "English",
+                "logo": "https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d",
+                "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Documentary",
+        "slug": "documentary",
+        "total_channels": 4,
+        "channels": [
+            {
+                "title": "Natgeo",
+                "category": "Documentary",
+                "logo": "https://tvassets.roarzone.net/images/35.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=cf29f7b4c6a0e567fd351e5e47eb8c465659431f-9b9bf84e9177c9749ade835c0fb5c085-1786535730-1786524930"
+            },
+            {
+                "title": "Wild TV",
+                "category": "Documentary",
+                "logo": "https://tvassets.roarzone.net/images/wild-tv.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=b3725a923409163872467fb0f71400c416bb0206-75572d98cc067cce1fade71592bfa22e-1786535732-1786524932"
+            },
+            {
+                "title": "4k Travel",
+                "category": "Documentary",
+                "logo": "https://tvassets.roarzone.net/images/4k-travel.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=e56ed073017c0b1952501990c4e8b17442487208-11c79c935cca2c84a8b36227a4892294-1786535732-1786524932"
+            },
+            {
+                "title": "Travel XP",
+                "category": "Documentary",
+                "logo": "https://tvassets.roarzone.net/images/travel-xp.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=44d2800870550a1773361103539921ad71cbd5a6-f34b7e0832690f7b92af737c5eba57a9-1786535733-1786524933"
             }
         ]
     },
     {
         "category": "Bangla",
         "slug": "bangla",
-        "total_channels": 53,
+        "total_channels": 62,
         "channels": [
+            {
+                "title": "Gazi TV",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/gazi-tv.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=ebf5db8b6a176430fc7e944b7b3d64e54b06b391-4ffd63b8e07676db268001fcce1eb731-1786535731-1786524931"
+            },
+            {
+                "title": "ATN NEWS",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/atn_news.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=69b774f588a0412d636b451da838326a4f48f809-50e48ef7d1c947f0f896676cb435582d-1786535731-1786524931"
+            },
+            {
+                "title": "DBC News",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/dbc-news.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=3dbb95f151559368df2d1889ef75ac3039da8226-8641a79c20f09d59b1975810206997e2-1786535731-1786524931"
+            },
+            {
+                "title": "Maasranga",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/51.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=6a6802ecfc4478a41179b3b0060dbe3e1a52327e-720b4ca50f0fecde3be0d09c86f835bd-1786535731-1786524931"
+            },
+            {
+                "title": "RTV",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/rtv.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=290b12c45a9a9e5bfc040306c6f38691e09e1139-05daa2ec8e97c7f04d75208a09e74b35-1786535731-1786524931"
+            },
+            {
+                "title": "Boishakhi TV",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/boishakhi-tv.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=5ae382d4c0d480305245853b42f384b9ec69b487-c528a123d7cbf8add9b20ca855c6b3d9-1786535732-1786524932"
+            },
+            {
+                "title": "Banglavision TV",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/3.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=659abe1bfc0b45a69a6852fc6df33f4064ca3d43-010927675541c20217e0f4d58afc1370-1786535732-1786524932"
+            },
+            {
+                "title": "Deepto TV",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/deepto-tv.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=db8ff6dfdeaebd481afed698e2a197b06cabb1c7-a5ec83850e769e3bb5c047df3d2a057d-1786535732-1786524932"
+            },
+            {
+                "title": "DD Bangla",
+                "category": "Bangla",
+                "logo": "https://tvassets.roarzone.net/images/dd-bangla.png",
+                "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=74e2b2dcd77b89d384aaf641208aae5bf8df8d4d-be61839f01a8bf639cd4a8a7d14fc315-1786535732-1786524932"
+            },
             {
                 "title": "BTV CTG",
                 "category": "Bangla",
@@ -3351,6 +3816,235 @@
         ]
     },
     {
+        "category": "News",
+        "slug": "news",
+        "total_channels": 37,
+        "channels": [
+            {
+                "title": "BTV News",
+                "category": "News",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png",
+                "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8"
+            },
+            {
+                "title": "NEWS18 BANGLA",
+                "category": "News",
+                "logo": "https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png",
+                "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8"
+            },
+            {
+                "title": "Times Of India",
+                "category": "News",
+                "logo": "https://images.seeklogo.com/logo-png/39/1/the-times-of-india-logo-png_seeklogo-398941.png",
+                "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+            },
+            {
+                "title": "ZEE News",
+                "category": "News",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",
+                "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+            },
+            {
+                "title": "Somoy Tv",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+            },
+            {
+                "title": "Jamuna TV",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+            },
+            {
+                "title": "Independent TV",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+            },
+            {
+                "title": "DBC News HD",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
+            },
+            {
+                "title": "BTV Shangshad",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+            },
+            {
+                "title": "Ekattor HD",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+            },
+            {
+                "title": "Channel 24 HD",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+            },
+            {
+                "title": "ATN News",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+            },
+            {
+                "title": "News 24 HD",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
+            },
+            {
+                "title": "Al Jazeera",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+            },
+            {
+                "title": "Star News",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
+            },
+            {
+                "title": "Channel 1",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+            },
+            {
+                "title": "Desh TV",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+            },
+            {
+                "title": "ABC 7 Bay",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",
+                "url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8"
+            },
+            {
+                "title": "ABC News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
+                "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1779283763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6768af084e787f0340bb860898c7323b"
+            },
+            {
+                "title": "BEK TV News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
+                "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
+            },
+            {
+                "title": "CNN",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
+                "url": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c376091ef0bd820afc51b7df095890ad"
+            },
+            {
+                "title": "AlJazeera",
+                "category": "News",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+            },
+            {
+                "title": "DW News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",
+                "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+            },
+            {
+                "title": "NHK World",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
+                "url": "https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1779283773&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ef0f1eac47ab752c414b7df7414f6f0f"
+            },
+            {
+                "title": "Wion",
+                "category": "News",
+                "logo": "https://i.postimg.cc/TY8q5ggF/download.png",
+                "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+            },
+            {
+                "title": "ANB News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31",
+                "url": "https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1779283775&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d5440e04712dc0b1241afdae93870af"
+            },
+            {
+                "title": "News 1 India",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",
+                "url": "https://tvsen6.aynaott.com/News1India/index.m3u8?e=1779283776&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6d6db6b052c40b28cf578dbd6f3a8074"
+            },
+            {
+                "title": "Sadhna Prime News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",
+                "url": "https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1779283776&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7c8bc4950351fd2e670989427bc7ecd"
+            },
+            {
+                "title": "TRT World",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111",
+                "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+            },
+            {
+                "title": "Sky News",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
+                "url": "https://tvsen5.aynaott.com/skynews/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0c0ad5384d413ff6aafd6e3acbe17cb3"
+            },
+            {
+                "title": "Hindi Khabar",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",
+                "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1779283779&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7b43f60b9dbb9fbf01ff5e9abeac579d"
+            },
+            {
+                "title": "News Nation",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",
+                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+            },
+            {
+                "title": "India Today",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397",
+                "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+            },
+            {
+                "title": "OAN",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",
+                "url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
+            },
+            {
+                "title": "Iran Press",
+                "category": "News",
+                "logo": "https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",
+                "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+            },
+            {
+                "title": "TNP News (1080p)",
+                "category": "News",
+                "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png",
+                "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
+            },
+            {
+                "title": "TV5 Kannada (576p)",
+                "category": "News",
+                "logo": "https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540",
+                "url": "https://cdn-3.pishow.tv/live/1526/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "𝐁𝐚𝐧𝐠𝐥𝐚",
         "slug": "𝐁𝐚𝐧𝐠𝐥𝐚",
         "total_channels": 1,
@@ -3426,43 +4120,6 @@
         ]
     },
     {
-        "category": "Inbangla",
-        "slug": "inbangla",
-        "total_channels": 5,
-        "channels": [
-            {
-                "title": "ENTER10 BANGLA",
-                "category": "Inbangla",
-                "logo": "https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",
-                "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
-            },
-            {
-                "title": "Star Jalsha HD",
-                "category": "Inbangla",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
-                "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
-            },
-            {
-                "title": "Colors Bangla",
-                "category": "Inbangla",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6DhuRXGs_kZuJmKdAm2AjZh9mXtj0ieTG77_vwYuug&s",
-                "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8"
-            },
-            {
-                "title": "SANANDA TV",
-                "category": "Inbangla",
-                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweRp_d3WoEmdfZ5jyzM4pVULm_SUR-JRW9u9Fnrj1rg&s=10",
-                "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
-            },
-            {
-                "title": "TV9 Bangla",
-                "category": "Inbangla",
-                "logo": "https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?_=20220522140347",
-                "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Indian Bangla",
         "slug": "indian_bangla",
         "total_channels": 1,
@@ -3476,191 +4133,10 @@
         ]
     },
     {
-        "category": "Hindi",
-        "slug": "hindi",
-        "total_channels": 27,
-        "channels": [
-            {
-                "title": "DANGAL2",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",
-                "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
-            },
-            {
-                "title": "DD Bharati",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png",
-                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
-            },
-            {
-                "title": "DD National HD",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
-                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
-            },
-            {
-                "title": "DD URDU",
-                "category": "Hindi",
-                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp",
-                "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
-            },
-            {
-                "title": "IND SANSAD TV 1",
-                "category": "Hindi",
-                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp",
-                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
-            },
-            {
-                "title": "IND SANSAD TV 2",
-                "category": "Hindi",
-                "logo": "https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp",
-                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8"
-            },
-            {
-                "title": "India Today",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",
-                "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
-            },
-            {
-                "title": "India TV",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
-                "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
-            },
-            {
-                "title": "India TV Speed News",
-                "category": "Hindi",
-                "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/India_TV_Speed_News.png",
-                "url": "https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8"
-            },
-            {
-                "title": "NEWS | NDTV English",
-                "category": "Hindi",
-                "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",
-                "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
-            },
-            {
-                "title": "NDTV Hindi",
-                "category": "Hindi",
-                "logo": "https://logodix.com/logo/2131933.jpg",
-                "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
-            },
-            {
-                "title": "Goldmines Bollywood",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",
-                "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8"
-            },
-            {
-                "title": "Assam Talks",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
-                "url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00d6be9c7179c8b12fb13515e7ab2386"
-            },
-            {
-                "title": "Taaza TV",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
-                "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc44db12b53dcec714c1fc339270755d"
-            },
-            {
-                "title": "Dangal",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
-                "url": "https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779283890&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0538e40970744c2993c693c596911e2a"
-            },
-            {
-                "title": "Shemaroo TV",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",
-                "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
-            },
-            {
-                "title": "Sheemaroo Bollywood",
-                "category": "Hindi",
-                "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
-                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
-            },
-            {
-                "title": "Musics India",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",
-                "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
-            },
-            {
-                "title": "9x Jalwa",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
-                "url": "https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1779283896&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c537db14645c6338e56ccd72bb375808"
-            },
-            {
-                "title": "9X Tashan",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
-                "url": "https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb3597d8295ee74869ab8887d2b85cfc"
-            },
-            {
-                "title": "Dhinchaak",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
-                "url": "https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5754f86405785dc7f982d3a318f39f65"
-            },
-            {
-                "title": "Khushboo",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
-                "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
-            },
-            {
-                "title": "Manoranjan TV",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
-                "url": "https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779283898&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=315418928d40457555e899e78d4a0a9c"
-            },
-            {
-                "title": "Network 10",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
-                "url": "https://tvsen6.aynaott.com/Network10/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c18347bf18a650b71c67461777874c66"
-            },
-            {
-                "title": "Republic TV Bharat",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
-                "url": "https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c0f183f73a081615f7bbf6e17adbdf7"
-            },
-            {
-                "title": "Hindi Movie Classic 24",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",
-                "url": "https://vods2.aynaott.com/hindimovies/index.m3u8"
-            },
-            {
-                "title": "Awaaz India",
-                "category": "Hindi",
-                "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
-                "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Movies",
         "slug": "movies",
-        "total_channels": 41,
+        "total_channels": 39,
         "channels": [
-            {
-                "title": "Sony Max",
-                "category": "Movies",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1786521639448"
-            },
-            {
-                "title": "Sony Pix",
-                "category": "Movies",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1786521639434"
-            },
             {
                 "title": "Originals",
                 "category": "Movies",
@@ -4532,205 +5008,6 @@
                 "category": "Other",
                 "logo": "https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596",
                 "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "English",
-        "slug": "english",
-        "total_channels": 32,
-        "channels": [
-            {
-                "title": "4k Travel",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596",
-                "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
-            },
-            {
-                "title": "RDS Social TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",
-                "url": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1779283862&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fbef4d16f6abea87ad32acccd9c2a28c"
-            },
-            {
-                "title": "HBO",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04",
-                "url": "https://tvsen5.aynaott.com/hbo/index.m3u8?e=1779283863&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e4e97ebbe24cbdf38c9cd086323b3039"
-            },
-            {
-                "title": "CGTN Docu",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/319020b844885cbabcd34e3f2f84d283",
-                "url": "https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1779283864&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c389fe4be96377c6619bf96af82d5542"
-            },
-            {
-                "title": "Fox business",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",
-                "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1779283865&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c24958e7d2f98a772a97c77e942dc078"
-            },
-            {
-                "title": "Fox 5",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",
-                "url": "https://tvsen6.aynaott.com/fox5/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3aab593a32cb4b2754467570e1c42136"
-            },
-            {
-                "title": "Discovery Family",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",
-                "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1779283866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8ded49bb7e99514409772c85d44b971"
-            },
-            {
-                "title": "BRAVO",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/7604a2c87620363fce86b73731b8035d",
-                "url": "https://tvsen7.aynaott.com/bravo/index.m3u8?e=1779283867&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a60fb7d13dd4ea9bfa8669b1fc29a53c"
-            },
-            {
-                "title": "COMEDY CENTRAL",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/211d55de947bdf03f5c18b7e30e0d98b",
-                "url": "https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1779283868&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dee438a9c2f015c824a618447e11d623"
-            },
-            {
-                "title": "COOKING TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/bf9792dc04cace6a25407b6304a35046",
-                "url": "https://tvsen7.aynaott.com/cooking/index.m3u8?e=1779283869&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aaa8e6d5eb83ab5d37ccd6f73988828d"
-            },
-            {
-                "title": "EPIX TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6",
-                "url": "https://tvsen7.aynaott.com/epix/index.m3u8?e=1779283869&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=63c6b35b74665280499da54c568ff282"
-            },
-            {
-                "title": "FX TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329",
-                "url": "https://tvsen7.aynaott.com/fx/index.m3u8?e=1779283870&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6a5cabf0ab9a0d4bc794ec00af1f0371"
-            },
-            {
-                "title": "Food Network",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",
-                "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1779283870&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dda0004b8e85ccc033f3473846741003"
-            },
-            {
-                "title": "HBO 2",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba",
-                "url": "https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1779283871&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c965d65d5d57410abd166c88e5c70c8b"
-            },
-            {
-                "title": "HGTV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6",
-                "url": "https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1779283871&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b765b233682cebe7bcfb9cc380cd3353"
-            },
-            {
-                "title": "LAFF TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369",
-                "url": "https://tvsen7.aynaott.com/laff/index.m3u8?e=1779283872&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d3bc12ec0ed6e181f5e328053530e9c7"
-            },
-            {
-                "title": "LIFE TIME",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",
-                "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1779283872&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=68ae0dcb6c7f8191fdf0362cf9a7ec37"
-            },
-            {
-                "title": "SYFY TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5",
-                "url": "https://tvsen7.aynaott.com/syfy/index.m3u8?e=1779283874&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e8228a5c9face446d6cc4fd3aa7e6287"
-            },
-            {
-                "title": "TLC HD",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9",
-                "url": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1779283875&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1b76eb7edd1d45d50cf85f4bf7a26ef"
-            },
-            {
-                "title": "Travel Channel",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a",
-                "url": "https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1779283876&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=61edf9ea37355b98aa9524cacb226e3b"
-            },
-            {
-                "title": "IBTV USA",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/1678abdbf203bb77af4bbf2905a3de59",
-                "url": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8?e=1779283876&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b37bd23b29929a3ddf623a234640435a"
-            },
-            {
-                "title": "WEATHER CHANNEL",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",
-                "url": "https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bff83cb7a2fcd3dbef83a9a3c7b969c4"
-            },
-            {
-                "title": "CNBC TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",
-                "url": "https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779283878&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c2df62f70129f9cc7e25ecbdc050b59b"
-            },
-            {
-                "title": "CBS TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/41536a676b99c1996efbccd8f65df42b",
-                "url": "https://tvsen7.aynaott.com/cbs/index.m3u8?e=1779283878&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=38581bcdfcfefaccc60cd13023d0c783"
-            },
-            {
-                "title": "CP 24",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",
-                "url": "https://tvsen6.aynaott.com/cp24/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d067c44283da7ab173a48b7a7023089b"
-            },
-            {
-                "title": "MTV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",
-                "url": "https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eabe7b33941d288d3e5759384db43d1c"
-            },
-            {
-                "title": "USA TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",
-                "url": "https://tvsen6.aynaott.com/usa/index.m3u8?e=1779283880&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=618f7c1e32e8a9d455697be12191f933"
-            },
-            {
-                "title": "MSNBC News",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2",
-                "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1779283880&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52aa596396f3495ef93e44de7133e626"
-            },
-            {
-                "title": "Court TV",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8",
-                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
-            },
-            {
-                "title": "Animal Planet HD",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac",
-                "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
-            },
-            {
-                "title": "ACCU WEATHER",
-                "category": "English",
-                "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-                "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
-            },
-            {
-                "title": "Adventure Earth",
-                "category": "English",
-                "logo": "https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d",
-                "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8"
             }
         ]
     },

@@ -3,43 +3,37 @@
         "title": "Star Plus",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/starplus.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=de89ed19e764a28648bcdf9564c24093e7fd045a-1d44c19ec875482c17711cd16afe090d-1786548314-1786537514"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=e01b5a4cd96de90d33256e9bcc15ef0b4ebd71c5-0126b06183a614b5c86177fe9e4d113f-1786557337-1786546537"
     },
     {
         "title": "Star Gold",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=0fb98ed3b9b08e9be2e4ef577bb815252079742c-818d6a3106ccd3402bcbc5ce305cb7b6-1786548319-1786537519"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=73cb163f0b9ba66b2265f98cbf7532d27e77ef48-754493973b89f492609b1b979c5b43e3-1786557340-1786546540"
+    },
+    {
+        "title": "Star Gold Select",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/75.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=1a225e7373a9b1e87cc010e6f2b3b9475aad32b6-b9bd393c785cbccab06bf5b7e055ce1c-1786557340-1786546540"
+    },
+    {
+        "title": "Star Gold Romance",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/75.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=1d41ad9039888b56a61e8f11030348bbdda60525-3cb8a1962d15ec09763f7efb232c18a7-1786557340-1786546540"
     },
     {
         "title": "Colors",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/68.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=165022961604be077690dc31913f8ed799771e61-82b00c8dba887f80e2d49149484247c3-1786548318-1786537518"
-    },
-    {
-        "title": "Zee Cinema",
-        "category": "Hindi",
-        "logo": "https://tvassets.roarzone.net/images/76.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=6560c4e3ac418f4dcc3fdfa8ec6a87955f35f435-f88f1edff1c5a8ce9cf560f08407297e-1786548318-1786537518"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=47cb2735a69d03e67506380d4044d12a288590d2-bed288afe0c5fd2cc2aa585c18289413-1786557340-1786546540"
     },
     {
         "title": "And Pictures",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/100.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=0bd5968d0d2cc286c5f2ff5c89ccad662e16a808-ece4796a63ce705ba42c88f7a39d6d5e-1786548318-1786537518"
-    },
-    {
-        "title": "Star Gold",
-        "category": "Hindi",
-        "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=fd3f3db363a3c34a6fbadb159074f0bf62ead6ad-30d5a01ec990c0d10a7ba2ccae41a91c-1786548328-1786537528"
-    },
-    {
-        "title": "Star Gold 3",
-        "category": "Hindi",
-        "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=c2be9ae2a7673fef6782bf1ae668072304c8c8c2-b8e85f780adf9c04e2aae32e83dc0d7b-1786548329-1786537529"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=fd77eaca134d89c86014f9a14bbc13b059278c50-c1cad3da52789974d6e1e24df99e7d02-1786557351-1786546551"
     },
     {
         "title": "DANGAL2",

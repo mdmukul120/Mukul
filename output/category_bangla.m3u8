@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/gazi-tv.png" group-title="Bangla",Gazi TV
-https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=ebf5db8b6a176430fc7e944b7b3d64e54b06b391-4ffd63b8e07676db268001fcce1eb731-1786535731-1786524931
+https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=2dee2c21412220e2ac8c3d21edf3b0e3c626b47c-3eb20b8c6fa20b4aeed6eb88c1d0fd05-1786541151-1786530351
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/atn_news.png" group-title="Bangla",ATN NEWS
-https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=69b774f588a0412d636b451da838326a4f48f809-50e48ef7d1c947f0f896676cb435582d-1786535731-1786524931
+https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=bdcfa94542990d900b5a98212d7fa4c00668b568-41dde194b58483eff4c28b2c189d489b-1786541151-1786530351
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dbc-news.png" group-title="Bangla",DBC News
-https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=3dbb95f151559368df2d1889ef75ac3039da8226-8641a79c20f09d59b1975810206997e2-1786535731-1786524931
+https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=c39736a3f0556d1ebbacae927106715bb6febd84-6d0262dbb2986f1e8e1e2d9c5828ed64-1786541153-1786530353
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/51.png" group-title="Bangla",Maasranga
-https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=6a6802ecfc4478a41179b3b0060dbe3e1a52327e-720b4ca50f0fecde3be0d09c86f835bd-1786535731-1786524931
+https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=6b45cd26ca8905435b85ef42bd7c14b6f595aa59-243b892a4b4246283cf2dff602ee44e6-1786541155-1786530355
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/rtv.png" group-title="Bangla",RTV
-https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=290b12c45a9a9e5bfc040306c6f38691e09e1139-05daa2ec8e97c7f04d75208a09e74b35-1786535731-1786524931
+https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=13178f056bae661f154a0d9f78b50343d8440200-aa2cd69f220d1d7ffd432cada7d220a1-1786541155-1786530355
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/boishakhi-tv.png" group-title="Bangla",Boishakhi TV
-https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=5ae382d4c0d480305245853b42f384b9ec69b487-c528a123d7cbf8add9b20ca855c6b3d9-1786535732-1786524932
+https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=361285183114ea38b059c8db014944a1c0d0c7cf-d12fa165fb29c38d0de71e68f4eb67d0-1786541155-1786530355
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/3.png" group-title="Bangla",Banglavision TV
-https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=659abe1bfc0b45a69a6852fc6df33f4064ca3d43-010927675541c20217e0f4d58afc1370-1786535732-1786524932
+https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=1542cdcbd693a6e46642703ffd665903401733f2-af60790adb7cbf9a47170cb54d01588b-1786541155-1786530355
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/deepto-tv.png" group-title="Bangla",Deepto TV
-https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=db8ff6dfdeaebd481afed698e2a197b06cabb1c7-a5ec83850e769e3bb5c047df3d2a057d-1786535732-1786524932
+https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=9750085207acfc41b73a8097f24a52a6fafddbb0-1c68181ced3b3274024fa51ec2727eeb-1786541155-1786530355
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dd-bangla.png" group-title="Bangla",DD Bangla
-https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=74e2b2dcd77b89d384aaf641208aae5bf8df8d4d-be61839f01a8bf639cd4a8a7d14fc315-1786535732-1786524932
+https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=1b8bcc127276d58cf81a8d6c7b9d85a04134adc0-a7d2d5e4ebf8609fa79e57138c86a067-1786541157-1786530357
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75" group-title="Bangla",BTV CTG
 https://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg" group-title="Bangla",Duronto TV

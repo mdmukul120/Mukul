@@ -3,24 +3,24 @@
         "title": "Natgeo",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/35.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=0d4522fa6d23d24f13273692e9c3c502a718de16-fdd3e326a25c58ec3d170ad8c44efbbd-1786571715-1786560915"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=02f2a9d884f36a350af2ff79dae1ed8e6de94d85-beee1408d5e8c6b399dd70c68641849d-1786575338-1786564538"
     },
     {
         "title": "Wild TV",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/wild-tv.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=a7fecd0561d15149afe283db45a87256cdedf344-5b061e6b00623e1f02f4af2aece5906d-1786571720-1786560920"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=5ccd867fe0fabb809bbf4fb733d66c24d7666e95-ed60ce19cf688907d8cb18250d091de8-1786575348-1786564548"
     },
     {
         "title": "4k Travel",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/4k-travel.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=05c98052a0305a21fabfadd3e5ff4c12291613c2-008750da8b82e89aa52dc0af01789d53-1786571720-1786560920"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=ea1bac9f05cf0e35c6770dd7120fbbf090d98495-d63a8e9dd1e3674fe97624a1bbef4703-1786575350-1786564550"
     },
     {
         "title": "Travel XP",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/travel-xp.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=4600c38259acf905a37fd5334b928462e4b0ead4-f19f830ca44c6d07ef79764db07c69e9-1786571720-1786560920"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=2fcc45fd8d3d3c41f7c107ec440d0d11cddf0d2d-c9c9449ce83719ff1d4e4267e243eafd-1786575350-1786564550"
     }
 ]

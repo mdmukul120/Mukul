@@ -51,109 +51,121 @@
         "title": "TSports",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/102.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=2e47f240dccd0a58debcab0b085b8fd54dae9f49-e1f016eb0b65111efeedfec5e6d8b235-1786564514-1786553714"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=0e21c09fe130ff7506915f587524ee25c51a6032-20d60669567760a8d77a2dc0c6f17ad8-1786568111-1786557311"
     },
     {
         "title": "T-Sports BK",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/102.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=910b508161d95016c1fe6c97c692398c5c92c51f-b981fbce3f4520f9f14ec45c078209d9-1786564515-1786553715"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=76d5dacf11dcd373984d03b84fe14895cb0fa481-ae67aeedd74db79bb002083d57235fb6-1786568111-1786557311"
     },
     {
         "title": "Star Sports 1",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/25.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=963c8c1fb66cfaf7cb6340eea8fcfec6a682c7a8-7499bd28dbbc69ae645acbdb8a96492a-1786564516-1786553716"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=e8d4c63b5f46a4ec2906e4dc209971252ab9a604-ce61c16051def291ae2fa5e321814783-1786568111-1786557311"
     },
     {
         "title": "Star Sports 1 BK",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/25.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=98ece60a7216db8d0db8c804c94ac6cd67b0fdf2-c0c7bc523c481cf493495fd8c6dd6285-1786564515-1786553715"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=3b6126b72932291ee6bd71974eb54cc94ddb419e-bc32a6c3aff4e5f6e90ce711b29934a2-1786568111-1786557311"
     },
     {
         "title": "Star Sports 2",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/26.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=273cb9dc531c6a89fabe79d52cc98e60e8b336a5-489672c2c2ddd822123df41bd644e5c4-1786564515-1786553715"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=4b2c057ba8f5a3c60554682de6dcf426c2b0ea38-4a4e42c832094035db02eeb364d2fc47-1786568111-1786557311"
     },
     {
         "title": "Ten Cricket",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/ten_cricket.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=26d8821740da9079511e88f108abacf82b636efb-aa6618d25d525f321ff14c280120fa32-1786564519-1786553719"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=b4bfacaa450240c29f5701edcf748fb6ee552280-6f50b7eefd37499fae6a98d9e1c016e9-1786568113-1786557313"
     },
     {
         "title": "Unite8 2 HD FIFA",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/Unite8-2.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=022ad37337abd3361e66be3ccc80aa19ee833324-c33c98f33ee53ea94181ade4ff721164-1786564520-1786553720"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=a958fe1fb82a313f92982307c7a4b47624575905-8a2a7bfe07ea7bb8d7cef4f92e274605-1786568113-1786557313"
     },
     {
         "title": "Unite8 1 HD FIFA",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/Unite8-1.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=ce779bd4a70724e35bea637d2deff8e67492c231-410217d0a9d55a166a688ba47f8996d6-1786564521-1786553721"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=c905c2d5b3f366b4301e7a3f6fd5ce3c39165e29-9ae78f5f38508034b5940db89dc13909-1786568113-1786557313"
     },
     {
         "title": "Sony Ten 1",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/20.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=c69b53983161a83dd0f1ee6822086b1383133fa5-6494df9d63b3ac267409a6c8cc433c37-1786564520-1786553720"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=9a658719d7d41c43e78dccc42cc20847027a02be-1543a20ab0d550f7746609672c97d9b3-1786568113-1786557313"
     },
     {
         "title": "Sony Ten 2",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/21.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=8e1610f5027a6b2fa7f35cca7059c14128cac304-73dcb1d811c366c27f126a07d96d894c-1786564520-1786553720"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=df3923dae812b9e538f58fff8cd24764e46ffc9f-148f0bea1a45e246015d63ea94b2347b-1786568113-1786557313"
     },
     {
         "title": "Sony Ten 3",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/22.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=8fd6af55a8da66edd96125fbd5bfc9b321b9777b-ef37c4a0ec4c145c0d250b066ac44eb8-1786564527-1786553727"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=5d8a8d2aa64d924a12105afaa39b67d9488c6701-b340d5f2d69a688b0f90e17e02665c07-1786568114-1786557314"
     },
     {
         "title": "Star Sports Select 1",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/27.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=ba0f2b32a59c6634e6f20e7747ec88ccbabb33e7-5776b2462acb5cdb2db9e034b5b92c77-1786564527-1786553727"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=4c5f625a64480290644b8f2eb688b063c5ca9c57-c063c6c70f7f0b537c1b0476ec8ccb91-1786568114-1786557314"
     },
     {
         "title": "Star Sports Select 2",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/28.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=9bc82fd549066609bfcfc2ab1f880a5a1c75bff6-e438684c99fd9c5dd78c886bea2b55e9-1786564526-1786553726"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=6844d0b7cc5ff0e6b844d9865b7edb4e3f1004fa-42a00bb45e63467d5567c4dd766c2bcf-1786568114-1786557314"
     },
     {
         "title": "PTV Spotrs",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/73.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=0cb68dcce30b2ff776a2e33cbb4dad61922a6eed-bb205dd18c275e076d8b67749c31a594-1786564527-1786553727"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=02e17d62526666bcc0599852015d958ba062af2b-a304f00347c409cb9fedd781b054e876-1786568114-1786557314"
     },
     {
         "title": "ASPORTS",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/add-sports-1.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=c165c29c0e6a3091afdb95fc3ba5b87eabd47733-972aa16e8b695e388647b6e97a721d36-1786564527-1786553727"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=fcada4f84ffc82c56adc3646fc1403c6aa21e0e9-0a1384a9509117994e604eaefe9ecd9f-1786568114-1786557314"
+    },
+    {
+        "title": "Somoy TV",
+        "category": "Sports",
+        "logo": "https://tvassets.roarzone.net/images/fifa-2026.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/2/index.m3u8?token=2bca44777a5816d467607d0e8b4c404943018906-3859eb9fa6b09fdc382f3886319f6592-1786568120-1786557320"
     },
     {
         "title": "BTV",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/fifa-2026.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=df980b4df6069d48c10b5a81f2982944c6017599-e407b463c0765d952f3cc2333a6e4934-1786564554-1786553754"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=5fea22504feb21e0857196e744055f01685509f2-0b872170adc880e4bf086438b8fd1e05-1786568120-1786557320"
     },
     {
         "title": "DD Sports",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/dd-sports.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=c4a533cd953baf16dd08f6957be56ce5c44423f8-60aba49c68b51fbb0756614ca81c6937-1786564567-1786553767"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=1365c1d3a1417927aba09d3d04c2b7b4e6b5c193-f91599ba52c1c12d9699800298be4f73-1786568123-1786557323"
     },
     {
         "title": "NBC Sports",
         "category": "Sports",
         "logo": "https://tvassets.roarzone.net/images/nbc-sports.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=b0c2d6cd80f328c65b903ba3ec876e85a84705a3-cda35f53b3be2634da0be37aa076b1f5-1786564566-1786553766"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=ba82ddfc12a6ce8c80c4c1b4773505098b362594-34376ce94c5d6b151bf52bdaf00c908a-1786568123-1786557323"
+    },
+    {
+        "title": "Oman Sports TV",
+        "category": "Sports",
+        "logo": "https://tvassets.roarzone.net/images/oman-sports-tv.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/oman-sports-tv/index.m3u8?token=998250ccdc49d7abc1562accfda802a282b7c165-a1002ceed723dae7018034227abc5abe-1786568125-1786557325"
     },
     {
         "title": "Sony Sports TEN 2",

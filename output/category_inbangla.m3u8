@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/30.png" group-title="Inbangla",Star Jalsha
-https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=e13912aa520212bb295ea335346b3552e92f38d4-46c4712a8e09dd410a6e36e3420ab5d8-1786564531-1786553731
+https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=2384bb4e95cf406ac27f5695223f295a9c08e6bb-6260563d2f4922b195a26dca401a5f1d-1786568116-1786557316
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/30.png" group-title="Inbangla",Star Jalsha BK
-https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=59b320e206527f25480942f33e1ccb42e20293f0-31de10e1d70c609d2217885076f4c0ab-1786564531-1786553731
+https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=a4e4c71028cb68d1cf6470d5648db50fbd3d130a-94efc8eea0145f63094ef0b35890698a-1786568116-1786557316
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/31.png" group-title="Inbangla",Star Jalsha Movies
-https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=79b7eb055e4fffe47eb251733cd67aa122baef02-dc78132c14dc0af1a80d18b802a555e6-1786564531-1786553731
+https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=9aedc6794aed23ae388b3fa0f63b9079332b81c1-dbcdf583f3d9fb9b6c3b1d2d888c709c-1786568116-1786557316
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/66.png" group-title="Inbangla",Colors Bangla
-https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=7527f49a3cad8e5b455d61a7e93027f63e88dc7a-24e42b28fd637ec89b8e5576dc2cd46d-1786564531-1786553731
+https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=7935f740605f5a4ccf20065be8d3cff5bc8940f8-81acb458288491f95dddc93418bc45fa-1786568116-1786557316
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="Inbangla",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Inbangla",Star Jalsha HD

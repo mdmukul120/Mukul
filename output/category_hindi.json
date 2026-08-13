@@ -3,43 +3,55 @@
         "title": "Star Plus",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/starplus.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=bde6f529bc7c73af69c8f7c470256aba4553204f-27227ec462ae4304d69f979ed7f00c1c-1786607733-1786596933"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=6264d5e418f644e5be9f43beb34f2377021a299c-e0ac165bfd9cf41f5d74d2cf3a99585b-1786611314-1786600514"
     },
     {
         "title": "Star Gold",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=3ebe52b9592cccc44b2a2198dcee9a32780d99d8-51d31ffe83c41dcea81f8370158b1ded-1786607737-1786596937"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=e0e9a42239fc273e516b8d5a96737c25c33774fc-8bb2ae03c30ea79c4006a807805c88ad-1786611314-1786600514"
     },
     {
         "title": "Star Gold Select",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=14ceefb1d17cab0ae58a367b75359f9cb6559352-9e811012148e79c269bc324b7fe90282-1786607737-1786596937"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=e5a9ce0cd520003da2c7673f13395324a8cf942a-35c5ef98a73bdfb721c635e816bd4cf3-1786611314-1786600514"
     },
     {
         "title": "Star Gold Romance",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=93cfcd2f7852af33d2a2fbfddd6c6fec5d0eca90-d0c756f09f4139c4f4fe299d20678ce8-1786607738-1786596938"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=1ea6ae81595d9eaaf6b93bb400463940b60677de-8630504e0d479c19cd458359187ab0e8-1786611315-1786600515"
+    },
+    {
+        "title": "Sony Entertainment Television HD",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/sonyentertainmnt_hd.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ent/index.m3u8?token=5163cee3672a47b867c93d516392f534cb0c4148-be05e80f0db12cbd6bfcd10c130c2f96-1786611315-1786600515"
+    },
+    {
+        "title": "Sony Max",
+        "category": "Hindi",
+        "logo": "https://tvassets.roarzone.net/images/sony_max.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-max/index.m3u8?token=8b7eb3e61bc4b7b987cba0ba3a52e2da7d56f28e-c0c5e53b937a26bb7dab712a5cf31c55-1786611315-1786600515"
     },
     {
         "title": "Colors",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/68.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=a9b1f2172d092ab6625d66dfdc32b3f88ddb471d-56c4e890accb1f38077fe9ee024b55b7-1786607737-1786596937"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=49630adfd408bb20557f2dbea55bd9578b4ad91d-34916d742d94d0b68d70156220b338b6-1786611315-1786600515"
     },
     {
         "title": "Zee Cinema",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/76.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=40e0dcd9480c8bb6b6f7f4e24e194045e77c00a4-856a8819c4a78d4d12097019b087cfcf-1786607737-1786596937"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=105162a16a5383dfba09927656d7a0da2e976290-0b5df952c94656fbcdc41764c9d8f0f5-1786611315-1786600515"
     },
     {
         "title": "And Pictures",
         "category": "Hindi",
         "logo": "https://tvassets.roarzone.net/images/100.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=9f0d56d8a88b6f093d57c0e3796d039748e8a388-f40d2a24795cd44aff58515d02534b85-1786607743-1786596943"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=99fb7e6c9846cd108f63e4d1b6e08f9a058dfd73-868c83db5f088acd98b62fbcd12294f3-1786611317-1786600517"
     },
     {
         "title": "DANGAL2",

@@ -43,14 +43,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Music",Channel 5
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/b4u_music.png" group-title="Music",B4U Music
+https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=ec072d83570d5e66c76d01411d4b88570ab79014-bbfaeee9bf03a09cc90db7449420d2c0-1786611318-1786600518
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sangeet-bangla.png" group-title="Music",Sangeet Bangla BK
-https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=94db9c9d73a1808bbc8a098ae6ff2e289a37e0bb-3ce9e988238813a4a204e76b95093730-1786607747-1786596947
+https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=6d394bfe8e034826ebf5525b078a1ad252f9b863-1efaafbb752a50a0f6388893d057a4bd-1786611318-1786600518
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/9x-jalwa.jpg" group-title="Music",9x-Jalwa
-https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=fc74108509e9638fa4760e1fe3e5e23c8d5ce732-1be94c92983257e9521aa846bf4b9a7e-1786607747-1786596947
+https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=580958d07e74cc2c211b6e1a58021f07052e83b5-dd15e73b55c2ff1a1e3b1bce23644b63-1786611318-1786600518
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/48.png" group-title="Music",9xM
+https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=92bb19bb1218619b6a52d0b640d82ebad154f63a-39ab7b5ae4f57b17ba94c41c74a43eeb-1786611318-1786600518
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sangeet-bangla.png" group-title="Music",Sangeet Bangla
-https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=94d48650241fc718dc9946bdc7dfe6a70a2ebaf6-84c8ad1d88194796d01ca2a31d77e40f-1786607766-1786596966
+https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=5df7d8df51075b1e369f2ad29810112506448abe-2b27dec4141cb0eac856b9ccfa573f18-1786611325-1786600525
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/music-india.png" group-title="Music",Music India
-https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=e0ba00a688ff03f8d4d9965aec0206571fcab7b3-295563574d04c91aad23356eda91a804-1786607766-1786596966
+https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=a5aaa09e7ca86a3ca2cb086d244c58c5881da571-3846be1d177495447ee9058bac86d559-1786611325-1786600525
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="Music",9X Jalwa

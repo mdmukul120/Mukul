@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/discovery_hd.png" group-title="Documentary",Discovery HD
+https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=d6621cdb689ca731a1773753d37b6f278839142e-99ec012136ef7cb2e04b4c972255215c-1786611318-1786600518
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/35.png" group-title="Documentary",Natgeo
-https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=99fbfc4ccda78b8b8fe91c7c33aea6af98d00d76-2161e5533959e7130f56c43e028d6a89-1786607747-1786596947
+https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=e7be6e66d00fbdd37737b2b3c09d7ec055e4b346-b662445b98d11cf873ef9629cb50d8cf-1786611320-1786600520
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/wild-tv.png" group-title="Documentary",Wild TV
-https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=e600e5d672e5f9c7e47efe4a7b6307611ecbb409-9b748e133adb779c2dd2887eea941007-1786607770-1786596970
+https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=52b11825fda263123493169ce9b580c3de53d45c-5cb13ad99725af7e7605f0d55e8ee035-1786611327-1786600527
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/4k-travel.png" group-title="Documentary",4k Travel
-https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=dc9925cce89a0183353b20abec677c9d9ada00f6-e6d82488f5d0c8ae9a9dec6c0625dad7-1786607770-1786596970
+https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=770a69178257408b768cb13ae47fe6f5cacc2c13-1f3771abda310cac16545e5c886806fe-1786611327-1786600527
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/travel-xp.png" group-title="Documentary",Travel XP
-https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=083948bd773c0b91fbe66c0201b1eeadb70df8bb-3a641539f8959d54dec43f1cbd6ffe2f-1786607770-1786596970
+https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=f2c37cd63f648c3991f458c845467d46de72aa58-f8e4b940030878e56661c7cdbe476480-1786611329-1786600529

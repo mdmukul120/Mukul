@@ -56,15 +56,15 @@ https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=c37f8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/oman-sports-tv.png" group-title="Sports",Oman Sports TV
 https://edge2.roarzone.net:8447/roarzone/edge5/oman-sports-tv/index.m3u8?token=a4371887f6f2e5ec8e898b7bd366e6e4345df1e6-026fd799b9376590118f6bbfa7483be9-1786625744-1786614944
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png" group-title="Sports",Sony Sports TEN 2
-https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1786622440208
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1786626043053
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png" group-title="Sports",Sony Sports TEN 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1786622439700
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1786626042976
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png" group-title="Sports",Sony Sports TEN 5
-https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1786622439973
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1786626042715
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" group-title="Sports",Ten Cricket
-https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1786622440850
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1786626043298
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png" group-title="Sports",Euro Sports HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1786622444048
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1786626046430
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" group-title="Sports",Crazy Ex
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range

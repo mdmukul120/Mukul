@@ -24,10 +24,16 @@
         "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
     },
     {
+        "title": "Star News",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1786622444372"
+    },
+    {
         "title": "CNN",
         "category": "News",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1786618849016"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1786622445540"
     },
     {
         "title": "Somoy Tv",
@@ -88,12 +94,6 @@
         "category": "News",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
-    },
-    {
-        "title": "Star News",
-        "category": "News",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
     },
     {
         "title": "Channel 1",

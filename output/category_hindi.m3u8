@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starplus.png" group-title="Hindi",Star Plus
-https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=579fcf7e78cf4e4d924636b21385261c18c4c63f-c9aa2eed3acf7f796a0419ce309eb76e-1786600529-1786589729
+https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=bde6f529bc7c73af69c8f7c470256aba4553204f-27227ec462ae4304d69f979ed7f00c1c-1786607733-1786596933
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/75.png" group-title="Hindi",Star Gold
-https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=7a1aae5aed4bcc3c61056f59b8b2e948bb0215b9-d60a9e7285ca9942c03ecd9f337d86c5-1786600534-1786589734
+https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=3ebe52b9592cccc44b2a2198dcee9a32780d99d8-51d31ffe83c41dcea81f8370158b1ded-1786607737-1786596937
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/75.png" group-title="Hindi",Star Gold Select
-https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=3c3bf12a9bce73dc509668fb7b2b9dbdfa8884cb-9c04cfb85fe0c2fe8703596ed1f5f278-1786600534-1786589734
+https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=14ceefb1d17cab0ae58a367b75359f9cb6559352-9e811012148e79c269bc324b7fe90282-1786607737-1786596937
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/75.png" group-title="Hindi",Star Gold Romance
-https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=59269e1c1a6b2b734dc04faf70bd50ecaef1241e-3983f01d31b0062d549da8065801c402-1786600534-1786589734
+https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=93cfcd2f7852af33d2a2fbfddd6c6fec5d0eca90-d0c756f09f4139c4f4fe299d20678ce8-1786607738-1786596938
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/68.png" group-title="Hindi",Colors
-https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=345196fe56a4a36dd3f328844f259da40cbc00fc-b596fbd2211bc39cf2bfac432d8772df-1786600534-1786589734
+https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=a9b1f2172d092ab6625d66dfdc32b3f88ddb471d-56c4e890accb1f38077fe9ee024b55b7-1786607737-1786596937
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/76.png" group-title="Hindi",Zee Cinema
-https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=eca9f82b9846fe6b56d6ff701f186a8343674ced-7584aa3252d63cd68c367fa5463423f5-1786600534-1786589734
+https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=40e0dcd9480c8bb6b6f7f4e24e194045e77c00a4-856a8819c4a78d4d12097019b087cfcf-1786607737-1786596937
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/100.png" group-title="Hindi",And Pictures
-https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=b6f81e3e10cc8981027591596115cfc3dcf953ff-60e2bc206e5200b1472cf473203baaee-1786600537-1786589737
+https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=9f0d56d8a88b6f093d57c0e3796d039748e8a388-f40d2a24795cd44aff58515d02534b85-1786607743-1786596943
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="Hindi",DANGAL2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png" group-title="Hindi",DD Bharati

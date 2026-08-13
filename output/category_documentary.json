@@ -3,18 +3,24 @@
         "title": "Natgeo",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/35.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=ea93e9b8b6c3a59003118571fa7c27a95016e85c-94f88fe6da7e6078663fb357bbcd3c9f-1786600540-1786589740"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=99fbfc4ccda78b8b8fe91c7c33aea6af98d00d76-2161e5533959e7130f56c43e028d6a89-1786607747-1786596947"
     },
     {
         "title": "Wild TV",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/wild-tv.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=d6f0c8812372c7e62a146259526e575e14d76ceb-74f4fd6d7286d17e55a64c4bf1678249-1786600555-1786589755"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=e600e5d672e5f9c7e47efe4a7b6307611ecbb409-9b748e133adb779c2dd2887eea941007-1786607770-1786596970"
     },
     {
         "title": "4k Travel",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/4k-travel.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=e721f39ac9287024ccda7318136a4b4f3d9ab324-9f9950cbe77a88b07cb2fd5e88b65438-1786600556-1786589756"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=dc9925cce89a0183353b20abec677c9d9ada00f6-e6d82488f5d0c8ae9a9dec6c0625dad7-1786607770-1786596970"
+    },
+    {
+        "title": "Travel XP",
+        "category": "Documentary",
+        "logo": "https://tvassets.roarzone.net/images/travel-xp.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=083948bd773c0b91fbe66c0201b1eeadb70df8bb-3a641539f8959d54dec43f1cbd6ffe2f-1786607770-1786596970"
     }
 ]

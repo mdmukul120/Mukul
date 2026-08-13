@@ -3,37 +3,37 @@
         "title": "Movies Now",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/45.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=0643206e2a9e1da4339ae3ea3e2768c517c8ddb8-b1c8426831746deb8c675dd72f946e1d-1786643721-1786632921"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=bc04113472b501859d18804ee5afe9c12cf3eb45-d921b568341a8b2e9be4c327f44c7cd5-1786647315-1786636515"
     },
     {
         "title": "Sony Pix",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/41.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=47086860c023bd035af35500bd0a7c90e6123d7f-10fea86549b1993514bea4efd8426884-1786643721-1786632921"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=6793183ea3aea0ff0d0a2e0402d9a7f23ee8049d-e3454ce1c6b2145d45f586a9cbcf61fb-1786647315-1786636515"
     },
     {
         "title": "Star Movies",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/starmovies.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=af90e292b303c6839610f7a880b9e694b930700e-365c2b7e1a28e0f44abcfbd0fff798da-1786643728-1786632928"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=215ee90bccc01e32de273037cbfa84603a6b6b93-bae872aafa9e9db3a312eb78e0b27833-1786647318-1786636518"
     },
     {
         "title": "DW NEWS",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/dw-news.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=b76056470d63573f79d050450fa616bcd3224c9f-171a2bcc9a8d2c35858e00cea90e3f34-1786643736-1786632936"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=d65c2d2ff35188feb3ab9d673ef3841a23b78718-e3ce07a0446d3444f2e754384280925c-1786647325-1786636525"
     },
     {
         "title": "TRT World",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/trt-world.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=d133224ba11e008163bb6bccc11781aa6c4cc346-5a1ad4899cb2a1035f7143aa1ac2b0d2-1786643736-1786632936"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=71903cb2d67335e68f69f0ecfb7400e9f59ead9e-f422a84e4a3cdbc5e852b0fa648f6e01-1786647327-1786636527"
     },
     {
         "title": "Fox Weather",
         "category": "English",
         "logo": "https://tvassets.roarzone.net/images/fox-weather.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=d1d78e40400e9507dd29e3c59d9e5037d85c351f-c8e98e0f9d796fe2d5cb0d1e199eb3ac-1786643737-1786632937"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=136beca6ec1444d0e3ca1ef92687afc8b4d88948-4ef683a37d68fe73f43b6b40dea12147-1786647326-1786636526"
     },
     {
         "title": "4k Travel",

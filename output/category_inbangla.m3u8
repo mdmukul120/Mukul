@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/30.png" group-title="Inbangla",Star Jalsha
-https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=64e57844f53b42941f67a4e7270b1247b9c6eeca-8e0a6cc61dd1f6b6bfb45d7b2566e8fe-1786625721-1786614921
+https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=d4df6685bb94ee8ecf6d1a4635ab98ba7ee8557c-1350dea1276d672ace16a7cee30bdbe7-1786643711-1786632911
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/30.png" group-title="Inbangla",Star Jalsha BK
-https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=491b31bc0f863bafa5e495acec04a0f7a168c07b-3dac42c2ad2b64b27d117908f5a25dee-1786625721-1786614921
+https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=0ff57749aa449178e8ef973fd77369f0fa118c95-141a4db812ab75775016cfbd827f406c-1786643711-1786632911
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/31.png" group-title="Inbangla",Star Jalsha Movies
-https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=f1ef49febee726d725f654aace7e48c71d3556f6-19fb8b8b11e573c3eb5fabb1e5350429-1786625721-1786614921
+https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=e6617212a2db8b0ea622519b8e822317e2bfa269-2f2560cb714e46f5fc0ec61f142a4193-1786643711-1786632911
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/zee_bangla.png" group-title="Inbangla",Zee Bangla
-https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=9374a8523d7119d04b0f0d39339b8c77015a760d-4f8cf20afcd2ac0c56a19bd9e9742e4e-1786625721-1786614921
+https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=02e39861adb9696d88ea6aabcb5f39ee3eb7dab0-99f218c53bac9e82b973ef4b4d7f9e4c-1786643711-1786632911
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/zee_bangla_cinema.png" group-title="Inbangla",ZEE Bangla Cinema
-https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=763babebb9c80b172fb57bd405ded0777d13c3b5-d8281e3d8cba8471afab7a65a002b877-1786625721-1786614921
+https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=1eddb177226792c76123ea8c87332955ec1d5b78-ec736425d7f447acbeb9a2325069cefc-1786643712-1786632912
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/66.png" group-title="Inbangla",Colors Bangla
-https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=4728d981051f162ac481aaa952ca5471b4dca0f9-79830463049808ae0ffcd5a7a7dbc6e6-1786625725-1786614925
+https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=3f76373d8246aadf90160103f5a67f8e2d414612-c251441089ed07493d2248cca7bb0824-1786643714-1786632914
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonyaath.png" group-title="Inbangla",Sony Aath
-https://edge2.roarzone.net:8447/roarzone/edge7/sony-art/index.m3u8?token=a6a85d9288cc8ee322ff596aefcc150c974138e7-4cea755769219d50f8b40c34581de26a-1786625725-1786614925
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-art/index.m3u8?token=9308fa3390f9dccc89bc51bf346b0e9ba0581909-1ca5c2268f6c80c2abac6a7a77f871c9-1786643714-1786632914
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="Inbangla",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Inbangla",Star Jalsha HD

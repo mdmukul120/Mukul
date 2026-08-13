@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/45.png" group-title="English",Movies Now
-https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=e93f11387b4e366d5e9cd75ec991e0f9aecfca3b-e451bb3612a94faa3643df2d0669faa9-1786654447-1786643647
+https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=32e3575d2a9c3c45463dd68ce0338ce3bae74497-550e723e0c59f6872e58a313a49a6282-1786660622-1786649822
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/41.png" group-title="English",Sony Pix
-https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=bc6ad8bc4aa7df6977f8f620e7bf5ce6d1373006-65e6d782ec4cafc6cc475b400548c4bd-1786654447-1786643647
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=0f815f73ce72d8a67b1c22a98a66b514fe06ed87-fc197305a5c9ca25014b7ac8b6b31f5c-1786660622-1786649822
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/starmovies.png" group-title="English",Star Movies
-https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=ddf832a6723a59acc7632c7d78d61bb112ec7e9e-4cd1281f6cfed74fcec69a028ba49319-1786654448-1786643648
+https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=6a5e05fe03a668d9999265f6dcc812444778caaa-87b729a89ac2d13c9f05f26a2e4b12d2-1786660622-1786649822
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dw-news.png" group-title="English",DW NEWS
-https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=07b0e58f64a68bee84b17c71c9db1731f89a3dd3-49f306856e41467918d624fd3f794d20-1786654450-1786643650
+https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=fa1373574dfdd6541ff253943725314fa8cd64ba-bd4db844e8618ff3c8007c82e4645f33-1786660623-1786649823
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/trt-world.png" group-title="English",TRT World
-https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=a74fe96e8e7551f6c488f0caf4000773bf4fe8f7-07257d131fce8ca306987328517b15fd-1786654450-1786643650
+https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=d917c52ae8c767da4d1d3882156f2c84b04b823d-860b9bc40a82f0294efd1fe5748a8812-1786660623-1786649823
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/fox-weather.png" group-title="English",Fox Weather
-https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=c70941ae633dbd0ebc3ac8cc9652791bffda0d2c-6a07c56c7bf3a01c63ec9126e4570abe-1786654450-1786643650
+https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=d213e9f2e9884c548eb5fd1b8276677f617b695c-b3adfdb44ca68c147f06e85eaf5498dd-1786660623-1786649823
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="English",4k Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e" group-title="English",RDS Social TV

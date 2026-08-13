@@ -3,37 +3,43 @@
         "title": "Star Jalsha",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/30.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=187f84ba3006744aa868f14d0545fa232db19eba-9161c60dbb16eb171b82b204973c4c02-1786618523-1786607723"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=a751b9c49de5fd394f47688e7478cb972031ac04-0535e3a6cca366ec130bb7f6576b89af-1786622124-1786611324"
     },
     {
         "title": "Star Jalsha BK",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/30.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=9f922679d955db32095ad1fbe46c0be6a901d28c-549e2c9f06a62b5d221c13badb5dfcbc-1786618523-1786607723"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=b63a72790445674232d59ea9851eabf34c578b33-765ae9d9d8541aca7eb5a793d7a0677c-1786622124-1786611324"
     },
     {
         "title": "Star Jalsha Movies",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/31.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=8de8acb4d09f8caf6be036d3ae0d5d6ec8a20806-c8a3f9d8ada1436d98d22f491822b9f5-1786618523-1786607723"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=9cd23bdf401736af2cec34bec47d65c8a7956778-21e559ae226530cfc96fbf85ae27c89f-1786622124-1786611324"
     },
     {
         "title": "Zee Bangla",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/zee_bangla.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=f6b7faa7d1083ce13e5bfbd0878f0c5fac690b34-3def378f7939b0901492fe224192c154-1786618523-1786607723"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=18257ceceb9cf98d13b779c1fc2e504603d8b37a-72e1f7f28a7fbca75544895ff619b186-1786622124-1786611324"
     },
     {
         "title": "ZEE Bangla Cinema",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/zee_bangla_cinema.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=bb12d66dba95a271d6c163e88f0784177872265d-e1445a6c070d35854b59efc8e2643ac7-1786618523-1786607723"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=0c58be81b8bd3c88bb8b66986e9c0e6f277e5d98-d6ceeca0014f6b8b9ec41a824d67d46b-1786622124-1786611324"
     },
     {
         "title": "Colors Bangla",
         "category": "Inbangla",
         "logo": "https://tvassets.roarzone.net/images/66.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=166b7cc3209f23ed2057d6bc7d1c598d5543ec01-674115933b3fb8b6528f2c14b599a3b6-1786618526-1786607726"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=6ea3479a44433420674ac9e6e03c0c26e2df1831-e4e4a0bbe1da877d7e2edcec7f30c12e-1786622126-1786611326"
+    },
+    {
+        "title": "Sony Aath",
+        "category": "Inbangla",
+        "logo": "https://tvassets.roarzone.net/images/sonyaath.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-art/index.m3u8?token=d069728edad361a1412d17bfed90e8f7dd3ff4a2-1437764e35bd6e32c616c724d3ef766f-1786622130-1786611330"
     },
     {
         "title": "ENTER10 BANGLA",

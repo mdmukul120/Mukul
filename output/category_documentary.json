@@ -3,30 +3,30 @@
         "title": "Discovery HD",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/discovery_hd.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=4dda8a2617f8adb2ca90c9de00cbdcef1aa381d4-61454677d5ef53cd97f0f597463ca572-1786704843-1786694043"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=a9a93324fd33887a71a4491c876d21f0cfc2ab0a-e02ce876cb1c1da8a07746f06e601e9c-1786709646-1786698846"
     },
     {
         "title": "Natgeo",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/35.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=93be60b72c790e346af4e8a0c6e97af97e7529bd-2ac9106fac59712baef44fc34f6ac285-1786704843-1786694043"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=c6ba97fb132ed4ff5d2764bd2d6726c65c639907-87450dbb65e06ab239c8aaf526bf1da8-1786709647-1786698847"
     },
     {
         "title": "Wild TV",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/wild-tv.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=67d244fb7f9f46fb8d32397884fd809623d6047a-c40ffb3882cde32d0e5650b6a6771ec7-1786704843-1786694043"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=8ecf657c1abaa7494180e8e239d2834538a007d1-9ca1eb1dc141cb7ab8bf784be7ec4073-1786709648-1786698848"
     },
     {
         "title": "4k Travel",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/4k-travel.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=f3c55d1525d5886743ac5b5b3be9cfbb83a0b0ba-a11f4983b71ebaba4f3ef8bd40686347-1786704843-1786694043"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=645559e29472d437a38231d2056c49d7b8d0737e-fe20daece923253523180d1b3aee9684-1786709648-1786698848"
     },
     {
         "title": "Travel XP",
         "category": "Documentary",
         "logo": "https://tvassets.roarzone.net/images/travel-xp.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=03f863ff1f060492c07602ca0d9d581c6ef1710c-cf770511fedcc396f2e5a20e163bdf0e-1786704843-1786694043"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=b9d06a3dbbbe2365e4c4b16411d2e177904e35ba-565ee1083cc8281aa7e09ea26bdcfde7-1786709649-1786698849"
     }
 ]

@@ -135,31 +135,37 @@
         "title": "B4U Music",
         "category": "Music",
         "logo": "https://tvassets.roarzone.net/images/b4u_music.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=c410b7a0f74906e24cb833f09b400f679491c924-e3f4e34004f72ba00fdbf774b166decd-1786733665-1786722865"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=3eaab991295a94cffdcbe1f3c356765cfbb04f52-c6013c02428b01b2e9488a6f590f8d98-1786738746-1786727946"
     },
     {
         "title": "Sangeet Bangla BK",
         "category": "Music",
         "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=268799f3bfc56a6a5d376c7c4dd42617c8683219-3f7018cee6fd2a0dfc275aae60921db0-1786733659-1786722859"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=093a0d4f98cb53568b4be88af6df28956256794a-b25b016bebb0ea5337a8ad4919c7228d-1786738747-1786727947"
     },
     {
         "title": "9x-Jalwa",
         "category": "Music",
         "logo": "https://tvassets.roarzone.net/images/9x-jalwa.jpg",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=fab3b72fd536a7905183edceabff97878826d776-5a1d43c4685718655952138513fe711d-1786733659-1786722859"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=ba69170a36a9750a2703b159220c5fb5ff263ce6-56eb9ebd35d912e9bf9f97430b32b184-1786738746-1786727946"
     },
     {
         "title": "9xM",
         "category": "Music",
         "logo": "https://tvassets.roarzone.net/images/48.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=97444b0245bb357d6ad516d86d1db3b342c0c6c8-613ab621e4ed97a92c65549fff32ec3e-1786733659-1786722859"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=2a8afd08986ce3701167ee18b4f68c62ad19b174-e451c5a160125232fdf6b480c732f9be-1786738746-1786727946"
+    },
+    {
+        "title": "Sangeet Bangla",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=8c64e2e5d98acaeb802c75b8f72756848222c70a-1ab6b3887cee327169a996f8b64a8744-1786738751-1786727951"
     },
     {
         "title": "Music India",
         "category": "Music",
         "logo": "https://tvassets.roarzone.net/images/music-india.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=f4834bfbd07b961afd29f8e7e54414a6e6803399-8a4b00c0a28b6697d31165aa97c824cd-1786733677-1786722877"
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=399c34600f22f7ff2223069354752e317256e4e9-62ac099ad7d0306e35e3147fc217db9f-1786738751-1786727951"
     },
     {
         "title": "9X Tashan",

@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/discovery_hd.png" group-title="Documentary",Discovery HD
-https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=cf0c185ef4dd912879f5602548d7b266860320f2-d910abb923b4f0005508559d2ecd5c4b-1786780682-1786769882
+https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=467e81432bea4ba6e09e45847b6ba598690f17a9-c9e95d42f80f9834b0eeae8e68c331d1-1786781467-1786770667
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/35.png" group-title="Documentary",Natgeo
-https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=68be67fbc071672d6d0b48985af6bdf3035477a2-24d486093eab3cfd01ef176e4c7411c6-1786780683-1786769883
+https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=a9f2bb008e55448c90a5986d34b3a4f4df9125a7-e6b7a57e65648da54fca0c33f19f76d9-1786781467-1786770667
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/wild-tv.png" group-title="Documentary",Wild TV
-https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=90ba02e31588d67121ec6c1e63ec7d8291cf9a68-a2c330530643232269c9433fe5966a0f-1786780683-1786769883
+https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=fb6d69104f5dff655835886ea3fc208123269f2c-edf0d2f8b8bc4919f7b8d0f8defa64bb-1786781471-1786770671
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/4k-travel.png" group-title="Documentary",4k Travel
-https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=236982e6b0cf124152eecdf0e52ef2127314ae4a-fad6df1cf4d34bf8def1cc492d9716cd-1786780683-1786769883
+https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=04c9af624b125390ede32f9f3c09296110729585-d115e61c1b461b5ece17758757afdb80-1786781471-1786770671
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/travel-xp.png" group-title="Documentary",Travel XP
-https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=a1bdd4a3b805faed1013b1909eacef11f4a3ab9a-791b89e549f7ab2bf6248ba7861bd804-1786780683-1786769883
+https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=dc117ea68a9a9bc415bc8363e5e0e51c9ccba2d3-f5848812a234da8f7fbf81b8a6568942-1786781471-1786770671

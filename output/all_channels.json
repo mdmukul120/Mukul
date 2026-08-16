@@ -1,24 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Arsenal vs Manchester City Live | FA Community Shield 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Arsenal Vs Manchester City Live | FA Community Shield 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Padel",
         "slug": "padel",
         "total_channels": 2,
@@ -34,6 +15,25 @@
                 "category": "Padel",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868901271020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Trent Rockets vs Manchester Super Giants | The Hundred Men's Competition 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867599901020x576men.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Trent Rockets Vs Manchester Super Giants | The Hundred Men'S Competition 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867599901020x576men.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },
@@ -3006,19 +3006,6 @@
                 "category": "USA & Canada",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 1,
-        "channels": [
-            {
-                "title": "Trent Rockets Vs Sunrisers Leeds - Women | The Hundred Women'S Competition 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

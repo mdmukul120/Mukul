@@ -2,7 +2,7 @@
     {
         "category": "Cricket",
         "slug": "cricket",
-        "total_channels": 6,
+        "total_channels": 4,
         "channels": [
             {
                 "title": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
@@ -17,12 +17,6 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
             },
             {
-                "title": "Jamaica Kingsmen vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868086591020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
                 "title": "Australia Vs Bangladesh | Bangladesh Tour Of Australia 2026",
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg",
@@ -33,12 +27,6 @@
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-            },
-            {
-                "title": "Jamaica Kingsmen Vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868086591020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             }
         ]
     },

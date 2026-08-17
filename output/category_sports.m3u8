@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Sports Tennis
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Outside TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",CY Dubai
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Moto Racing
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Sports Connect
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",Court Sports Network
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/7c96e8a8-9be8-487f-9509-cb2fa31f35d4/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Sports",KIK Sports
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/kiksp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYJGfFL0/unnamed.webp" group-title="Sports",FIFA+ Channel
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsBPdbYx/image.png" group-title="Sports",FIFA Plus English

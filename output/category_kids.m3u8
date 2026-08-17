@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",POP Up
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/popup.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",CON Tv
-https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Kids TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Kids TV India
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Toonz Kids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Kids Creation
-https://flc2.technohaat.com/kidscreation_test/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Tiny Pop
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tinypop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Kids Max
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Pop
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/pop.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="Kids",Baby Shark
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9D2DDD/images.jpg" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfLXnmV/download.jpg" group-title="Kids",Tom & Jerry TV

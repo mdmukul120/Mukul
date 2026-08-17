@@ -1285,31 +1285,31 @@
                 "title": "Sony Sports TEN 2",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1786993244167"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1786996845777"
             },
             {
                 "title": "Sony Sports TEN 1",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1786993244350"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1786996845683"
             },
             {
                 "title": "Sony Sports TEN 5",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1786993244142"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1786996845736"
             },
             {
                 "title": "Ten Cricket",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1786993245385"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1786996847093"
             },
             {
                 "title": "Euro Sports HD",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1786993248089"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1786996849755"
             },
             {
                 "title": "Crazy Ex",
@@ -1916,19 +1916,19 @@
                 "title": "ZEE BANGLA",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1786993246476"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1786996847978"
             },
             {
                 "title": "Sony AATH",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1786993246999"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1786996848696"
             },
             {
                 "title": "Sony Entertainment",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1786993248616"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1786996850256"
             },
             {
                 "title": "BTV",
@@ -2227,28 +2227,28 @@
                 "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
             },
             {
-                "title": "BuddyStar HD",
-                "category": "Kids",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
-            },
-            {
                 "title": "Kids Stars",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
                 "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
             },
             {
-                "title": "Smarty",
+                "title": "BuddyStar HD",
                 "category": "Kids",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+                "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
             },
             {
                 "title": "Lucky Family",
                 "category": "Kids",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
                 "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
+            },
+            {
+                "title": "Smarty",
+                "category": "Kids",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+                "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
             },
             {
                 "title": "Motu Patlu",
@@ -4006,13 +4006,13 @@
                 "title": "Star News",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1786993248488"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1786996850240"
             },
             {
                 "title": "CNN",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1786993249699"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1786996851232"
             },
             {
                 "title": "Somoy Tv",
@@ -4305,13 +4305,13 @@
                 "title": "Sony Max",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1786993244978"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1786996847272"
             },
             {
                 "title": "Sony Pix",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1786993245100"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1786996847335"
             },
             {
                 "title": "Originals",
@@ -4326,6 +4326,18 @@
                 "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8"
             },
             {
+                "title": "Crimes",
+                "category": "Movies",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
+                "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8"
+            },
+            {
+                "title": "Screem",
+                "category": "Movies",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
+                "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8"
+            },
+            {
                 "title": "Superrix HD",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
@@ -4338,28 +4350,16 @@
                 "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8"
             },
             {
-                "title": "Screem",
+                "title": "Intelligence",
                 "category": "Movies",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8"
-            },
-            {
-                "title": "Crimes",
-                "category": "Movies",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8"
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
+                "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8"
             },
             {
                 "title": "True Stories",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
                 "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8"
-            },
-            {
-                "title": "Intelligence",
-                "category": "Movies",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
-                "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8"
             },
             {
                 "title": "TELECOSTA GUATEMALA 🇬🇹",

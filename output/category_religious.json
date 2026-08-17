@@ -1,5 +1,95 @@
 [
     {
+        "title": "ATN Islamic TV",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Makkah TV",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Deen TV",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Madina Live",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8"
+    },
+    {
+        "title": "Peace TV Bangla",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8"
+    },
+    {
+        "title": "Salam TV",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8"
+    },
+    {
+        "title": "Madani Ch Bangla",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madanitvbangla.stream1/playlist.m3u8"
+    },
+    {
+        "title": "Islam Channel",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchannel.stream/playlist.m3u8"
+    },
+    {
+        "title": "Iqraa",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqraa.stream/playlist.m3u8"
+    },
+    {
+        "title": "Islam Ch Bangla",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8"
+    },
+    {
+        "title": "Eman Channel",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eman.stream/playlist.m3u8"
+    },
+    {
+        "title": "Islam Tv",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Iqra Tv UK",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqratvuk.stream/playlist.m3u8"
+    },
+    {
+        "title": "i Tv USA",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/itvusa.stream/playlist.m3u8"
+    },
+    {
+        "title": "Azan Tv Canada",
+        "category": "Religious",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8"
+    },
+    {
         "title": "RTV Islam",
         "category": "Religious",
         "logo": "https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf",

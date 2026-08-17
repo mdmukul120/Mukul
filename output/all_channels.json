@@ -488,6 +488,19 @@
         ]
     },
     {
+        "category": "Willow Sports",
+        "slug": "willow_sports",
+        "total_channels": 1,
+        "channels": [
+            {
+                "title": "Willow Sports",
+                "category": "Willow Sports",
+                "logo": "https://shorturl.at/uZiuk",
+                "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Willow Hd",
         "slug": "willow_hd",
         "total_channels": 2,
@@ -541,7 +554,7 @@
                 "title": "Star Sports 1",
                 "category": "Star Sports",
                 "logo": "https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp",
-                "url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
+                "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"
             },
             {
                 "title": "Star Sports 2",

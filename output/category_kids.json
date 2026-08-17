@@ -1,75 +1,57 @@
 [
     {
-        "title": "POP Up",
+        "title": "Nick",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/popup.stream/playlist.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/55.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=46de1b08f735c8f4e52ad7c2581751f7d0ee57eb-103f1f53a9ec1287513a46e1e7b00749-1786784042-1786773242"
     },
     {
-        "title": "CON Tv",
+        "title": "Disney JR",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/disney-jr.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=2b43f77c7d733efdd87095ecc5fc6ee5bff81b5a-3f3f727d982eba38dc2ca03f97b891c2-1786784042-1786773242"
     },
     {
-        "title": "Kids TV",
+        "title": "Nikki",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8"
     },
     {
-        "title": "Kids TV India",
+        "title": "Joy",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"
     },
     {
-        "title": "Toonz Kids",
+        "title": "Funny Junior HD",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
     },
     {
-        "title": "Zoo Moo",
+        "title": "Kids Stars",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
     },
     {
-        "title": "PBS Kids",
+        "title": "BuddyStar HD",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b2000000.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
     },
     {
-        "title": "Kids Creation",
+        "title": "Lucky Family",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://flc2.technohaat.com/kidscreation_test/index.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
     },
     {
-        "title": "Tiny Pop",
+        "title": "Smarty",
         "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tinypop/playlist.m3u8"
-    },
-    {
-        "title": "Kids Max",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8"
-    },
-    {
-        "title": "Pop",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/pop.stream/playlist.m3u8"
-    },
-    {
-        "title": "Baby Shark",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-        "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8"
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
     },
     {
         "title": "Motu Patlu",

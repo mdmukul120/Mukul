@@ -1,5 +1,77 @@
 [
     {
+        "title": "POP Up",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/popup.stream/playlist.m3u8"
+    },
+    {
+        "title": "CON Tv",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8"
+    },
+    {
+        "title": "Kids TV",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Kids TV India",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8"
+    },
+    {
+        "title": "Toonz Kids",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8"
+    },
+    {
+        "title": "Zoo Moo",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+        "title": "PBS Kids",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b2000000.m3u8"
+    },
+    {
+        "title": "Kids Creation",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://flc2.technohaat.com/kidscreation_test/index.m3u8"
+    },
+    {
+        "title": "Tiny Pop",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tinypop/playlist.m3u8"
+    },
+    {
+        "title": "Kids Max",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8"
+    },
+    {
+        "title": "Pop",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/pop.stream/playlist.m3u8"
+    },
+    {
+        "title": "Baby Shark",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+        "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8"
+    },
+    {
         "title": "Nick",
         "category": "Kids",
         "logo": "https://tvassets.roarzone.net/images/55.png",
@@ -10,6 +82,24 @@
         "category": "Kids",
         "logo": "https://tvassets.roarzone.net/images/disney-jr.png",
         "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=2b43f77c7d733efdd87095ecc5fc6ee5bff81b5a-3f3f727d982eba38dc2ca03f97b891c2-1786784042-1786773242"
+    },
+    {
+        "title": "ZB Cartoon",
+        "category": "Kids",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfaebe9084c7a7c494b0e61a48aad39.png",
+        "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+        "title": "Kids Pang TV",
+        "category": "Kids",
+        "logo": "https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",
+        "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
+    },
+    {
+        "title": "PBS Kids",
+        "category": "Kids",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/500px-PBS_Kids_logo_%282022%29.svg.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     },
     {
         "title": "Nikki",
@@ -52,197 +142,5 @@
         "category": "Kids",
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
         "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
-    },
-    {
-        "title": "Motu Patlu",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/yd9D2DDD/images.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Tom & Jerry TV",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/fWfLXnmV/download.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Bantul The Great",
-        "category": "Kids",
-        "logo": "https://imglink.cc/cdn/_OIh6UYTpa.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Doraemon TV",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/VvkcnTPs/download.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Oggy and the Cockroaches",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/15bL34t2/download.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "title": "Mr Bean Animated",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/PxL7HjH2/download.jpg",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-    },
-    {
-        "title": "Cartoon Network HD+",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/XYwb6R0c/download.png",
-        "url": "http://198.195.239.50:8095/CartoonNetwork/index.m3u8"
-    },
-    {
-        "title": "Cartoon Network",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",
-        "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1780236747&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=484b95438082f7b95ea41ae6f1f6a701"
-    },
-    {
-        "title": "Disney JR",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",
-        "url": "https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1779283918&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5269dc1176c26984cb3eff6a2c891c14"
-    },
-    {
-        "title": "Nicktoons",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",
-        "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1779283918&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbed6be573aa4a90a753bfb8fc060038"
-    },
-    {
-        "title": "Nickjr",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",
-        "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1779283919&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4708f179311f53518e4b1a8b697c8c1e"
-    },
-    {
-        "title": "3ABN Kids",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",
-        "url": "https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1779283920&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2032eede500d4def7448a9c0d71103e1"
-    },
-    {
-        "title": "Dios Te Ve Kids",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",
-        "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
-    },
-    {
-        "title": "Kids Pang TV",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",
-        "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
-    },
-    {
-        "title": "Moonbug Kids",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",
-        "url": "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1779283923&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52145358ed3be27c1e34ba90b246262a"
-    },
-    {
-        "title": "Disney Channel",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",
-        "url": "https://tvsen7.aynaott.com/disney/index.m3u8?e=1779283925&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=edae9ca94bed2313e48e56a9085b496d"
-    },
-    {
-        "title": "Disney XD",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989",
-        "url": "https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1779283925&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ffdc9b78c58295f55906f225a10a425c"
-    },
-    {
-        "title": "Nickelodeon",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541",
-        "url": "https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1779283926&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6cbf077eae56bf7598b035f3c466d2b1"
-    },
-    {
-        "title": "Teen Nick",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be",
-        "url": "https://tvsen7.aynaott.com/teennick/index.m3u8?e=1779283927&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3404b7a0258a1438c3f8204f2df21ddc"
-    },
-    {
-        "title": "YTV",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",
-        "url": "https://tvsen6.aynaott.com/ytv/index.m3u8?e=1779283928&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=da75648d71ae8bd710a9bb53e62ce4c0"
-    },
-    {
-        "title": "TVCARiB Kids & Teens",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
-    },
-    {
-        "title": "BuddyStar HD",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
-    },
-    {
-        "title": "Joy",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"
-    },
-    {
-        "title": "Funny Junior HD",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/bNNYTFxZ/download.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
-    },
-    {
-        "title": "Smarty",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
-    },
-    {
-        "title": "Lucky Family",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
-    },
-    {
-        "title": "Kids Stars",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
-    },
-    {
-        "title": "Nikki",
-        "category": "Kids",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8"
-    },
-    {
-        "title": "Jungle Book",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/gcD7byGR/IMG-20260529-213258.jpg",
-        "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
-    },
-    {
-        "title": "DISCOVERY KIDS HD",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/vT6fKNsS/image.png",
-        "url": "http://198.195.239.50:8095/DiscoveryKids/index.m3u8"
-    },
-    {
-        "title": "Zoo Moo",
-        "category": "Kids",
-        "logo": "https://i.postimg.cc/BQVgZkN6/images.png",
-        "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
-    },
-    {
-        "title": "PBS Kids",
-        "category": "Kids",
-        "logo": "https://s3.aynaott.com/storage/e15930189f48df6d429c269bd1edea99",
-        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     }
 ]

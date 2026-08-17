@@ -54,99 +54,69 @@
         "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=10885e224c33188cd80eafa041b4dafcde7e329b-c810068ce1ac4264ad53d8e08edf34a9-1786784042-1786773242"
     },
     {
-        "title": "Goldmines Bollywood",
+        "title": "DANGAL2",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",
-        "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",
+        "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
     },
     {
-        "title": "Assam Talks",
+        "title": "DD Bharati",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
-        "url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00d6be9c7179c8b12fb13515e7ab2386"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     },
     {
-        "title": "Taaza TV",
+        "title": "DD National HD",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
-        "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc44db12b53dcec714c1fc339270755d"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
     },
     {
-        "title": "Dangal",
+        "title": "DD URDU",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
-        "url": "https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779283890&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0538e40970744c2993c693c596911e2a"
+        "logo": "https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
     },
     {
-        "title": "Shemaroo TV",
+        "title": "IND SANSAD TV 1",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",
-        "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+        "logo": "https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
     },
     {
-        "title": "Sheemaroo Bollywood",
+        "title": "IND SANSAD TV 2",
         "category": "Hindi",
-        "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+        "logo": "https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8"
     },
     {
-        "title": "Musics India",
+        "title": "India Today",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",
-        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
     },
     {
-        "title": "9x Jalwa",
+        "title": "India TV",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
-        "url": "https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1779283896&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c537db14645c6338e56ccd72bb375808"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
+        "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
     },
     {
-        "title": "9X Tashan",
+        "title": "India TV Speed News",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
-        "url": "https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb3597d8295ee74869ab8887d2b85cfc"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/India_TV_Speed_News.png",
+        "url": "https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8"
     },
     {
-        "title": "Dhinchaak",
+        "title": "NEWS | NDTV English",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
-        "url": "https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5754f86405785dc7f982d3a318f39f65"
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
     },
     {
-        "title": "Khushboo",
+        "title": "NDTV Hindi",
         "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
-        "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
-    },
-    {
-        "title": "Manoranjan TV",
-        "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
-        "url": "https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779283898&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=315418928d40457555e899e78d4a0a9c"
-    },
-    {
-        "title": "Network 10",
-        "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
-        "url": "https://tvsen6.aynaott.com/Network10/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c18347bf18a650b71c67461777874c66"
-    },
-    {
-        "title": "Republic TV Bharat",
-        "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
-        "url": "https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c0f183f73a081615f7bbf6e17adbdf7"
-    },
-    {
-        "title": "Hindi Movie Classic 24",
-        "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",
-        "url": "https://vods2.aynaott.com/hindimovies/index.m3u8"
-    },
-    {
-        "title": "Awaaz India",
-        "category": "Hindi",
-        "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
-        "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
+        "logo": "https://logodix.com/logo/2131933.jpg",
+        "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
     }
 ]

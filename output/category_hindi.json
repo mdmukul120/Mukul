@@ -118,5 +118,101 @@
         "category": "Hindi",
         "logo": "https://logodix.com/logo/2131933.jpg",
         "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
+    },
+    {
+        "title": "Goldmines Bollywood",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",
+        "url": "https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8"
+    },
+    {
+        "title": "Assam Talks",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
+        "url": "https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1779283888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=00d6be9c7179c8b12fb13515e7ab2386"
+    },
+    {
+        "title": "Taaza TV",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
+        "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8?e=1779283889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc44db12b53dcec714c1fc339270755d"
+    },
+    {
+        "title": "Dangal",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
+        "url": "https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779283890&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0538e40970744c2993c693c596911e2a"
+    },
+    {
+        "title": "Shemaroo TV",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",
+        "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+    },
+    {
+        "title": "Sheemaroo Bollywood",
+        "category": "Hindi",
+        "logo": "https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+    },
+    {
+        "title": "Musics India",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",
+        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+    },
+    {
+        "title": "9x Jalwa",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
+        "url": "https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1779283896&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c537db14645c6338e56ccd72bb375808"
+    },
+    {
+        "title": "9X Tashan",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
+        "url": "https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb3597d8295ee74869ab8887d2b85cfc"
+    },
+    {
+        "title": "Dhinchaak",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
+        "url": "https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1779283897&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5754f86405785dc7f982d3a318f39f65"
+    },
+    {
+        "title": "Khushboo",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
+        "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+    },
+    {
+        "title": "Manoranjan TV",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
+        "url": "https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779283898&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=315418928d40457555e899e78d4a0a9c"
+    },
+    {
+        "title": "Network 10",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
+        "url": "https://tvsen6.aynaott.com/Network10/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c18347bf18a650b71c67461777874c66"
+    },
+    {
+        "title": "Republic TV Bharat",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
+        "url": "https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1779283899&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c0f183f73a081615f7bbf6e17adbdf7"
+    },
+    {
+        "title": "Hindi Movie Classic 24",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",
+        "url": "https://vods2.aynaott.com/hindimovies/index.m3u8"
+    },
+    {
+        "title": "Awaaz India",
+        "category": "Hindi",
+        "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
+        "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
     }
 ]

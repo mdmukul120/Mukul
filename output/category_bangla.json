@@ -178,5 +178,233 @@
         "category": "Bangla",
         "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
         "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+    },
+    {
+        "title": "ETV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",
+        "url": "https://tvsen6.aynaott.com/etv/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2c4b5c7a7044076e38b667d37971baec"
+    },
+    {
+        "title": "RTV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d",
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779283751&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=678f1f8ec03b1af7b76d013d33f45198"
+    },
+    {
+        "title": "Channel 1 News 4K",
+        "category": "Bangla",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "title": "Gazi TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
+        "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1779283754&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0cdc69aae0d57f2ce93a41a608a3d821"
+    },
+    {
+        "title": "ATN Bangla",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",
+        "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253"
+    },
+    {
+        "title": "Duronto TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",
+        "url": "https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3da514e08a15c80daed60a18b3f423fa"
+    },
+    {
+        "title": "Bijoy TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87",
+        "url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1779283761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5c8b85f4f92c654640f3abdc1ac061c6"
+    },
+    {
+        "title": "Thikana",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",
+        "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8"
+    },
+    {
+        "title": "Global TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44",
+        "url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779283760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9877fe1456ffd7b4e155ff0dc042c176"
+    },
+    {
+        "title": "NEXUS TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0",
+        "url": "https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779283761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbcba35ac711c3545a56b3580503ee00"
+    },
+    {
+        "title": "Bangla TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864",
+        "url": "https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6"
+    },
+    {
+        "title": "Rajdhani TV",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/1R2pmNS1/images-(12).jpg",
+        "url": "https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8"
+    },
+    {
+        "title": "NRB TV",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/4yfxvgj5/images-(13).jpg",
+        "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8"
+    },
+    {
+        "title": "BTV NATIONAL HD",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8"
+    },
+    {
+        "title": "Asian TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c",
+        "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8"
+    },
+    {
+        "title": "Movie Bangla TV",
+        "category": "Bangla",
+        "logo": "https://tvassets.roarzone.net/images/86.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8?token=f1153ce106f107a9c3e37bd2b551e3d0184519c3-cfc48222db91c2002e7fae0d54efda6b-1780020918-1780010118"
+    },
+    {
+        "title": "Desh TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb",
+        "url": "https://tvsen6.aynaott.com/deshtv/index.m3u8?e=1779283755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9cf4584fd86e1427935f23b30fd28799"
+    },
+    {
+        "title": "Boishakhi TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",
+        "url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3f4ec98ffbd9567c21e8b2ee98e32d5"
+    },
+    {
+        "title": "SATV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",
+        "url": "https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=336f19de5e4aacae753d7524d86d1a89"
+    },
+    {
+        "title": "Ananda TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d",
+        "url": "https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=504b9350b4703116ca4ab20e4013288e"
+    },
+    {
+        "title": "My TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac",
+        "url": "https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0a2ae0189a44e789d3fecffe5a474ec3"
+    },
+    {
+        "title": "Deshe Bideshe",
+        "category": "Bangla",
+        "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
+        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
+    },
+    {
+        "title": "Mohona TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",
+        "url": "https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779283762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=017ac949515fd9b0181090287f362d2b"
+    },
+    {
+        "title": "Nagorik",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/QNvqqXb3/images.png",
+        "url": "http://198.195.239.50:8095/nagorik/index.m3u8"
+    },
+    {
+        "title": "Channel S",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/5tPJcCrR/Channel-S-400.jpg",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+    },
+    {
+        "title": "Green TV HD",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/sxCR3jm7/images.jpg",
+        "url": "https://tvsen6.aynaott.com/GreenTvHD/index.m3u8"
+    },
+    {
+        "title": "Green TV",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/sxCR3jm7/images.jpg",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+    },
+    {
+        "title": "Deshi TV",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/yxtg5FPs/download.png",
+        "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    },
+    {
+        "title": "ME TV",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/s2j9CCS7/download.jpg",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8"
+    },
+    {
+        "title": "Enterr 10 Bangla",
+        "category": "Bangla",
+        "logo": "https://i.postimg.cc/0y8JbdQP/download.png",
+        "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+    },
+    {
+        "title": "kolkata TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",
+        "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1779283837&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8cc8bac4fecb91a1f2e5443bbc180545"
+    },
+    {
+        "title": "ABP Ananda",
+        "category": " Bangla",
+        "logo": "https://i.postimg.cc/t7Gn9VtZ/abpananda.png",
+        "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8"
+    },
+    {
+        "title": "R Plus",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",
+        "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+    },
+    {
+        "title": "Zee 24 Ghanta",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/fea79ac5193dd9fb80aa1996f2adc1e2",
+        "url": "https://tvsen6.aynaott.com/zee24/index.m3u8?e=1779283836&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40021614a85616c858c5a6839f22dcc6"
+    },
+    {
+        "title": "Republic Bangla",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/18cb20e8e53eb27249c62d3aedf51241",
+        "url": "https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1779283835&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd3c370d04fa673a7faa815a98ef3ed9"
+    },
+    {
+        "title": "Channel I",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204",
+        "url": "https://tvsen6.aynaott.com/channeli/index.m3u8?e=1780236740&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=344430be3b01a6555e7a71f89ade04c1"
+    },
+    {
+        "title": "Deepto TV",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c",
+        "url": "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8?e=1780236741&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d5bbb9aac7d5ef64538fd58bf6709a1d"
+    },
+    {
+        "title": "Channel 9",
+        "category": "Bangla",
+        "logo": "https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43",
+        "url": "https://tvsen6.aynaott.com/channel9/index.m3u8?e=1780236741&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=318beec50e50e09a42beefe4a9b32802"
     }
 ]

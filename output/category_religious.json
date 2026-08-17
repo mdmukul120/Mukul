@@ -88,5 +88,35 @@
         "category": "Religious",
         "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8"
+    },
+    {
+        "title": "RTV Islam",
+        "category": "Religious",
+        "logo": "https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf",
+        "url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8"
+    },
+    {
+        "title": "Channel Win",
+        "category": "Religious",
+        "logo": "https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7",
+        "url": "https://cdn-4.pishow.tv/live/229/master.m3u8"
+    },
+    {
+        "title": "Deen TV",
+        "category": "Religious",
+        "logo": "https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e",
+        "url": "https://tvsen7.aynaott.com/deen/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d49bc388cc0adea4907ecc83f4c83c4c"
+    },
+    {
+        "title": "Eman Channel",
+        "category": "Religious",
+        "logo": "https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce",
+        "url": "https://tvsen6.aynaott.com/eman/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=08f8a7c54838dd4274f8b058bbed710e"
+    },
+    {
+        "title": "MADANI TV",
+        "category": "Religious",
+        "logo": "https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",
+        "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779283937&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e3699711dd88227b533acc570b06a7b"
     }
 ]

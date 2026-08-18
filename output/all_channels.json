@@ -1,48 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 6,
-        "channels": [
-            {
-                "title": "Levski Sofia vs AEK | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-            },
-            {
-                "title": "Dinamo Zagreb vs Viking | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Fenerbache vs OL | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "Levski Sofia Vs AEK | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-            },
-            {
-                "title": "Dinamo Zagreb Vs Viking | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Fenerbache Vs OL | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

@@ -1,5 +1,113 @@
 [
     {
+        "title": "BTV News",
+        "category": "News",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png",
+        "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8"
+    },
+    {
+        "title": "NEWS18 BANGLA",
+        "category": "News",
+        "logo": "https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png",
+        "url": "https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8"
+    },
+    {
+        "title": "Times Of India",
+        "category": "News",
+        "logo": "https://images.seeklogo.com/logo-png/39/1/the-times-of-india-logo-png_seeklogo-398941.png",
+        "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+    },
+    {
+        "title": "ZEE News",
+        "category": "News",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",
+        "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+    },
+    {
+        "title": "Star News",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1787079646557"
+    },
+    {
+        "title": "CNN",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770610404979.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1787079647642"
+    },
+    {
+        "title": "Somoy Tv",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+    },
+    {
+        "title": "Jamuna TV",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+    },
+    {
+        "title": "Independent TV",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+    },
+    {
+        "title": "DBC News HD",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
+    },
+    {
+        "title": "BTV Shangshad",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+    },
+    {
+        "title": "Ekattor HD",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+    },
+    {
+        "title": "Channel 24 HD",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+    },
+    {
+        "title": "ATN News",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+    },
+    {
+        "title": "News 24 HD",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
+    },
+    {
+        "title": "Al Jazeera",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+    },
+    {
+        "title": "Channel 1",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+    },
+    {
+        "title": "Desh TV",
+        "category": "News",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+    },
+    {
         "title": "ABC 7 Bay",
         "category": "News",
         "logo": "https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",

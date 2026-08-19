@@ -1,38 +1,50 @@
 [
     {
-        "title": "Levski Sofia vs AEK | UEFA Champions League 2026/27",
+        "title": "NEC vs Bodo/Glimt | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870407561020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "Celtic vs LASK | UEFA Champions League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870409441020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+    },
+    {
+        "title": "H. Beer-Sheva vs Sabah | UEFA Champions League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870410891020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
     },
     {
-        "title": "Dinamo Zagreb vs Viking | UEFA Champions League 2026/27",
+        "title": "Slovan Bratislava vs Celje | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870412141020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
-        "title": "Fenerbache vs OL | UEFA Champions League 2026/27",
+        "title": "NEC Vs Bodo/Glimt | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870407561020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Levski Sofia Vs AEK | UEFA Champions League 2026/27",
+        "title": "Celtic Vs LASK | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870409441020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+    },
+    {
+        "title": "H. Beer-Sheva Vs Sabah | UEFA Champions League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870410891020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
     },
     {
-        "title": "Dinamo Zagreb Vs Viking | UEFA Champions League 2026/27",
+        "title": "Slovan Bratislava Vs Celje | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
-    {
-        "title": "Fenerbache Vs OL | UEFA Champions League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870412141020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     }
 ]

@@ -130,5 +130,83 @@
         "category": "Music",
         "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8"
+    },
+    {
+        "title": "B4U Music",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/b4u_music.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=c3448a68ea7459dff42b9ef4a5261bcf0da0b859-0c031891cfbbc6dd719d41607fe41fef-1786784042-1786773242"
+    },
+    {
+        "title": "Sangeet Bangla BK",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=9f295ae3970e36927cc23b93770afb008daf6bad-6c7d6e978708c81ad8bde393839f2366-1786784042-1786773242"
+    },
+    {
+        "title": "9x-Jalwa",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/9x-jalwa.jpg",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=fd96ed06a4f99032d71971afa8288a08625ddb7b-9946992bbe19dfd327ebd8fc7aa82fa0-1786784042-1786773242"
+    },
+    {
+        "title": "9xM",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/48.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=900b9fe20f49259fe3e45f8ce2edab5551ab1794-b26c784a3cf174ad02a9f26fc3fc65f7-1786784042-1786773242"
+    },
+    {
+        "title": "Sangeet Bangla",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=41f436222ffd8620578b311df409d2046a65106e-f18e4d8598d70199510218c7edbcc19e-1786784042-1786773242"
+    },
+    {
+        "title": "Music India",
+        "category": "Music",
+        "logo": "https://tvassets.roarzone.net/images/music-india.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=2af940aa36aa7d069156cea21deded128fb7cf87-ed34f1a1f73d49a835d7c44d268b7e33-1786784042-1786773242"
+    },
+    {
+        "title": "9X Tashan",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8"
+    },
+    {
+        "title": "9X Jalwa",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
+    },
+    {
+        "title": "9X Jhakaas",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8"
+    },
+    {
+        "title": "Sangeet Bangla",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/LmVOSdl3ku.png",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    },
+    {
+        "title": "Bengali Beat",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://tplay.live/originals/bengali-beats/index.m3u8"
+    },
+    {
+        "title": "Albania Music",
+        "category": "Music",
+        "logo": "https://imglink.cc/cdn/IYDn_LwwiV.png",
+        "url": "https://albportal.net/albkanalemusic.m3u8"
+    },
+    {
+        "title": "Party Universe",
+        "category": "Music",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8"
     }
 ]

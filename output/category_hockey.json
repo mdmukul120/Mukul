@@ -6,9 +6,21 @@
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
+        "title": "England vs Wales | FIH Hockey World Cup 2026",
+        "category": "Hockey",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870499701020x576MEN.jpg",
+        "url": "https://wcemeabackup.akamaized.net/hls/live/2103768/ucl-3tap293/master.m3u8"
+    },
+    {
         "title": "Argentina Vs Scotland - W | FIH Hockey World Cup 2026",
         "category": "Hockey",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871312231020x576WOMEN.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+        "title": "England Vs Wales | FIH Hockey World Cup 2026",
+        "category": "Hockey",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870499701020x576MEN.jpg",
+        "url": "https://wcemeabackup.akamaized.net/hls/live/2103768/ucl-3tap293/master.m3u8"
     }
 ]

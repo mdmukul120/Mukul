@@ -1,20 +1,39 @@
 [
     {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "England vs Pakistan | Pakistan Tour of England 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Hockey",
         "slug": "hockey",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Chile vs Australia - W | FIH Hockey World Cup 2026",
+                "title": "Argentina vs Scotland - W | FIH Hockey World Cup 2026",
                 "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870591481020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871312231020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
-                "title": "Chile Vs Australia - W | FIH Hockey World Cup 2026",
+                "title": "Argentina Vs Scotland - W | FIH Hockey World Cup 2026",
                 "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870591481020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871312231020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             }
         ]
     },

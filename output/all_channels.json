@@ -1,24 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Atletico Madrid vs Malaga | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871347421020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Atletico Madrid Vs Malaga | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871347421020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

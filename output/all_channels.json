@@ -21,25 +21,13 @@
     {
         "category": "Hockey",
         "slug": "hockey",
-        "total_channels": 4,
+        "total_channels": 2,
         "channels": [
-            {
-                "title": "India vs England - W | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871390181020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            },
             {
                 "title": "Ireland vs Spain | FIH Hockey World Cup 2026",
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871375521020x576MEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "India Vs England - W | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871390181020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             },
             {
                 "title": "Ireland Vs Spain | FIH Hockey World Cup 2026",
@@ -1316,49 +1304,49 @@
                 "title": "Sony Sports TEN 2",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1787234443685"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1787238086380"
             },
             {
                 "title": "Sony Sports TEN 1",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1787234443888"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd?_t=1787238085959"
             },
             {
                 "title": "Sony Sports TEN 5",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1787234443510"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd?_t=1787238085689"
             },
             {
                 "title": "PL Live 1",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1787208908285.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1787234443818"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd?_t=1787238087091"
             },
             {
                 "title": "PL Live 2",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1787209455553.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1787234444121"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1787238086487"
             },
             {
                 "title": "PL Live 3",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1787209803973.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd?_t=1787234444267"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd?_t=1787238086654"
             },
             {
                 "title": "Ten Cricket",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1787234444453"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd?_t=1787238087053"
             },
             {
                 "title": "Euro Sports HD",
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1787234447605"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd?_t=1787238089882"
             },
             {
                 "title": "Crazy Ex",
@@ -1965,19 +1953,19 @@
                 "title": "ZEE BANGLA",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1787234445856"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd?_t=1787238088316"
             },
             {
                 "title": "Sony AATH",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1787234446281"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd?_t=1787238088943"
             },
             {
                 "title": "Sony Entertainment",
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1787234447839"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1787238090817"
             },
             {
                 "title": "BTV",
@@ -4055,13 +4043,13 @@
                 "title": "ATN News",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.mpd?_t=1787234446277"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.mpd?_t=1787238088819"
             },
             {
                 "title": "News 24 HD",
                 "category": "News",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd?_t=1787234447170"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd?_t=1787238089257"
             },
             {
                 "title": "Somoy Tv",
@@ -4336,13 +4324,13 @@
                 "title": "Sony Max",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1787234445475"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1787238087353"
             },
             {
                 "title": "Sony Pix",
                 "category": "Movies",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780311807965.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1787234444883"
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd?_t=1787238087608"
             },
             {
                 "title": "Originals",

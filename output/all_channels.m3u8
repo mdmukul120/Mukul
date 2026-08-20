@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872191951020x576WOMEN.jpg" group-title="Hockey",Belgium vs Ireland - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872191951020x576WOMEN.jpg" group-title="Hockey",Belgium Vs Ireland - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871348871020x576.jpg" group-title="Football",Rayo Vallecano vs Alaves | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871348871020x576.jpg" group-title="Football",Rayo Vallecano Vs Alaves | Laliga 2026/27

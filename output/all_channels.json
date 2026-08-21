@@ -2,14 +2,8 @@
     {
         "category": "Football",
         "slug": "football",
-        "total_channels": 4,
+        "total_channels": 2,
         "channels": [
-            {
-                "title": "Al Qadsiah vs Al-Ittihad | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873121401020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
             {
                 "title": "Betis vs Real Sociedad | Laliga 2026/27",
                 "category": "Football",
@@ -17,35 +11,10 @@
                 "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             },
             {
-                "title": "Al Qadsiah Vs Al-Ittihad | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873121401020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
                 "title": "Betis Vs Real Sociedad | Laliga 2026/27",
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873103211020x576.jpg",
                 "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Hockey",
-        "slug": "hockey",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Australia vs Belgium | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872944761020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "Australia Vs Belgium | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872944761020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             }
         ]
     },

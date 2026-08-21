@@ -1,20 +1,14 @@
 [
     {
-        "title": "Ireland vs Malaysia | FIH Hockey World Cup 2026",
-        "category": "Hockey",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872937731020x576MEN.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-    },
-    {
         "title": "China vs Australia - W | FIH Hockey World Cup 2026",
         "category": "Hockey",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873097391020x576WOMEN.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     },
     {
-        "title": "Ireland Vs Malaysia | FIH Hockey World Cup 2026",
+        "title": "Germany vs Spain | FIH Hockey World Cup 2026",
         "category": "Hockey",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872937731020x576MEN.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872940921020x576MEN.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
@@ -22,5 +16,11 @@
         "category": "Hockey",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873097391020x576WOMEN.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+        "title": "Germany Vs Spain | FIH Hockey World Cup 2026",
+        "category": "Hockey",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872940921020x576MEN.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]

@@ -1,24 +1,5 @@
 [
     {
-        "category": "Kabaddi",
-        "slug": "kabaddi",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Hungary vs England | Euro Beach Kabaddi Championship 2026",
-                "category": "Kabaddi",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872972151020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            },
-            {
-                "title": "Hungary Vs England | Euro Beach Kabaddi Championship 2026",
-                "category": "Kabaddi",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872972151020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Hockey",
         "slug": "hockey",
         "total_channels": 2,

@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg" group-title="Hockey",New Zealand vs Wales | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg" group-title="Hockey",Ireland vs Scotland - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg" group-title="Hockey",New Zealand Vs Wales | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg" group-title="Kabaddi",Poland vs Hungary | Euro Beach Kabaddi Championship 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg" group-title="Hockey",Ireland Vs Scotland - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873060801020x576.jpg" group-title="Kabaddi",Poland vs England - W | Euro Beach Kabaddi Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg" group-title="Kabaddi",Poland Vs Hungary | Euro Beach Kabaddi Championship 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873060801020x576.jpg" group-title="Kabaddi",Poland Vs England - W | Euro Beach Kabaddi Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8

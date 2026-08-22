@@ -2,7 +2,7 @@
     {
         "category": "Hockey",
         "slug": "hockey",
-        "total_channels": 2,
+        "total_channels": 4,
         "channels": [
             {
                 "title": "New Zealand vs Wales | FIH Hockey World Cup 2026",
@@ -11,10 +11,22 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
             },
             {
+                "title": "Ireland vs Scotland - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            },
+            {
                 "title": "New Zealand Vs Wales | FIH Hockey World Cup 2026",
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+            },
+            {
+                "title": "Ireland Vs Scotland - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             }
         ]
     },
@@ -24,15 +36,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Poland vs Hungary | Euro Beach Kabaddi Championship 2026",
+                "title": "Poland vs England - W | Euro Beach Kabaddi Championship 2026",
                 "category": "Kabaddi",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873060801020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
             },
             {
-                "title": "Poland Vs Hungary | Euro Beach Kabaddi Championship 2026",
+                "title": "Poland Vs England - W | Euro Beach Kabaddi Championship 2026",
                 "category": "Kabaddi",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873060801020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
             }
         ]

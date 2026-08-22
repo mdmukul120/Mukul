@@ -19,6 +19,25 @@
         ]
     },
     {
+        "category": "Kabaddi",
+        "slug": "kabaddi",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Poland vs Hungary | Euro Beach Kabaddi Championship 2026",
+                "category": "Kabaddi",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            },
+            {
+                "title": "Poland Vs Hungary | Euro Beach Kabaddi Championship 2026",
+                "category": "Kabaddi",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

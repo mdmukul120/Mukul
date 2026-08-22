@@ -19,6 +19,25 @@
         ]
     },
     {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Anitgua and Barbuda Falcons vs Trinbago Knight Riders | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872955201020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Anitgua And Barbuda Falcons Vs Trinbago Knight Riders | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872955201020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

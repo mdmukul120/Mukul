@@ -72,6 +72,78 @@
         "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8"
     },
     {
+        "title": "Nick",
+        "category": "Kids",
+        "logo": "https://tvassets.roarzone.net/images/55.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=46de1b08f735c8f4e52ad7c2581751f7d0ee57eb-103f1f53a9ec1287513a46e1e7b00749-1786784042-1786773242"
+    },
+    {
+        "title": "Disney JR",
+        "category": "Kids",
+        "logo": "https://tvassets.roarzone.net/images/disney-jr.png",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=2b43f77c7d733efdd87095ecc5fc6ee5bff81b5a-3f3f727d982eba38dc2ca03f97b891c2-1786784042-1786773242"
+    },
+    {
+        "title": "ZB Cartoon",
+        "category": "Kids",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfaebe9084c7a7c494b0e61a48aad39.png",
+        "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+        "title": "Kids Pang TV",
+        "category": "Kids",
+        "logo": "https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",
+        "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
+    },
+    {
+        "title": "PBS Kids",
+        "category": "Kids",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/500px-PBS_Kids_logo_%282022%29.svg.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    },
+    {
+        "title": "Nikki",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8"
+    },
+    {
+        "title": "Joy",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"
+    },
+    {
+        "title": "Funny Junior HD",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
+    },
+    {
+        "title": "Kids Stars",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
+    },
+    {
+        "title": "BuddyStar HD",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
+    },
+    {
+        "title": "Lucky Family",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
+    },
+    {
+        "title": "Smarty",
+        "category": "Kids",
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
+        "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
+    },
+    {
         "title": "Motu Patlu",
         "category": "Kids",
         "logo": "https://i.postimg.cc/yd9D2DDD/images.jpg",

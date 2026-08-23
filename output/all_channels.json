@@ -1,24 +1,5 @@
 [
     {
-        "category": "Hockey",
-        "slug": "hockey",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Spain vs Belgium | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Spain Vs Belgium | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Football",
         "slug": "football",
         "total_channels": 2,
@@ -3018,6 +2999,19 @@
                 "category": "USA & Canada",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Hockey",
+        "slug": "hockey",
+        "total_channels": 1,
+        "channels": [
+            {
+                "title": "Spain Vs Belgium | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

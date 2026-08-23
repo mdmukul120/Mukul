@@ -2,25 +2,13 @@
     {
         "category": "Hockey",
         "slug": "hockey",
-        "total_channels": 4,
+        "total_channels": 2,
         "channels": [
-            {
-                "title": "Germany vs Australia | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874531741020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
             {
                 "title": "Australia vs India - W | FIH Hockey World Cup 2026",
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874179941020x576WOMEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Germany Vs Australia | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874531741020x576MEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
                 "title": "Australia Vs India - W | FIH Hockey World Cup 2026",
@@ -46,6 +34,25 @@
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874172041020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "E Sports",
+        "slug": "e_sports",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Trophy Awarding Ceremony Live | Esports World Cup 2026 (EWC)",
+                "category": "E Sports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874542881020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            },
+            {
+                "title": "Trophy Awarding Ceremony Live | Esports World Cup 2026 (EWC)",
+                "category": "E Sports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874542881020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             }
         ]
     },

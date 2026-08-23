@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874179941020x576WOMEN.jpg" group-title="Hockey",Australia vs India - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg" group-title="Hockey",Spain vs Belgium | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874179941020x576WOMEN.jpg" group-title="Hockey",Australia Vs India - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg" group-title="Hockey",Spain Vs Belgium | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8

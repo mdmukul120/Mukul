@@ -2,19 +2,13 @@
     {
         "category": "Cricket",
         "slug": "cricket",
-        "total_channels": 6,
+        "total_channels": 4,
         "channels": [
             {
                 "title": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Anitgua and Barbuda Falcons vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872955201020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
                 "title": "Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
@@ -29,47 +23,10 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Anitgua And Barbuda Falcons Vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872955201020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
                 "title": "Watch Free - Australia Vs Bangladesh | Bangladesh Tour Of Australia 2026",
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg",
                 "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap253/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Mma",
-        "slug": "mma",
-        "total_channels": 4,
-        "channels": [
-            {
-                "title": "Cyborg vs Vieira | PFL 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872149291020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            },
-            {
-                "title": "Hernandez vs Rodrigues | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872300511020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-            },
-            {
-                "title": "Cyborg Vs Vieira | PFL 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872149291020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            },
-            {
-                "title": "Hernandez Vs Rodrigues | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872300511020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
             }
         ]
     },

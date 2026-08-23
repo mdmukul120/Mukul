@@ -2,7 +2,7 @@
     {
         "category": "Hockey",
         "slug": "hockey",
-        "total_channels": 2,
+        "total_channels": 4,
         "channels": [
             {
                 "title": "France vs Ireland | FIH Hockey World Cup 2026",
@@ -11,10 +11,22 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
+                "title": "Netherlands vs China - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874178811020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            },
+            {
                 "title": "France Vs Ireland | FIH Hockey World Cup 2026",
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874529101020x576MEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Netherlands Vs China - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874178811020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             }
         ]
     },

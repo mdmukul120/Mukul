@@ -21,14 +21,8 @@
     {
         "category": "Football",
         "slug": "football",
-        "total_channels": 6,
+        "total_channels": 4,
         "channels": [
-            {
-                "title": "Osasuna vs Levante | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
             {
                 "title": "Al-Ittihad vs Al-Hazem | Saudi Pro League 2026/27",
                 "category": "Football",
@@ -40,12 +34,6 @@
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
                 "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Osasuna Vs Levante | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
                 "title": "Al-Ittihad Vs Al-Hazem | Saudi Pro League 2026/27",

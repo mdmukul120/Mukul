@@ -2,7 +2,7 @@
     {
         "category": "Hockey",
         "slug": "hockey",
-        "total_channels": 2,
+        "total_channels": 4,
         "channels": [
             {
                 "title": "Spain vs Germany - W | FIH Hockey World Cup 2026",
@@ -11,10 +11,22 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
+                "title": "Netherlands vs England | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875543391020x576MEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+            },
+            {
                 "title": "Spain Vs Germany - W | FIH Hockey World Cup 2026",
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Netherlands Vs England | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875543391020x576MEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
             }
         ]
     },
@@ -34,6 +46,25 @@
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873140601020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Neom vs Al Qadsiah | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
+                "url": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8"
+            },
+            {
+                "title": "Neom Vs Al Qadsiah | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
+                "url": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8"
             }
         ]
     },

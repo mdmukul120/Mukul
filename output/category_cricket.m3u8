@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874992801020x576.jpg" group-title="Cricket",Antigua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Cricket",Sri Lanka vs India | India Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Cricket",Sri Lanka Vs India | India Tour Of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8

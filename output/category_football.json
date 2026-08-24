@@ -1,11 +1,5 @@
 [
     {
-        "title": "Neom vs Al Qadsiah | Saudi Pro League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
-    {
         "title": "Osasuna vs Levante | Laliga 2026/27",
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg",
@@ -18,10 +12,10 @@
         "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
-        "title": "Neom Vs Al Qadsiah | Saudi Pro League 2026/27",
+        "title": "Malaga vs Deportivo | Laliga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
     },
     {
         "title": "Osasuna Vs Levante | Laliga 2026/27",
@@ -34,5 +28,11 @@
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg",
         "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+    },
+    {
+        "title": "Malaga Vs Deportivo | Laliga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
     }
 ]

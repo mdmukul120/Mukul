@@ -15,6 +15,10 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg" group-title="Football",Al-Ittihad Vs Al-Hazem | Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875598281020x576WOMEN.jpg" group-title="Hockey",Belgium vs Argentina - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875598281020x576WOMEN.jpg" group-title="Hockey",Belgium Vs Argentina - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 2

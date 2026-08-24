@@ -19,37 +19,6 @@
         ]
     },
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 4,
-        "channels": [
-            {
-                "title": "Al-Ittihad vs Al-Hazem | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            },
-            {
-                "title": "Malaga vs Deportivo | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Al-Ittihad Vs Al-Hazem | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            },
-            {
-                "title": "Malaga Vs Deportivo | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Hockey",
         "slug": "hockey",
         "total_channels": 2,
@@ -65,6 +34,25 @@
                 "category": "Hockey",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875598281020x576WOMEN.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Malaga vs Deportivo | Laliga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+            },
+            {
+                "title": "Malaga Vs Deportivo | Laliga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
             }
         ]
     },

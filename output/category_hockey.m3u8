@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875566491020x576WOMEN.jpg" group-title="Hockey",New Zealand vs Scotland - W | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875535461020x576MEN.jpg" group-title="Hockey",New Zealand vs Pakistan | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875535461020x576MEN.jpg" group-title="Hockey",New Zealand Vs Pakistan | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8

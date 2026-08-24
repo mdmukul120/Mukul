@@ -6,9 +6,21 @@
         "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
     },
     {
+        "title": "Ireland vs USA - W | FIH Hockey World Cup 2026",
+        "category": "Hockey",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+    },
+    {
         "title": "New Zealand Vs Pakistan | FIH Hockey World Cup 2026",
         "category": "Hockey",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875535461020x576MEN.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+    },
+    {
+        "title": "Ireland Vs USA - W | FIH Hockey World Cup 2026",
+        "category": "Hockey",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     }
 ]

@@ -8,26 +8,26 @@
                 "title": "Men's & Women's Singles Qualifying | US Open 2026",
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
             },
             {
                 "title": "Men'S & Women'S Singles Qualifying | US Open 2026",
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
             }
         ]
     },
     {
         "category": "Football",
         "slug": "football",
-        "total_channels": 6,
+        "total_channels": 10,
         "channels": [
             {
                 "title": "Abha vs Al Khaleej | Saudi Pro League 2026/27",
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875590511020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
             },
             {
                 "title": "Sabah vs H. Beer-Sheva | UEFA Champions League 2026/27",
@@ -42,10 +42,22 @@
                 "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
             },
             {
+                "title": "NEC vs Bodo/glimt | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875674791020x576.jpg",
+                "url": "https://tapmad-live.cdn.vustreams.com/live/f77a7dc4-4ce4-41ff-bfe6-34928cc6e108/live.isml/.m3u8"
+            },
+            {
+                "title": "LASK vs Celtic | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg",
+                "url": "https://tapmad-live.cdn.vustreams.com/live/4fd42f58-615d-4df3-bf89-c76079b1150e/live.isml/.m3u8"
+            },
+            {
                 "title": "Abha Vs Al Khaleej | Saudi Pro League 2026/27",
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875590511020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
             },
             {
                 "title": "Sabah Vs H. Beer-Sheva | UEFA Champions League 2026/27",
@@ -58,6 +70,18 @@
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg",
                 "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
+            },
+            {
+                "title": "NEC Vs Bodo/Glimt | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875674791020x576.jpg",
+                "url": "https://tapmad-live.cdn.vustreams.com/live/f77a7dc4-4ce4-41ff-bfe6-34928cc6e108/live.isml/.m3u8"
+            },
+            {
+                "title": "LASK Vs Celtic | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg",
+                "url": "https://tapmad-live.cdn.vustreams.com/live/4fd42f58-615d-4df3-bf89-c76079b1150e/live.isml/.m3u8"
             }
         ]
     },

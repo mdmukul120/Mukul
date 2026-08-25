@@ -12,6 +12,12 @@
         "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
     },
     {
+        "title": "Al-Ettifaq vs Al-Nassr | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg",
+        "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
+    },
+    {
         "title": "Abha Vs Al Khaleej | Saudi Pro League 2026/27",
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875590511020x576.jpg",
@@ -22,5 +28,11 @@
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875672671020x576.jpg",
         "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
+    },
+    {
+        "title": "Al-Ettifaq Vs Al-Nassr | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg",
+        "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
     }
 ]

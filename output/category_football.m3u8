@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg" group-title="Football",Al-Ettifaq vs Al-Nassr | Saudi Pro League 2026/27
-https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875674791020x576.jpg" group-title="Football",NEC vs Bodo/glimt | UEFA Champions League 2026/27
 https://tapmad-live.cdn.vustreams.com/live/f77a7dc4-4ce4-41ff-bfe6-34928cc6e108/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg" group-title="Football",LASK vs Celtic | UEFA Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876396341020x576.jpg" group-title="Football",Valencia vs Betis | Laliga 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg" group-title="Football",Al-Ettifaq Vs Al-Nassr | Saudi Pro League 2026/27
-https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875674791020x576.jpg" group-title="Football",NEC Vs Bodo/Glimt | UEFA Champions League 2026/27
 https://tapmad-live.cdn.vustreams.com/live/f77a7dc4-4ce4-41ff-bfe6-34928cc6e108/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg" group-title="Football",LASK Vs Celtic | UEFA Champions League 2026/27

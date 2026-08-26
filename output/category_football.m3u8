@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg" group-title="Football",LASK vs Celtic | UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg" group-title="Football",LASK Vs Celtic | UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875682371020x576.jpg" group-title="Football",Levski Sofia vs AEK | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875716441020x576.jpg" group-title="Football",OL vs Fenerbache | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875724241020x576.jpg" group-title="Football",Viking vs Dinamo Zagreb | UEFA Champions League 2026/27
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875725811020x576.jpg" group-title="Football",Celje vs Slovan Bratislava | UEFA Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876512561020x576.jpg" group-title="Football",Real Madrid vs Real Sociedad | Laliga 2026/27
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875682371020x576.jpg" group-title="Football",Levski Sofia Vs AEK | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875716441020x576.jpg" group-title="Football",OL Vs Fenerbache | UEFA Champions League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875724241020x576.jpg" group-title="Football",Viking Vs Dinamo Zagreb | UEFA Champions League 2026/27
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875725811020x576.jpg" group-title="Football",Celje Vs Slovan Bratislava | UEFA Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876512561020x576.jpg" group-title="Football",Real Madrid Vs Real Sociedad | Laliga 2026/27
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8

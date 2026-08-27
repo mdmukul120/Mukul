@@ -5,16 +5,54 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+                "title": "England vs Pakistan | Pakistan Tour of England 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
             },
             {
-                "title": "Sri Lanka Vs India | India Tour Of Sri Lanka 2026",
+                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Tennis",
+        "slug": "tennis",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Men's & Women's Singles Qualifying | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Men'S & Women'S Singles Qualifying | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Hockey",
+        "slug": "hockey",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Netherlands vs Belgium - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878111221020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Netherlands Vs Belgium - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878111221020x576WOMEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             }
         ]
     },

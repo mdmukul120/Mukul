@@ -5,35 +5,16 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Trinbago Knight Riders vs St Lucia Kings | Caribbean Premier League 2026",
+                "title": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876380711020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Trinbago Knight Riders Vs St Lucia Kings | Caribbean Premier League 2026",
+                "title": "Sri Lanka Vs India | India Tour Of Sri Lanka 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876380711020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Mixed Doubles Semifinals & Championship | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876416771020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            },
-            {
-                "title": "Mixed Doubles Semifinals & Championship | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876416771020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             }
         ]
     },

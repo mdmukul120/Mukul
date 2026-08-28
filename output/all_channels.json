@@ -1,58 +1,39 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "England vs Pakistan | Pakistan Tour of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
-                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-            },
-            {
-                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
-                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Tennis",
         "slug": "tennis",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Men's & Women's Singles Qualifying | US Open 2026",
+                "title": "Stars of the Open | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876425141020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "Men'S & Women'S Singles Qualifying | US Open 2026",
+                "title": "Stars Of The Open | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876425141020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },
     {
-        "category": "Hockey",
-        "slug": "hockey",
+        "category": "Cricket",
+        "slug": "cricket",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Netherlands vs Belgium - W | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878111221020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "title": "St Kitts and Nevis Patriots vs Jamaica Kingsmen | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Netherlands Vs Belgium - W | FIH Hockey World Cup 2026",
-                "category": "Hockey",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878111221020x576WOMEN.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             }
         ]
     },
@@ -1149,7 +1130,7 @@
     {
         "category": "Sports",
         "slug": "sports",
-        "total_channels": 108,
+        "total_channels": 109,
         "channels": [
             {
                 "title": "Sports Tennis",
@@ -1378,6 +1359,12 @@
                 "category": "Sports",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
                 "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8"
+            },
+            {
+                "title": "AKASH GO Live 1",
+                "category": "Sports",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1787855766024.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
             },
             {
                 "title": "Sports Legends",
@@ -1804,7 +1791,7 @@
     {
         "category": "Entertainment",
         "slug": "entertainment",
-        "total_channels": 42,
+        "total_channels": 41,
         "channels": [
             {
                 "title": "Geo TV",
@@ -2021,12 +2008,6 @@
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
                 "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
-            },
-            {
-                "title": "Bangla Vision",
-                "category": "Entertainment",
-                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
-                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
             },
             {
                 "title": "SRK TV",

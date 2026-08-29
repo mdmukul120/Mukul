@@ -11,9 +11,9 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Glasgow Cosmic vs Dublin Guardians | European T20 Premier League 2026",
+                "title": "Rotterdam Dockers vs Belfast Wolves | European T20 Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879082101020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879083581020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
@@ -23,29 +23,10 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Glasgow Cosmic Vs Dublin Guardians | European T20 Premier League 2026",
+                "title": "Rotterdam Dockers Vs Belfast Wolves | European T20 Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879082101020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879083581020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Mma",
-        "slug": "mma",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Nurmagomedov vs Song | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Nurmagomedov Vs Song | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },
@@ -55,16 +36,66 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Mazda MX-5 Cup Benelux - Race 1 | GT World Challenge EU & Asia 2026",
+                "title": "Lamborghini Super Trofeo - Race 1 | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879510551020-23andlast.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879529591020-23andlast.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
             },
             {
-                "title": "Mazda MX-5 Cup Benelux - Race 1 | GT World Challenge EU & Asia 2026",
+                "title": "Lamborghini Super Trofeo - Race 1 | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879510551020-23andlast.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879529591020-23andlast.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Hockey",
+        "slug": "hockey",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Netherlands vs Argentina - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880110461020.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+            },
+            {
+                "title": "Netherlands Vs Argentina - W | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880110461020.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 4,
+        "channels": [
+            {
+                "title": "Levante vs Betis | Laliga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879248561020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Croatia vs Afghanistan Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879177311020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            },
+            {
+                "title": "Levante Vs Betis | Laliga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879248561020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Croatia Vs Afghanistan Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879177311020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             }
         ]
     },
@@ -3049,19 +3080,6 @@
                 "category": "USA & Canada",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 1,
-        "channels": [
-            {
-                "title": "Colombia Vs Syria Live | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879152081020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             }
         ]
     },

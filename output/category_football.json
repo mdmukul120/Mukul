@@ -1,8 +1,26 @@
 [
     {
-        "title": "Colombia Vs Syria Live | Socca World Cup 2026",
+        "title": "Levante vs Betis | Laliga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879152081020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879248561020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Croatia vs Afghanistan Live | Socca World Cup 2026",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879177311020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+        "title": "Levante Vs Betis | Laliga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879248561020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Croatia Vs Afghanistan Live | Socca World Cup 2026",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879177311020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     }
 ]

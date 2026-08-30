@@ -19,49 +19,6 @@
         ]
     },
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 6,
-        "channels": [
-            {
-                "title": "Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Czechia vs Germany Live | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880157671020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            },
-            {
-                "title": "Celta vs Athletic | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879272721020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            },
-            {
-                "title": "Al Qadsiah Vs Al-Faisaly | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-            },
-            {
-                "title": "Czechia Vs Germany Live | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880157671020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            },
-            {
-                "title": "Celta Vs Athletic | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879272721020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

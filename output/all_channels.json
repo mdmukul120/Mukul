@@ -1,20 +1,51 @@
 [
     {
-        "category": "Multisports",
-        "slug": "multisports",
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 4,
+        "channels": [
+            {
+                "title": "England vs Pakistan | Pakistan Tour of England 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Amsterdam Flames vs Belfast Wolves | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879085931020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Amsterdam Flames Vs Belfast Wolves | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879085931020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Hockey",
+        "slug": "hockey",
         "total_channels": 2,
         "channels": [
             {
-                "title": "China Live | UIPM 2026",
-                "category": "Multisports",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879067491020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+                "title": "Netherlands vs Argentina | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880225791020x576MEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "China Live | UIPM 2026",
-                "category": "Multisports",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879067491020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+                "title": "Netherlands Vs Argentina | FIH Hockey World Cup 2026",
+                "category": "Hockey",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880225791020x576MEN.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },
@@ -24,15 +55,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Iraq vs Belgium Live | Socca World Cup 2026",
+                "title": "Australia vs France Live | Socca World Cup 2026",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880220071020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880139151020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             },
             {
-                "title": "Iraq Vs Belgium Live | Socca World Cup 2026",
+                "title": "Australia Vs France Live | Socca World Cup 2026",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880220071020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880139151020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             }
         ]
@@ -43,15 +74,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Mazda MX-5 Cup Benelux - Race 2 | GT World Challenge EU & Asia 2026",
+                "title": "GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880118821020-23andlast.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
             },
             {
-                "title": "Mazda MX-5 Cup Benelux - Race 2 | GT World Challenge EU & Asia 2026",
+                "title": "GT World Challenge Powered By AWS - Race | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880118821020-23andlast.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
             }
         ]

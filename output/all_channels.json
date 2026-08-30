@@ -1,20 +1,58 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
+        "category": "Multisports",
+        "slug": "multisports",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Trinbago Knight Riders vs Jamaica Kingsmen | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879096221020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                "title": "China Live | UIPM 2026",
+                "category": "Multisports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879067491020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
             },
             {
-                "title": "Trinbago Knight Riders Vs Jamaica Kingsmen | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879096221020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                "title": "China Live | UIPM 2026",
+                "category": "Multisports",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879067491020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Iraq vs Belgium Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880220071020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            },
+            {
+                "title": "Iraq Vs Belgium Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880220071020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Racing",
+        "slug": "racing",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Mazda MX-5 Cup Benelux - Race 2 | GT World Challenge EU & Asia 2026",
+                "category": "Racing",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880118821020-23andlast.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+            },
+            {
+                "title": "Mazda MX-5 Cup Benelux - Race 2 | GT World Challenge EU & Asia 2026",
+                "category": "Racing",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880118821020-23andlast.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
             }
         ]
     },

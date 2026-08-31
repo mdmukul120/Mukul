@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Tennis",Men's & Women's Singles 1st Round | US Open 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Tennis",Men'S & Women'S Singles 1st Round | US Open 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg" group-title="Football",Osasuna vs Getafe | Laliga 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg" group-title="Cricket",Trinbago Knight Riders vs Guyana Amazon Warriors | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg" group-title="Football",Barcelona vs Rayo Vallecano | Laliga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg" group-title="Football",Osasuna Vs Getafe | Laliga 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg" group-title="Cricket",Trinbago Knight Riders Vs Guyana Amazon Warriors | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg" group-title="Football",Barcelona Vs Rayo Vallecano | Laliga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg" group-title="Tennis",Men's & Women's Singles 1st Round | US Open 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg" group-title="Tennis",Men'S & Women'S Singles 1st Round | US Open 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 2

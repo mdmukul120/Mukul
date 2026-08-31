@@ -1,5 +1,24 @@
 [
     {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Trinbago Knight Riders vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Trinbago Knight Riders Vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Tennis",
         "slug": "tennis",
         "total_channels": 2,
@@ -7,45 +26,14 @@
             {
                 "title": "Men's & Women's Singles 1st Round | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg",
                 "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             },
             {
                 "title": "Men'S & Women'S Singles 1st Round | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg",
                 "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 4,
-        "channels": [
-            {
-                "title": "Osasuna vs Getafe | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Barcelona vs Rayo Vallecano | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Osasuna Vs Getafe | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Barcelona Vs Rayo Vallecano | Laliga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

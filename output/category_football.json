@@ -1,14 +1,26 @@
 [
     {
-        "title": "Nigeria vs Albani Live | Socca World Cup 2026",
+        "title": "Osasuna vs Getafe | Laliga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
     },
     {
-        "title": "Nigeria Vs Albani Live | Socca World Cup 2026",
+        "title": "Barcelona vs Rayo Vallecano | Laliga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "Osasuna Vs Getafe | Laliga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Barcelona Vs Rayo Vallecano | Laliga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881707571020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     }
 ]

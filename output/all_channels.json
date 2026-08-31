@@ -1,19 +1,19 @@
 [
     {
-        "category": "Tennis",
-        "slug": "tennis",
+        "category": "Football",
+        "slug": "football",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Men's & Women's Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg",
+                "title": "Nigeria vs Albani Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
-                "title": "Men'S & Women'S Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg",
+                "title": "Nigeria Vs Albani Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             }
         ]

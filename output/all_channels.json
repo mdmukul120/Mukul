@@ -1,5 +1,24 @@
 [
     {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879128381020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "St Kitts And Nevis Patriots Vs Antigua And Barbuda Falcons | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879128381020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Tennis",
         "slug": "tennis",
         "total_channels": 2,
@@ -7,14 +26,14 @@
             {
                 "title": "Men's & Women's Singles 1st Round | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
                 "title": "Men'S & Women'S Singles 1st Round | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             }
         ]
     },

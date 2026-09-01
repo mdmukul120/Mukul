@@ -1,58 +1,32 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 4,
         "channels": [
             {
-                "title": "Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg",
+                "title": "Al-Hilal vs Al-Ahli | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881709641020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Glasgow Cosmic Vs Rotterdam Dockers | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg",
+                "title": "Ukraine vs Georgia Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882448271020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Al-Hilal Vs Al-Ahli | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881709641020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Men's & Women's Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881656251020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
             },
             {
-                "title": "Men'S & Women'S Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881656251020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Boat Racing",
-        "slug": "boat_racing",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Sailing Day 1 Live | The Ocean Race Atlantic 2026",
-                "category": "Boat Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882477291020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            },
-            {
-                "title": "Sailing Day 1 Live | The Ocean Race Atlantic 2026",
-                "category": "Boat Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882477291020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+                "title": "Ukraine Vs Georgia Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882448271020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

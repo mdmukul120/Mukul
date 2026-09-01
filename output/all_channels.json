@@ -1,39 +1,20 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
+        "category": "Football",
+        "slug": "football",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Trinbago Knight Riders vs Guyana Amazon Warriors | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "title": "Australia vs Libya Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881635861020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
-                "title": "Trinbago Knight Riders Vs Guyana Amazon Warriors | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Men's & Women's Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            },
-            {
-                "title": "Men'S & Women'S Singles 1st Round | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+                "title": "Australia Vs Libya Live | Socca World Cup 2026",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881635861020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             }
         ]
     },
@@ -1785,7 +1766,7 @@
     {
         "category": "Entertainment",
         "slug": "entertainment",
-        "total_channels": 41,
+        "total_channels": 42,
         "channels": [
             {
                 "title": "Geo TV",
@@ -2002,6 +1983,12 @@
                 "category": "Entertainment",
                 "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
                 "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+            },
+            {
+                "title": "Bangla Vision",
+                "category": "Entertainment",
+                "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png",
+                "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
             },
             {
                 "title": "SRK TV",

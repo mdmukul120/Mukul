@@ -5,15 +5,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Poland vs Chile Live | Socca World Cup 2026",
+                "title": "China vs Denmark Live | Socca World Cup 2026",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883276421020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883283811020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "Poland Vs Chile Live | Socca World Cup 2026",
+                "title": "China Vs Denmark Live | Socca World Cup 2026",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883276421020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883283811020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
@@ -24,15 +24,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Dublin Guardians vs Rotterdam Dockers | European T20 Premier League 2026",
+                "title": "Belfast Wolves vs Edinburgh Castle Rockers | European T20 Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882500851020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882502261020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Dublin Guardians Vs Rotterdam Dockers | European T20 Premier League 2026",
+                "title": "Belfast Wolves Vs Edinburgh Castle Rockers | European T20 Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882500851020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882502261020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
             }
         ]
@@ -515,7 +515,7 @@
                 "title": "Willow Sports",
                 "category": "Willow Sports",
                 "logo": "https://shorturl.at/uZiuk",
-                "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+                "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
             }
         ]
     },
@@ -528,7 +528,7 @@
                 "title": "Willow HD",
                 "category": "Willow HD",
                 "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
-                "url": "https://digitalotthub.com/tv/dd/live.php/346.m3u8"
+                "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
             },
             {
                 "title": "Willow HD 2",

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883276421020x576.jpg" group-title="Football",Poland vs Chile Live | Socca World Cup 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883283811020x576.jpg" group-title="Football",China vs Denmark Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883276421020x576.jpg" group-title="Football",Poland Vs Chile Live | Socca World Cup 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883283811020x576.jpg" group-title="Football",China Vs Denmark Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882500851020x576.jpg" group-title="Cricket",Dublin Guardians vs Rotterdam Dockers | European T20 Premier League 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882502261020x576.jpg" group-title="Cricket",Belfast Wolves vs Edinburgh Castle Rockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882500851020x576.jpg" group-title="Cricket",Dublin Guardians Vs Rotterdam Dockers | European T20 Premier League 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882502261020x576.jpg" group-title="Cricket",Belfast Wolves Vs Edinburgh Castle Rockers | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -162,9 +162,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowild/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GsKaFVeWsAAJbgi?format=jpg&name=large" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/uZiuk" group-title="Willow Sports",Willow Sports
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="Willow Hd",Willow HD
-https://digitalotthub.com/tv/dd/live.php/346.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="Willow Hd",Willow HD 2
 https://digitalotthub.com/tv/dd/live.php/598.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Ptv Sports",PTV Sports

@@ -168,42 +168,6 @@
         "url": "https://edge2.roarzone.net:8447/roarzone/edge5/oman-sports-tv/index.m3u8?token=aade7a2f9bb1d1e345656060720d5eca9705701f-504d7d7e972e3915ffa0a2ddc7d6112f-1786784042-1786773242"
     },
     {
-        "title": "Crazy Ex",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
-    },
-    {
-        "title": "Sports Range",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8"
-    },
-    {
-        "title": "Sports Legends",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8"
-    },
-    {
-        "title": "Thunder Er",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8"
-    },
-    {
-        "title": "Fighters",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8"
-    },
-    {
-        "title": "Flash Guys HD",
-        "category": "Sports",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8"
-    },
-    {
         "title": "FIFA+ Channel",
         "category": "Sports",
         "logo": "https://i.postimg.cc/TYJGfFL0/unnamed.webp",

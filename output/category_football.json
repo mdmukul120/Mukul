@@ -1,14 +1,38 @@
 [
     {
-        "title": "Hungary vs England Live | Socca World Cup 2026",
+        "title": "Diriyah vs Al Qadsiah | Saudi Pro League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884177321020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882512851020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+        "title": "Romania vs Czechia Live | Socca World Cup 2026",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884326781020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Hungary Vs England Live | Socca World Cup 2026",
+        "title": "Real Sociedad vs Celta | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884177321020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882511501020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+    },
+    {
+        "title": "Diriyah Vs Al Qadsiah | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882512851020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+        "title": "Romania Vs Czechia Live | Socca World Cup 2026",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884326781020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "Real Sociedad Vs Celta | LaLiga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882511501020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
     }
 ]

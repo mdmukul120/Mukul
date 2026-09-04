@@ -1,20 +1,20 @@
 [
     {
-        "category": "Multisports",
-        "slug": "multisports",
+        "category": "Cricket",
+        "slug": "cricket",
         "total_channels": 2,
         "channels": [
             {
-                "title": "China Live | UIPM 2026",
-                "category": "Multisports",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884400071020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+                "title": "Glasgow Cosmic vs Belfast Wolves | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
             },
             {
-                "title": "China Live | UIPM 2026",
-                "category": "Multisports",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884400071020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+                "title": "Glasgow Cosmic Vs Belfast Wolves | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
             }
         ]
     },

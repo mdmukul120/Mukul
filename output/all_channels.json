@@ -21,49 +21,13 @@
     {
         "category": "Football",
         "slug": "football",
-        "total_channels": 8,
+        "total_channels": 2,
         "channels": [
-            {
-                "title": "Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Ukraine vs Australia Live | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885130561020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
             {
                 "title": "Betis vs Real Madrid | LaLiga 2026/27",
                 "category": "Football",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885300491020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "Al-Shabab Vs Al-Hilal | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Al-Ahli Vs Al-Riyadh | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Ukraine Vs Australia Live | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885130561020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
                 "title": "Betis Vs Real Madrid | LaLiga 2026/27",

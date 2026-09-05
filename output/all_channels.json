@@ -19,49 +19,6 @@
         ]
     },
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 6,
-        "channels": [
-            {
-                "title": "Al-Ittihad vs Al-Nassr | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885298191020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Brazil vs Croatia | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886212801020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-            },
-            {
-                "title": "Villarreal vs Deportivo | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885304231020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "Al-Ittihad Vs Al-Nassr | Saudi Pro League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885298191020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Brazil Vs Croatia | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886212801020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-            },
-            {
-                "title": "Villarreal Vs Deportivo | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885304231020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Mma",
         "slug": "mma",
         "total_channels": 2,

@@ -2,10 +2,16 @@
     {
         "category": "Tennis",
         "slug": "tennis",
-        "total_channels": 2,
+        "total_channels": 3,
         "channels": [
             {
                 "title": "Men's & Women's Singles 3rd Round | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885717061020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+            },
+            {
+                "title": "Men'S & Women'S Singles 3rd Round | US Open 2026",
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885023421020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
@@ -13,46 +19,8 @@
             {
                 "title": "Men'S & Women'S Singles 3rd Round | US Open 2026",
                 "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885023421020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Mma",
-        "slug": "mma",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Hooker vs Parnasse | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885199191020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            },
-            {
-                "title": "Hooker Vs Parnasse | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885199191020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Barbados Tridents Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885709911020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Barbados Tridents Women Vs Trinbago Knight Riders Women | Women'S Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885709911020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885717061020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
             }
         ]
     },

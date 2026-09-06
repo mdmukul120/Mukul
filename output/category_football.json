@@ -1,11 +1,5 @@
 [
     {
-        "title": "Valencia vs Barcelona | LaLiga 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305061020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
-    {
         "title": "Alaves vs Osasuna | LaLiga 2026/27",
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305871020x576.jpg",
@@ -18,10 +12,10 @@
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
-        "title": "Valencia Vs Barcelona | LaLiga 2026/27",
+        "title": "Brazil vs Germany | Socca World Cup 2026",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305061020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
         "title": "Alaves Vs Osasuna | LaLiga 2026/27",
@@ -34,5 +28,11 @@
         "category": "Football",
         "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885306571020x576.jpg",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+        "title": "Brazil Vs Germany | Socca World Cup 2026",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]

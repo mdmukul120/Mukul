@@ -19,64 +19,40 @@
         ]
     },
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 6,
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
         "channels": [
             {
-                "title": "Alaves vs Osasuna | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305871020x576.jpg",
-                "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8"
+                "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885697191020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             },
             {
-                "title": "Malaga vs Levante | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885306571020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            },
-            {
-                "title": "Brazil vs Germany | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "Alaves Vs Osasuna | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305871020x576.jpg",
-                "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8"
-            },
-            {
-                "title": "Malaga Vs Levante | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885306571020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            },
-            {
-                "title": "Brazil Vs Germany | Socca World Cup 2026",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                "title": "Guyana Amazon Warriors Vs St Kitts And Nevis Patriots | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885697191020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             }
         ]
     },
     {
-        "category": "Skating",
-        "slug": "skating",
+        "category": "Football",
+        "slug": "football",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Scootering Men Final - Central Plaza Live | Extreme Barcelona 2026",
-                "category": "Skating",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885288331020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+                "title": "Espanyol vs Sevilla | LaLiga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885307861020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "Scootering Men Final - Central Plaza Live | Extreme Barcelona 2026",
-                "category": "Skating",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885288331020x576.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+                "title": "Espanyol Vs Sevilla | LaLiga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885307861020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

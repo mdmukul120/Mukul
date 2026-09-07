@@ -1,43 +1,5 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Barbados Tridents vs St Lucia Kings | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885702801020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Barbados Tridents Vs St Lucia Kings | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885702801020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Men's & Women's Singles | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725731020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            },
-            {
-                "title": "Men'S & Women'S Singles | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725731020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 77,

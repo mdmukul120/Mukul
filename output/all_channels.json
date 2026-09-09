@@ -2,7 +2,7 @@
     {
         "category": "Cricket",
         "slug": "cricket",
-        "total_channels": 4,
+        "total_channels": 2,
         "channels": [
             {
                 "title": "England vs Pakistan | Pakistan Tour of England 2026",
@@ -11,41 +11,85 @@
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
                 "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Tennis",
+        "slug": "tennis",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Men's & Women's Singles Quarterfinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
             },
             {
-                "title": "Dublin Guardians Vs Belfast Wolves | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "title": "Men'S & Women'S Singles Quarterfinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg",
+                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 6,
+        "channels": [
+            {
+                "title": "Barcelona vs Feyenoord | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "VFB Stuttgart vs Viking | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Al-Nassr vs Abha | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+            },
+            {
+                "title": "Barcelona Vs Feyenoord | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "VFB Stuttgart Vs Viking | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Al-Nassr Vs Abha | Saudi Pro League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
             }
         ]
     },
     {
         "category": "Live Tv",
         "slug": "live_tv",
-        "total_channels": 77,
+        "total_channels": 76,
         "channels": [
             {
                 "title": "T sports - server 1",
                 "category": "Live TV",
                 "logo": "https://i.postimg.cc/rp4WHTQB/1630662269264.jpg",
                 "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-            },
-            {
-                "title": "T sports - server 2",
-                "category": "Live TV",
-                "logo": "https://i.postimg.cc/rp4WHTQB/1630662269264.jpg",
-                "url": "https://s1.itcnbd.live/T-Sports-HD/index.m3u8"
             },
             {
                 "title": "TEN Cricket",

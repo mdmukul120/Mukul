@@ -1,16 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket",England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg" group-title="Cricket",Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket",England Vs Pakistan | Pakistan Tour Of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg" group-title="Cricket",Dublin Guardians Vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg" group-title="Tennis",Men's & Women's Singles Quarterfinals | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg" group-title="Tennis",Men'S & Women'S Singles Quarterfinals | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="Football",Barcelona vs Feyenoord | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="Football",VFB Stuttgart vs Viking | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Football",Al-Nassr vs Abha | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="Football",Barcelona Vs Feyenoord | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="Football",VFB Stuttgart Vs Viking | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Football",Al-Nassr Vs Abha | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 2
-https://s1.itcnbd.live/T-Sports-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Live Tv",TEN Cricket
 https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Live Tv",SONY SPORTS TEN 1 HD

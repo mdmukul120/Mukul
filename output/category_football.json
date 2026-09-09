@@ -1,26 +1,38 @@
 [
     {
-        "title": "Al-Hilal vs Neom | Saudi Pro League 2026/27",
+        "title": "Barcelona vs Feyenoord | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Elche vs Real Sociedad | LaLiga 2026/27",
+        "title": "VFB Stuttgart vs Viking | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887877901020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
-        "title": "Al-Hilal Vs Neom | Saudi Pro League 2026/27",
+        "title": "Al-Nassr vs Abha | Saudi Pro League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+    },
+    {
+        "title": "Barcelona Vs Feyenoord | UEFA Champions League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Elche Vs Real Sociedad | LaLiga 2026/27",
+        "title": "VFB Stuttgart Vs Viking | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887877901020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+        "title": "Al-Nassr Vs Abha | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
     }
 ]

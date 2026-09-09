@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg" group-title="Football",Al-Hilal vs Neom | Saudi Pro League 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="Football",Barcelona vs Feyenoord | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887877901020x576.jpg" group-title="Football",Elche vs Real Sociedad | LaLiga 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="Football",VFB Stuttgart vs Viking | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg" group-title="Football",Al-Hilal Vs Neom | Saudi Pro League 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Football",Al-Nassr vs Abha | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg" group-title="Football",Barcelona Vs Feyenoord | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887877901020x576.jpg" group-title="Football",Elche Vs Real Sociedad | LaLiga 2026/27
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg" group-title="Football",VFB Stuttgart Vs Viking | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg" group-title="Football",Al-Nassr Vs Abha | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8

@@ -1,24 +1,5 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "England vs Pakistan | Pakistan Tour of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Tennis",
         "slug": "tennis",
         "total_channels": 2,
@@ -40,43 +21,55 @@
     {
         "category": "Football",
         "slug": "football",
-        "total_channels": 6,
+        "total_channels": 8,
         "channels": [
             {
-                "title": "Barcelona vs Feyenoord | UEFA Champions League 2026/27",
+                "title": "Napoli vs Arsenal | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             },
             {
-                "title": "VFB Stuttgart vs Viking | UEFA Champions League 2026/27",
+                "title": "Liverpool vs Atletico Madrid | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Al-Nassr vs Abha | Saudi Pro League 2026/27",
+                "title": "PSG vs Slovan Bratislava | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             },
             {
-                "title": "Barcelona Vs Feyenoord | UEFA Champions League 2026/27",
+                "title": "SCP vs Galatasaray | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             },
             {
-                "title": "VFB Stuttgart Vs Viking | UEFA Champions League 2026/27",
+                "title": "Napoli Vs Arsenal | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             },
             {
-                "title": "Al-Nassr Vs Abha | Saudi Pro League 2026/27",
+                "title": "Liverpool Vs Atletico Madrid | UEFA Champions League 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
-                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "PSG Vs Slovan Bratislava | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            },
+            {
+                "title": "SCP Vs Galatasaray | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             }
         ]
     },

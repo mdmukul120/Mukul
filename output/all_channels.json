@@ -1,20 +1,56 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 8,
         "channels": [
             {
-                "title": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
+                "title": "Man United vs Sabah | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Bayern vs Bodo/Glimt | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "Belfast Wolves Vs Amsterdam Flames | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
+                "title": "Slavia Praha vs Lens | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Como vs RB Leipzig | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            },
+            {
+                "title": "Man United Vs Sabah | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Bayern Vs Bodo/Glimt | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Slavia Praha Vs Lens | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Como Vs RB Leipzig | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
             }
         ]
     },
@@ -34,37 +70,6 @@
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
                 "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 4,
-        "channels": [
-            {
-                "title": "Fenerbahce vs Roma | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-            },
-            {
-                "title": "Fenerbahce Vs Roma | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            },
-            {
-                "title": "PSV Vs Shakhtar Donetsk | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             }
         ]
     },

@@ -1,60 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 8,
-        "channels": [
-            {
-                "title": "Man United vs Sabah | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Bayern vs Bodo/Glimt | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Slavia Praha vs Lens | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Como vs RB Leipzig | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
-                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-            },
-            {
-                "title": "Man United Vs Sabah | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Bayern Vs Bodo/Glimt | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "Slavia Praha Vs Lens | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Como Vs RB Leipzig | UEFA Champions League 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
-                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Tennis",
         "slug": "tennis",
         "total_channels": 2,
@@ -70,6 +15,19 @@
                 "category": "Tennis",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
                 "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 1,
+        "channels": [
+            {
+                "title": "Barbados Tridents vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
             }
         ]
     },

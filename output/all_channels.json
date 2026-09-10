@@ -2,31 +2,69 @@
     {
         "category": "Cricket",
         "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Belfast Wolves Vs Amsterdam Flames | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Tennis",
+        "slug": "tennis",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Junior & Wheelchair Semifinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            },
+            {
+                "title": "Junior & Wheelchair Semifinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
         "total_channels": 4,
         "channels": [
             {
-                "title": "England vs Pakistan | Pakistan Tour of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+                "title": "Fenerbahce vs Roma | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
-                "title": "Rotterdam Dockers vs Glasgow Cosmic | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889407001020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                "title": "PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             },
             {
-                "title": "England Vs Pakistan | Pakistan Tour Of England 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+                "title": "Fenerbahce Vs Roma | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
             },
             {
-                "title": "Rotterdam Dockers Vs Glasgow Cosmic | European T20 Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889407001020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+                "title": "PSV Vs Shakhtar Donetsk | UEFA Champions League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
             }
         ]
     },

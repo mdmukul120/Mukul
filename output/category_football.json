@@ -1,50 +1,26 @@
 [
     {
-        "title": "Napoli vs Arsenal | UEFA Champions League 2026/27",
+        "title": "Fenerbahce vs Roma | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
-        "title": "Liverpool vs Atletico Madrid | UEFA Champions League 2026/27",
+        "title": "PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-    },
-    {
-        "title": "PSG vs Slovan Bratislava | UEFA Champions League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
     },
     {
-        "title": "SCP vs Galatasaray | UEFA Champions League 2026/27",
+        "title": "Fenerbahce Vs Roma | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg",
-        "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
-        "title": "Napoli Vs Arsenal | UEFA Champions League 2026/27",
+        "title": "PSV Vs Shakhtar Donetsk | UEFA Champions League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-    },
-    {
-        "title": "Liverpool Vs Atletico Madrid | UEFA Champions League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-    },
-    {
-        "title": "PSG Vs Slovan Bratislava | UEFA Champions League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-    },
-    {
-        "title": "SCP Vs Galatasaray | UEFA Champions League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg",
-        "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     }
 ]

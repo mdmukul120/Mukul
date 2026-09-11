@@ -1,33 +1,39 @@
 [
     {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Junior & Wheelchair Semifinals | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            },
-            {
-                "title": "Junior & Wheelchair Semifinals | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Cricket",
         "slug": "cricket",
-        "total_channels": 1,
+        "total_channels": 2,
         "channels": [
             {
                 "title": "Barbados Tridents vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            },
+            {
+                "title": "Barbados Tridents Vs St Kitts And Nevis Patriots | Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Tennis",
+        "slug": "tennis",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Women's Singles Semifinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890189821020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            },
+            {
+                "title": "Women'S Singles Semifinals | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890189821020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
             }
         ]
     },

@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket",England vs Pakistan | Pakistan Tour of England 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890193811020x576.jpg" group-title="Cricket",Dublin Guardians vs Edinburgh Castle Rockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket",England Vs Pakistan | Pakistan Tour Of England 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890193811020x576.jpg" group-title="Cricket",Dublin Guardians Vs Edinburgh Castle Rockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg" group-title="Football",Al Qadsiah vs Al-Ettifaq | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg" group-title="Football",Al Qadsiah Vs Al-Ettifaq | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890190991020x576.jpg" group-title="Tennis",Women's Doubles Final | US Open 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891359651020x576.jpg" group-title="Football",Al-Ahli vs Al-Hazem | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891361521020x576.jpg" group-title="Football",Sevilla vs Valencia | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891359651020x576.jpg" group-title="Football",Al-Ahli Vs Al-Hazem | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891361521020x576.jpg" group-title="Football",Sevilla Vs Valencia | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276241020x576.jpg" group-title="Tennis",Men's Singles Semifinal | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890190991020x576.jpg" group-title="Tennis",Women'S Doubles Final | US Open 2026
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276241020x576.jpg" group-title="Tennis",Men'S Singles Semifinal | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" group-title="Live Tv",T sports - server 1
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8

@@ -5,16 +5,35 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026",
+                "title": "Suzuka 1000 Qualifying Round Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891159911020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
-                "title": "Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026",
+                "title": "Suzuka 1000 Qualifying Round Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891159911020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Belfast Wolves Vs Rotterdam Dockers | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },

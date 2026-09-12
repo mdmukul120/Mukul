@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg" group-title="Cricket",Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg" group-title="Cricket",Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg" group-title="Cricket",Dublin Guardians Vs Glasgow Cosmic | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg" group-title="Cricket",Guyana Amazon Warriors Women Vs Trinbago Knight Riders Women | Women'S Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg" group-title="Cricket",Barbados Tridents Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg" group-title="Cricket",Barbados Tridents Women Vs Jamaica Empress Women | Women'S Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8

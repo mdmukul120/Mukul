@@ -1,26 +1,14 @@
 [
     {
-        "title": "Al-Ahli vs Al-Hazem | Saudi Pro League 2026/27",
+        "title": "Racing Santander vs Alaves | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891359651020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
-        "title": "Sevilla vs Valencia | LaLiga 2026/27",
+        "title": "Racing Santander Vs Alaves | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891361521020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-    },
-    {
-        "title": "Al-Ahli Vs Al-Hazem | Saudi Pro League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891359651020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-    },
-    {
-        "title": "Sevilla Vs Valencia | LaLiga 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891361521020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]

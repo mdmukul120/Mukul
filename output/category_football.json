@@ -1,14 +1,26 @@
 [
     {
-        "title": "Racing Santander vs Alaves | LaLiga 2026/27",
+        "title": "Osasuna vs Espanyol | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891565901020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
-        "title": "Racing Santander Vs Alaves | LaLiga 2026/27",
+        "title": "Osasuna Vs Espanyol | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891565901020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Al-Taawoun Vs Al-Hilal | Saudi Pro League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]

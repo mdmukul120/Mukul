@@ -1,57 +1,19 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Guyana Amazon Warriors vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890233181020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Guyana Amazon Warriors Vs Trinbago Knight Riders | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890233181020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Men's Singles Semifinal | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276661020x576.jpg",
-                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-            },
-            {
-                "title": "Men'S Singles Semifinal | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276661020x576.jpg",
-                "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Racing",
         "slug": "racing",
         "total_channels": 2,
         "channels": [
             {
-                "title": "Japan Cup Qualifying Round 1 and 2 Live | GT World Challenge EU & Asia 2026",
+                "title": "Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891102921020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
-                "title": "Japan Cup Qualifying Round 1 And 2 Live | GT World Challenge EU & Asia 2026",
+                "title": "Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891102921020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             }
         ]

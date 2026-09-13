@@ -1,20 +1,39 @@
 [
     {
+        "category": "Tennis",
+        "slug": "tennis",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Men's Singles Final | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            },
+            {
+                "title": "Men'S Singles Final | US Open 2026",
+                "category": "Tennis",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Cricket",
         "slug": "cricket",
         "total_channels": 2,
         "channels": [
             {
-                "title": "India vs Afghanistan | India Tour of Afghanistan 2026",
+                "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             },
             {
-                "title": "India Vs Afghanistan | India Tour Of Afghanistan 2026",
+                "title": "Barbados Tridents Women Vs Guyana Amazon Warriors Women | Women'S Caribbean Premier League 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
             }
         ]
     },
@@ -24,35 +43,16 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Getafe vs Deportivo | LaLiga 2026/27",
+                "title": "Real Sociedad vs Atletico Madrid | LaLiga 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892144341020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893212971020.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "Getafe Vs Deportivo | LaLiga 2026/27",
+                "title": "Real Sociedad Vs Atletico Madrid | LaLiga 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892144341020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Tennis",
-        "slug": "tennis",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Championship Sunday Show | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891308311020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-            },
-            {
-                "title": "Championship Sunday Show | US Open 2026",
-                "category": "Tennis",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891308311020x576.jpg",
-                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893212971020.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
             }
         ]
     },

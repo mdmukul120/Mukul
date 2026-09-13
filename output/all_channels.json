@@ -1,24 +1,5 @@
 [
     {
-        "category": "Mma",
-        "slug": "mma",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Silva vs Delgado | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            },
-            {
-                "title": "Silva Vs Delgado | UFC 2026",
-                "category": "Mma",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Cricket",
         "slug": "cricket",
         "total_channels": 2,
@@ -43,15 +24,15 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Japan Cup Race 2 Live | GT World Challenge EU & Asia 2026",
+                "title": "Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892415571020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             },
             {
-                "title": "Japan Cup Race 2 Live | GT World Challenge EU & Asia 2026",
+                "title": "Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026",
                 "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892415571020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg",
                 "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
             }
         ]

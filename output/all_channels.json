@@ -1,24 +1,5 @@
 [
     {
-        "category": "Cricket",
-        "slug": "cricket",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            },
-            {
-                "title": "Barbados Tridents Vs Jamaica Kingsmen | Caribbean Premier League 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Racing",
         "slug": "racing",
         "total_channels": 2,

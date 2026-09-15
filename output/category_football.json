@@ -1,26 +1,38 @@
 [
     {
-        "title": "Golgohar Sirjan SC vs Al Jazira Club Live | AFC Champions League Two 2026/27",
+        "title": "Rayo Vallecano vs Espanyol | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894594931020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
     },
     {
-        "title": "FC Arkadag vs Al Muharraq SC Live | AFC Champions League Two 2026/27",
+        "title": "Alaves vs Valencia | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894598311020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894707701020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Golgohar Sirjan SC Vs Al Jazira Club Live | AFC Champions League Two 2026/27",
+        "title": "Al Hilal SFC vs Al Gharafa SC Live | AFC Champions League Elite 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894594931020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894571471020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
-        "title": "FC Arkadag Vs Al Muharraq SC Live | AFC Champions League Two 2026/27",
+        "title": "Rayo Vallecano Vs Espanyol | LaLiga 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894598311020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Alaves Vs Valencia | LaLiga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894707701020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "Al Hilal SFC Vs Al Gharafa SC Live | AFC Champions League Elite 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894571471020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     }
 ]

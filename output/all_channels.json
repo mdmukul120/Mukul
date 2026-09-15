@@ -1,5 +1,79 @@
 [
     {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 4,
+        "channels": [
+            {
+                "title": "Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            },
+            {
+                "title": "Zimbabwe Vs Australia | Australia Tour Of Zimbabwe 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            },
+            {
+                "title": "Amsterdam Flames Vs Dublin Guardians | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 6,
+        "channels": [
+            {
+                "title": "Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            },
+            {
+                "title": "Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            },
+            {
+                "title": "Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+            },
+            {
+                "title": "Kashima Antlers Vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            },
+            {
+                "title": "Daejeon Hana Citizen Vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            },
+            {
+                "title": "Gamba Osaka Vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+            }
+        ]
+    },
+    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 76,

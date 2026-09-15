@@ -6,10 +6,16 @@
         "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
     },
     {
-        "title": "Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026",
+        "title": "Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026",
         "category": "Cricket",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
-        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "India vs Afghanistan | India Tour of Afghanistan 2026",
+        "category": "Cricket",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
         "title": "Zimbabwe Vs Australia | Australia Tour Of Zimbabwe 2026",
@@ -18,9 +24,15 @@
         "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
     },
     {
-        "title": "Amsterdam Flames Vs Dublin Guardians | European T20 Premier League 2026",
+        "title": "Edinburgh Castle Rockers Vs Rotterdam Dockers | European T20 Premier League 2026",
         "category": "Cricket",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
-        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+        "title": "India Vs Afghanistan | India Tour Of Afghanistan 2026",
+        "category": "Cricket",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     }
 ]

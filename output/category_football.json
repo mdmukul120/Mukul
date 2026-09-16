@@ -1,26 +1,50 @@
 [
     {
-        "title": "Port FC vs Vissel Kobe Live | AFC Champions League Elite 2026/27",
+        "title": "Al Hussein vs East Bengal FC Live | AFC Champions League Two 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895422821020x576.jpg",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
     },
     {
-        "title": "The Cong - Viettel FC vs Melbourne Victory FC Live | AFC Champions League Two 2026/27",
+        "title": "Al Wahda FC vs Kuwait SC Live | AFC Champions League Two 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895435431020x576.jpg",
         "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
     },
     {
-        "title": "Port FC Vs Vissel Kobe Live | AFC Champions League Elite 2026/27",
+        "title": "Al Khaldiya SC vs PFC Nasaf Live | AFC Champions League Two 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895444071020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
-        "title": "The Cong - Viettel FC Vs Melbourne Victory FC Live | AFC Champions League Two 2026/27",
+        "title": "Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg",
+        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+        "title": "Omonoia vs Celta | UEFA Europa League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894729601020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+    },
+    {
+        "title": "Ararat-Armenia vs Sparta Praha | UEFA Europa League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+        "title": "Atletico Madrid vs Osasuna | LaLiga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+    },
+    {
+        "title": "Deportivo vs Sevilla | LaLiga 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     }
 ]

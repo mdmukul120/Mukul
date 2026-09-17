@@ -5,16 +5,65 @@
         "total_channels": 2,
         "channels": [
             {
-                "title": "Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026",
+                "title": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
                 "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 7,
+        "channels": [
+            {
+                "title": "Celtic vs Ferencvaros | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896470611020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
             },
             {
-                "title": "India vs Afghanistan | India Tour of Afghanistan 2026",
-                "category": "Cricket",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg",
+                "title": "Juventus vs NEC | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896472041020x576.jpg",
                 "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+                "title": "Viktoria Plzen vs Union | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896475341020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+            },
+            {
+                "title": "Besiktas vs Marseille | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896476851020x576.jpg",
+                "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            },
+            {
+                "title": "Lillestrom vs Torreense | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896478301020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            },
+            {
+                "title": "Palace vs Lech Poznan | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896479901020x576.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+            },
+            {
+                "title": "Real Sociedad vs Bournemouth | UEFA Europa League 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg",
+                "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
             }
         ]
     },

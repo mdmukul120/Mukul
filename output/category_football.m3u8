@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg" group-title="Football",Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg" group-title="Football",Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg" group-title="Football",Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg" group-title="Football",PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897166931020x576.jpg" group-title="Football",Espanyol vs Elche | LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897589461020.jpeg" group-title="Football",Monaco vs Lens | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8

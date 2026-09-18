@@ -1,44 +1,26 @@
 [
     {
-        "title": "Celtic vs Ferencvaros | UEFA Europa League 2026/27",
+        "title": "Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896470611020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg",
+        "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
-        "title": "Juventus vs NEC | UEFA Europa League 2026/27",
+        "title": "Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896472041020x576.jpg",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+    },
+    {
+        "title": "Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27",
+        "category": "Football",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg",
         "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-        "title": "Viktoria Plzen vs Union | UEFA Europa League 2026/27",
+        "title": "PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27",
         "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896475341020x576.jpg",
-        "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-    },
-    {
-        "title": "Besiktas vs Marseille | UEFA Europa League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896476851020x576.jpg",
-        "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-    },
-    {
-        "title": "Lillestrom vs Torreense | UEFA Europa League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896478301020x576.jpg",
-        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
-        "title": "Palace vs Lech Poznan | UEFA Europa League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896479901020x576.jpg",
-        "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-    },
-    {
-        "title": "Real Sociedad vs Bournemouth | UEFA Europa League 2026/27",
-        "category": "Football",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg",
-        "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
     }
 ]

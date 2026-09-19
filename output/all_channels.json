@@ -1,24 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 2,
-        "channels": [
-            {
-                "title": "Sevilla vs Barcelona | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898316371020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            },
-            {
-                "title": "OL vs Rennes | French Ligue 1 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Live Tv",
         "slug": "live_tv",
         "total_channels": 76,

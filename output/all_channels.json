@@ -1,31 +1,5 @@
 [
     {
-        "category": "Football",
-        "slug": "football",
-        "total_channels": 1,
-        "channels": [
-            {
-                "title": "Osasuna vs Rayo Vallecano | LaLiga 2026/27",
-                "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Racing",
-        "slug": "racing",
-        "total_channels": 1,
-        "channels": [
-            {
-                "title": "GT World Challenge powered by AWS - Race 1 | GT World Challenge EU & Asia 2026",
-                "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897682321020-23andlast.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Cricket",
         "slug": "cricket",
         "total_channels": 2,
@@ -41,6 +15,38 @@
                 "category": "Cricket",
                 "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg",
                 "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Football",
+        "slug": "football",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Athletic vs Alaves | LaLiga 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897168551020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            },
+            {
+                "title": "Paris FC vs Strasbourg | French Ligue 1 2026/27",
+                "category": "Football",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Racing",
+        "slug": "racing",
+        "total_channels": 1,
+        "channels": [
+            {
+                "title": "GT4 European Series - Race 1 | GT World Challenge EU & Asia 2026",
+                "category": "Racing",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897700091020-23andlast.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
             }
         ]
     },

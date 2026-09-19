@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg" group-title="Football",Osasuna vs Rayo Vallecano | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897168551020x576.jpg" group-title="Football",Athletic vs Alaves | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg" group-title="Football",Paris FC vs Strasbourg | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8

@@ -1,27 +1,46 @@
 [
     {
-        "category": "Racing",
-        "slug": "racing",
-        "total_channels": 1,
-        "channels": [
-            {
-                "title": "Porsche Carrera Cup France - Qualifying | GT World Challenge EU & Asia 2026",
-                "category": "Racing",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897653711020-23andlast.jpg",
-                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            }
-        ]
-    },
-    {
         "category": "Football",
         "slug": "football",
         "total_channels": 1,
         "channels": [
             {
-                "title": "Arambagh Krira Shangha vs Bashundhara Kings | Bangladesh Football League 2026/27",
+                "title": "Osasuna vs Rayo Vallecano | LaLiga 2026/27",
                 "category": "Football",
-                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163791020x576.jpg",
-                "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg",
+                "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Racing",
+        "slug": "racing",
+        "total_channels": 1,
+        "channels": [
+            {
+                "title": "GT World Challenge powered by AWS - Race 1 | GT World Challenge EU & Asia 2026",
+                "category": "Racing",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897682321020-23andlast.jpg",
+                "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Cricket",
+        "slug": "cricket",
+        "total_channels": 2,
+        "channels": [
+            {
+                "title": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897340941020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+            },
+            {
+                "title": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
+                "category": "Cricket",
+                "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg",
+                "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
             }
         ]
     },

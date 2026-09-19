@@ -1,8 +1,14 @@
 [
     {
-        "title": "Guyana Amazon Warriors vs Jamaica Kingsmen | Caribbean Premier League 2026",
+        "title": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
         "category": "Cricket",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897337221020x576.jpg",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897340941020x576.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+    },
+    {
+        "title": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
+        "category": "Cricket",
+        "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg",
+        "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
     }
 ]

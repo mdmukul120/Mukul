@@ -1,15 +1,70 @@
 [
     {
-        "category": "Live Tv",
-        "slug": "live_tv",
-        "total_channels": 76,
+        "category": "Sports",
+        "slug": "sports",
+        "total_channels": 9,
         "channels": [
             {
-                "title": "T sports - server 1",
-                "category": "Live TV",
+                "title": "T sports",
+                "category": "sports",
                 "logo": "https://i.postimg.cc/rp4WHTQB/1630662269264.jpg",
-                "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+                "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8"
             },
+            {
+                "title": "Sports Tennis",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
+            },
+            {
+                "title": "Outside TV",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
+            },
+            {
+                "title": "Trace Sports",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "CY Dubai",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8"
+            },
+            {
+                "title": "Moto Racing",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8"
+            },
+            {
+                "title": "Sports Connect",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
+            },
+            {
+                "title": "Court Sports Network",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/7c96e8a8-9be8-487f-9509-cb2fa31f35d4/1.m3u8"
+            },
+            {
+                "title": "KIK Sports",
+                "category": "Sports",
+                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
+                "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/kiksp.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "category": "Live Tv",
+        "slug": "live_tv",
+        "total_channels": 75,
+        "channels": [
             {
                 "title": "TEN Cricket",
                 "category": "Live TV",
@@ -535,7 +590,7 @@
                 "title": "Star Sports 2",
                 "category": "Star Sports",
                 "logo": "https://medianet.mv/media/channel/179x0-icon.png",
-                "url": "https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0xMTU.m3u8"
+                "url": "https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8"
             },
             {
                 "title": "Star Sports select  1",
@@ -1002,61 +1057,6 @@
                 "category": "IPTV",
                 "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
                 "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/parbototv.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "category": "Sports",
-        "slug": "sports",
-        "total_channels": 8,
-        "channels": [
-            {
-                "title": "Sports Tennis",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
-            },
-            {
-                "title": "Outside TV",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
-            },
-            {
-                "title": "Trace Sports",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
-            },
-            {
-                "title": "CY Dubai",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8"
-            },
-            {
-                "title": "Moto Racing",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8"
-            },
-            {
-                "title": "Sports Connect",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8"
-            },
-            {
-                "title": "Court Sports Network",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/7c96e8a8-9be8-487f-9509-cb2fa31f35d4/1.m3u8"
-            },
-            {
-                "title": "KIK Sports",
-                "category": "Sports",
-                "logo": "https://i.postimg.cc/pdDTZFjr/image.png",
-                "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/kiksp.stream/playlist.m3u8"
             }
         ]
     },
